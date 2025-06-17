@@ -1,0 +1,501 @@
+Company Name,Batch,Short Description
+DoorDash,Summer 2013ConsumerFood and Beverage,Restaurant delivery.
+Airbnb,"Winter 2009ConsumerTravel, Leisure and Tourism",Book accommodations around the world.
+Coinbase,Summer 2012FintechBanking and Exchange,"Buy, sell, and manage cryptocurrencies."
+Instacart,Summer 2012ConsumerFood and Beverage,Marketplace for grocery delivery and pickup
+Oklo,Summer 2014IndustrialsEnergy,"Emission free, always on power from advanced fission power plants."
+Dropbox,Summer 2007B2BProductivity,Backup and share files in the cloud.
+GitLab,"Winter 2015B2BEngineering, Product and Design",A complete DevOps platform delivered as a single application.
+Rigetti Computing,Summer 2014IndustrialsManufacturing and Robotics,Quantum coherent supercomputing.
+Matterport,Winter 2012ConsumerVirtual and Augmented Reality,Turn physical objects and environments into 3D models in seconds.
+Amplitude,Winter 2012B2BAnalytics,Digital Analytics Platform
+PagerDuty,"Summer 2010B2BEngineering, Product and Design",Real-time visibility into critical apps and services all in one place.
+Weave,Winter 2014B2BOffice Management,Customer communication and payments platform.
+Ginkgo Bioworks,Summer 2014HealthcareIndustrial Bio,Our mission is to make biology easier to engineer.
+Pardes Biosciences,Summer 2020HealthcareDrug Discovery and Delivery,We break viruses
+Embark Trucks,Winter 2016IndustrialsAutomotive,Self-driving semi trucks.
+Lucira Health,Winter 2015HealthcareDiagnostics,Next generation infectious disease test kits
+Momentus,Summer 2018IndustrialsAviation and Space,The space infrastructure services company
+Segment,Summer 2011B2BAnalytics,"Software and APIs to collect, clean, and control customer data."
+Algolia,"Winter 2014B2BEngineering, Product and Design",A developer-friendly and enterprise-grade search API.
+Truebill,Winter 2016FintechConsumer Finance,Live your best financial life
+Twitch,Winter 2007ConsumerContent,A global community creating the future of live entertainment.
+PlanGrid,Winter 2012Real Estate and ConstructionConstruction,Mobile applications for the construction industry.
+Bellabeat,Winter 2014ConsumerConsumer Electronics,Tech-powered women's wellness.
+Cruise,Winter 2014IndustrialsAutomotive,Self-driving cars.
+Benchling,Summer 2012B2B,Unlocking the power of biotech with modern software for modern science
+Casetext,Summer 2013B2BLegal,We make the world's laws free and understandable.
+Bird,"Summer 2016B2BEngineering, Product and Design",The world’s largest omnichannel communications platform
+Brex,Winter 2017FintechBanking and Exchange,"Business accounts, corporate cards, and spend management software."
+The Athletic,Summer 2016ConsumerContent,Subscription sports media.
+Codecademy,Summer 2011Education,The leading online learning platform for technical skills.
+Checkr,Summer 2014B2BHuman Resources,People infrastructure for the future of work
+Lever,Summer 2012B2BRecruiting and Talent,Talent Acquisition Suite that combines ATS + Talent CRM
+Clipboard Health,Winter 2017HealthcareHealthcare Services,Connects healthcare facilities with nurses nearby.
+Heap,Winter 2013B2BAnalytics,Captures user interactions with no code to generate analytics.
+Sendwave,Winter 2012FintechPayments,"Instant, no fee international remittances."
+Deel,Winter 2019B2BFinance and Accounting,The all-in-one HR and payroll platform for global teams
+Clever,Summer 2012Education,The platform that powers technology in the classroom.
+Caper,Winter 2016B2BRetail,Plug-and-play cashier-less retail powered by computer vision and AI
+EquipmentShare,Winter 2015Real Estate and ConstructionConstruction,Cloud solutions for the construction industry.
+Reddit,Summer 2005ConsumerContent,The frontpage of the internet.
+Fivestars,Winter 2011B2BRetail,Customer loyalty and payments platform for small businesses.
+Machine Zone,Winter 2008ConsumerGaming,Pioneers of mobile social gaming.
+Faire,Winter 2017B2BRetail,The global online platform empowering independent retail.
+Fivetran,Winter 2013B2BInfrastructure,The leader in automated data movement
+Optimizely,"Winter 2010B2BEngineering, Product and Design",The first all-in-one operating system for marketing
+Flexport,Winter 2014B2BSupply Chain and Logistics,Platform for global logistics.
+WePay,Summer 2009FintechPayments,Payments for platform businesses.
+Weebly,Winter 2007B2BMarketing,Build a free website that grows with your business.
+Flock Safety,"Summer 2017B2BEngineering, Product and Design",The first public safety operating system that eliminates crime.
+Sqreen,Winter 2018B2BSecurity,Sqreen is the application security platform for the modern enterprise
+NURX,Winter 2016HealthcareConsumer Health and Wellness,"Medicine or testing kit, prescribed online and delivered to your door."
+Go1,Summer 2015B2BHuman Resources,A learning platform that enables you to train your staff or customers.
+CoreOS,Summer 2013B2BInfrastructure,Open source tools of modern distributed systems.
+Bear Flag Robotics,Winter 2018IndustrialsAgriculture,Autonomous driving technology for farm tractors.
+GOAT Group,Winter 2011ConsumerApparel and Cosmetics,"Platform for the greatest products from the past, present and future."
+Heroku,Winter 2008B2BInfrastructure,Enabling developers to build and run applications in the cloud.
+Groww,Winter 2018FintechAsset Management,"Making financial services simple, transparent and delightful."
+GrubMarket,Winter 2015B2BSupply Chain and Logistics,AI-powered technology enabler and digital transformer of American…
+HelloSign,Winter 2011B2BProductivity,eSignature software for small and mid-market businesses.
+Zenefits,Winter 2013B2BHuman Resources,"HR for small businesses: onboarding, payroll and benefits."
+Gusto,Winter 2012B2BHuman Resources,Provides growing businesses with everything to take care of their team
+Honeylove,Summer 2018ConsumerApparel and Cosmetics,Honeylove makes functional undergarments for women
+Modern Fertility,Summer 2017HealthcareConsumer Health and Wellness,At-home fertility test for women who aren't ready for kids right now…
+Cognito,"Summer 2014B2BEngineering, Product and Design","Frictionless, modern identity verification that starts with just a…"
+OpenInvest,Summer 2015Fintech,Values based personalization at scale for asset and wealth management
+Meesho,Summer 2016B2BRetail,Democratizing internet commerce for everyone in India
+Mixpanel,Summer 2009B2BAnalytics,Mixpanel is event analytics for builders that need answers.
+Paystack,Winter 2016FintechPayments,Modern payments infrastructure for Africa
+Moxion Power Co.,Winter 2021IndustrialsEnergy,Mobile Energy Storage Technology
+DrChrono,Winter 2011HealthcareHealthcare IT,The essential platform for modern medical practices and patients.
+OMGPop,Summer 2006ConsumerGaming,An independent flash game studio.
+Newfront,Winter 2018FintechInsurance,Modern insurance brokerage.
+North,Winter 2013ConsumerVirtual and Augmented Reality,Wearable computing hardware: biosignal gesture recognition
+Nowports,Winter 2019B2BSupply Chain and Logistics,The core engine of supply chain in LATAM
+Odeko,Summer 2019B2B,Our operations software makes it easier to run--and grow--your cafe
+GitPrime,"Winter 2016B2BEngineering, Product and Design",Visibility and analytics for software development leaders.
+Proxy,Summer 2016ConsumerConsumer Electronics,Smart ring digital wallet
+FutureAdvisor,Summer 2010FintechConsumer Finance,The online financial management service for everyone.
+Podium,Winter 2016B2BRetail,Get more leads. Make more money.
+Rappi,Winter 2016ConsumerFood and Beverage,On-demand delivery and financial services for Latin America.
+Razorpay,Winter 2015FintechPayments,India's only full-stack financial solutions company for businesses.
+Rippling,Winter 2017B2BHuman Resources,"One place to run all your HR, IT, and Finance. Globally."
+Scale AI,"Summer 2016B2BEngineering, Product and Design",Data-centric infrastructure to accelerate the development of AI
+Scentbird,Summer 2015ConsumerApparel and Cosmetics,Scentbird is a luxury fragrance subscription service.
+Scribd,Summer 2006ConsumerContent,World's largest online library.
+ShipBob,Summer 2014B2BSupply Chain and Logistics,Providing Amazon level logistics to e-commerce businesses.
+SmartAsset,Summer 2012FintechConsumer Finance,Marketplace connecting consumers to financial advisors
+Stripe,Summer 2009Fintech,Economic infrastructure for the internet.
+Wave,Winter 2012FintechPayments,Mobile money app for Africa
+Webflow,Summer 2013B2BMarketing,Professional website design and publishing platform.
+Whatnot,Winter 2020Consumer,Whatnot is the largest livestream shopping platform in the U.S.
+Zapier,Summer 2012B2BProductivity,The easiest way to automate your work.
+Zepto,Winter 2021ConsumerFood and Beverage,10-Minute Grocery Delivery in India
+Focal Systems,Winter 2016B2BRetail,Building the Operating System for B&M Retail using Deep Learning
+Mio,"Winter 2016B2BEngineering, Product and Design",Mio powers seamless communication between workplace chat apps.
+Daily,Winter 2016B2BProductivity,Conversational Voice and Multimodal AI built with Open Source
+Petcube,Winter 2016ConsumerConsumer Electronics,Petcube is on the mission to improve lives of pets and pet owners…
+Outschool,Winter 2016Education,A live online learning platform that empowers kids ages 3–18.
+Mason,Winter 2016B2B,Mason is the fastest way to take smart devices from idea to end user
+MagicBus,Winter 2016ConsumerTransportation Services,We make vanpool simple.
+Tovala,Winter 2016ConsumerHome and Personal,A smart-oven-paired subscription meal service.
+iSono Health,Winter 2016HealthcareMedical Devices,AI-powered platform for Accessible and Personalized Breast Health…
+GetAccept,Winter 2016B2BSales,Close deals faster. Digitally.
+Chatfuel,"Winter 2016B2BEngineering, Product and Design",Platform to easily create chatbots to engage with audiences on…
+Yardbook,Winter 2016B2BFinance and Accounting,Marketplace & Software Revolutionizing Yard Care
+GoCardless,Summer 2011FintechConsumer Finance,We’re building the world’s bank payment network.
+Stealth Worker,Winter 2016B2BRecruiting and Talent,"Information Security (Cyber Security), Compliance and Privacy (GDPR &…"
+Deepgram,"Winter 2016B2BEngineering, Product and Design",Building foundational AI for speech transcription and understanding.
+SOUNDBOKS,Winter 2016ConsumerConsumer Electronics,We're creating the loudest battery-driven speaker on the market
+Lattice,Winter 2016B2BHuman Resources,Modern people management platform.
+Mux,Winter 2016B2BInfrastructure,Video infrastructure for developers
+Human Interest,Summer 2015B2BHuman Resources,The 401(k) for small and medium-sized businesses.
+Flirtey (SkyDrop),Summer 2015IndustrialsDrones,Flirtey is the world’s first commercial drone delivery service and…
+Eight Sleep,Summer 2015ConsumerHome and Personal,The sleep fitness company.
+Instawork,Summer 2015B2BRecruiting and Talent,A flexible work app that connects businesses with hourly workers.
+Cofactor Genomics,Summer 2015HealthcareDiagnostics,Cofactor closes the precision medicine gap with predictive diagnostics
+Click & Grow,Summer 2015ConsumerHome and Personal,Click & Grow makes indoor urban gardens and farms that take complete…
+Bitmovin,Summer 2015B2BInfrastructure,Powers OTT online video providers with video developer tools.
+TetraScience,Summer 2015HealthcareHealthcare IT,The only R&D data cloud for life sciences
+The Ticket Fairy,"Summer 2015ConsumerTravel, Leisure and Tourism",Revenue generation for live events
+Font Awesome,"Summer 2015B2BEngineering, Product and Design",Icons and social logos for your website.
+"80,000 Hours",Summer 2015Unspecified,An online guide that tells talented graduates how to maximise the…
+Xendit,Summer 2015FintechPayments,Provides payment infrastructure for Southeast Asia
+Shred Video,Summer 2015ConsumerContent,Shred Video builds automated video & photo systems that allow…
+Shape (ShapeScale),Summer 2015ConsumerConsumer Electronics,ShapeScale is a personal 3D scanner and fitness tracker that…
+RedCarpetUp,Summer 2015FintechConsumer Finance,Credit cards for Indians that banks cannot see
+Plate IQ,Summer 2015FintechPayments,Automated Accounts Payable
+PickTrace,Summer 2015IndustrialsAgriculture,Workforce Management for Large Farms
+Fountain,Summer 2015B2BRecruiting and Talent,High volume hiring made simple
+MicroHealth,Summer 2015HealthcareConsumer Health and Wellness,Digital hematology
+Zeplin,"Summer 2015B2BEngineering, Product and Design",Deliver on the Promise of Design
+Markhor,Summer 2015ConsumerApparel and Cosmetics,Markhor is a DTC company that works with craftsmen to make shoes and…
+Circle Medical,Summer 2015HealthcareConsumer Health and Wellness,Modern primary care via video and in-person
+GiveCampus,Summer 2015Education,The fundraising platform for schools.
+Drip Capital,Summer 2015FintechCredit and Lending,Digital trade financing for small businesses
+Chaldal,Summer 2015ConsumerFood and Beverage,
+Clerky,Summer 2011B2BLegal,Makes legal paperwork easy for startups and their attorneys.
+Bodyport,Summer 2015HealthcareConsumer Health and Wellness,Predicting and preventing heart disease.
+Verge Genomics,Summer 2015HealthcareDrug Discovery and Delivery,We use human data and AI to develop better drugs faster.
+Thrive Agritech,Summer 2015IndustrialsAgriculture,We design and manufacture energy efficient LED lighting fixtures for…
+Tesorio,Summer 2015B2BFinance and Accounting,Tesorio is the cash flow performance platform that helps finance…
+AgileMD,Summer 2011HealthcareHealthcare IT,Predictive analytics and clinical pathways for hospitals
+Reach Labs,Summer 2015IndustrialsEnergy,"Long range, wireless energy distribution that scales"
+SunFarmer,Summer 2015IndustrialsClimate,Reliable and affordable solar energy in developing countries.
+Confident LIMS,Summer 2015B2BOperations,Laboratory Information Management System (LIMS) serving…
+Branch8,Summer 2015B2BRetail,Branch8 helps sellers to list and manage products on e-commerce…
+Heroic Labs,Summer 2015ConsumerGaming,"Social Infrastructure for Games; Makers of Nakama game server, Satori…"
+SnapMagic,"Summer 2015B2BEngineering, Product and Design",AI copilot for electronics design
+Scope AR,Summer 2015ConsumerVirtual and Augmented Reality,Scope AR is the leading provider of User Guided Augmented Reality…
+PartnerStack,Summer 2015B2BMarketing,PartnerStack is a full stack solution for partnerships.
+Assembly,Summer 2015B2BSupply Chain and Logistics,Advanced manufacturing and distribution solutions (for China-based…
+Gemnote,Summer 2015B2BOffice Management,"Gemnote is the easiest way to design, create and send custom products."
+New Story,Summer 2015Real Estate and Construction,We pioneer solutions to end the global housing crisis by empowering…
+Ironclad,Summer 2015B2BLegal,Digital contracting platform for legal teams.
+Leaders In Tech (formerly InnerSpace),Summer 2015Unspecified,"Helping founders improve themselves, their companies, and the world."
+teaBOT,Summer 2015B2BHuman Resources,A robot that makes tea!
+Teleport,Summer 2015B2BInfrastructure,"The easiest, most secure way to access all your infrastructure"
+Lugg,Summer 2015ConsumerHome and Personal,"Move anything, anytime, anywhere"
+Shasqi,Winter 2015HealthcareDrug Discovery and Delivery,Targeting Cancer with Click Chemistry
+Mashgin,Winter 2015B2BRetail,Self-Checkout using Computer Vision.
+NimbleRx,Winter 2015HealthcareConsumer Health and Wellness,On-demand prescription delivery.
+Quartzy,Summer 2011HealthcareHealthcare IT,Marketplace for life science supplies.
+Replika,Winter 2015ConsumerContent,Replika is an AI friend that you can talk to designed to make you…
+Tara AI,Winter 2015B2BProductivity,"Meet Tara AI, your new engineering efficiency co-pilot."
+Flip,Winter 2015ConsumerApparel and Cosmetics,Community-driven marketplace for sneakers.
+X-Zell,Winter 2015HealthcareDiagnostics,"Early, pain-free cancer detection."
+Zenflow,Winter 2015HealthcareMedical Devices,"Medical device that provides a more effective, less invasive…"
+Tab,"Winter 2015ConsumerTravel, Leisure and Tourism","Revolutionising the way travellers discover, plan and book a trip"
+Priime,Winter 2015ConsumerSocial,Priime is a company dedicated to advancements in technology around…
+Streak,Summer 2011B2BSales,Streak transforms Gmail into a powerful CRM
+Meadow,Winter 2015B2BRetail,Point of Sale and Compliance SaaS for Cannabis Dispensaries
+Level Frames,Winter 2015ConsumerHome and Personal,Software eats custom framing
+Industrial Microbes,Winter 2015HealthcareIndustrial Bio,We design and build microbes to make chemicals greener at lower cost.
+Giveffect,Winter 2015B2BFinance and Accounting,"Fundraising, Volunteer and Donor Management SaaS for nonprofits."
+eBrandvalue,Winter 2015B2BMarketing,Real-time Nielsen ratings for Brands.Accelerate marketing and product…
+Quantierra,Winter 2015Real Estate and ConstructionHousing and Real Estate,Sourcing investment real estate
+Cleanly,Winter 2015ConsumerHome and Personal,Laundry & Dry Cleaning delivered.
+Resolve,Winter 2015Real Estate and ConstructionConstruction,"VR simulations for operations, maintenance and construction teams."
+Makrwatch,Winter 2015B2BMarketing,Scale new user acquisition with YouTube Creators
+TeamNote,Winter 2015B2BProductivity,Mobile Productivity(Slack for mobile workforces)
+Tempo,Winter 2015HealthcareConsumer Health and Wellness,Live home fitness training powered by computer vision.
+SIRUM,Winter 2015Unspecified,SIRUM is a “match.com” for unused medicine. We connect institutional…
+Sails Co.,"Winter 2015B2BEngineering, Product and Design","Full-service web, mobile, & cloud studio providing professional…"
+ReadMe,"Winter 2015B2BEngineering, Product and Design","Beautiful, personalized, interactive developer hubs"
+BuildScience,Winter 2015Real Estate and ConstructionHousing and Real Estate,The operating system for commercial buildings.
+Platzi,Winter 2015Education,Latin America's School of Technology
+Labdoor,Winter 2015ConsumerFood and Beverage,Labdoor is building the trusted online drugstore.
+GiveMeTap,Winter 2015ConsumerHome and Personal,We produce & sell stainless steel water bottles that enables people…
+Bankjoy,Winter 2015FintechBanking and Exchange,An end-to-end digital banking solution for banks and credit unions
+Zeitview,Winter 2015IndustrialsDrones,Inspection software for renewable energy & sustainable infrastructure
+The Human Utility,Winter 2015Unspecified,The Human Utility seeks to eliminate water service disconnections for…
+Democracy Earth,Winter 2015Unspecified,Censorship resistant democracies.
+OneSignal,Summer 2011B2BMarketing,Engage customers through personalized omni-channel messaging
+Atomwise,Winter 2015HealthcareDrug Discovery and Delivery,Artificial intelligence for drug discovery.
+Bright,Winter 2015IndustrialsEnergy,Sunrun for the developing world
+Magic,Winter 2015B2B,Extremely talented assistants for busy people
+Mezmo,Winter 2015B2BInfrastructure,Observability platform to control all of your log data
+Akido Labs,Winter 2015HealthcareHealthcare IT,Rebuilding healthcare with AI at the core
+Qventus,Winter 2015HealthcareHealthcare IT,We automate operations for hospitals and health systems
+Bayes Impact,Summer 2014Unspecified,Tech nonprofit building the future of public services.
+Helion Energy,Summer 2014IndustrialsEnergy,Building the world's first fusion power plant
+HackerRank,Summer 2011B2BRecruiting and Talent,Change the world to value skills over pedigree
+Front,Summer 2014B2BProductivity,Customer communications hub for building strong relationships
+Apollo,Summer 2011B2BInfrastructure,Apollo helps engineering teams accelerate delivery
+Roomstorm,"Summer 2014ConsumerTravel, Leisure and Tourism",Real time B2B hotel room marketplace for various industries…
+Hive,Summer 2014B2BMarketing,"Marketing automation for event promoters (email, sms, ads, CRM)"
+Tenjin,Summer 2014B2BMarketing,Mobile marketing analytics and infrastructure
+SpotAngels,Summer 2014ConsumerTransportation Services,Waze for parking
+UserGems,Summer 2014B2BRecruiting and Talent,AI-powered sales solution based on your best customers
+SFOX,Summer 2014FintechBanking and Exchange,Crypto-currency trading platform.
+PicnicHealth,Summer 2014Healthcare,Empowering Patients for Deep Real World Data
+Permutive,Summer 2014B2BMarketing,Rebuilding data in advertising to protect privacy
+Alchemy,Summer 2014IndustrialsManufacturing and Robotics,Nanotechnology-enabled coatings for automotive and defence sectors
+MTailor,Summer 2014ConsumerApparel and Cosmetics,Get measured by your phone in under 30 seconds for perfect fitting…
+MetricWire,Summer 2014HealthcareHealthcare IT,Mobile surveys for researchers
+Protocol Labs,Summer 2014B2BInfrastructure,"Protocol Labs makes internet protocols: IPFS, Filecoin, and more."
+Greentoe,Summer 2014ConsumerConsumer Electronics,"""Name Your Price"" for products"
+Hyperpad,Summer 2014ConsumerGaming,"Create, Share, Play Mobile Games on the iPad."
+Flaviar,Summer 2014ConsumerFood and Beverage,Try-at-home service for fine spirits
+Clear,Summer 2014FintechConsumer Finance,"Fintech SaaS platform for invoices, taxes, wealth management & credit."
+Billforward,Summer 2014FintechPayments,"Subscription billing, rate plan management and analytics as a…"
+Backpack,Summer 2014ConsumerHome and Personal,Marketplace to get stuff from overseas
+Aptible,Summer 2014B2BInfrastructure,The No Infrastructure Platform as a Service
+Immunity Project,Winter 2014Unspecified,The free HIV vaccine.
+Dyspatch,Winter 2014B2BMarketing,Two products to help everyone email better. Dyspatch.io - Email…
+OpenCurriculum,Winter 2014Unspecified,Helping K-12 teachers and school administrators build awesome…
+MixerBox,Winter 2014Consumer,AI Super-Apps to Live Easier | The anything anytime superapps…
+Unbabel,Winter 2014B2BOperations,AI-powered Language Operations platform
+Y Combinator,Fintech,Not your average fixed point combinator.
+GBatteries,Winter 2014IndustrialsClimate,Enabling li-ion batteries to charge ultra fast without compromising…
+Zinc,Winter 2014B2BRetail,The secret backbone of e-commerce.
+Zidisha,Winter 2014FintechCredit and Lending,Direct P2P lending across the international wealth divide.
+TrueVault,Winter 2014B2B,We make Privacy Software for SMBs.
+Guesty,Winter 2014Real Estate and ConstructionHousing and Real Estate,The management platform for the short term rental industry.
+Snapdocs,Winter 2014Real Estate and ConstructionHousing and Real Estate,digital mortgage closing
+Medmonk,Winter 2012HealthcareHealthcare Services,A tool for pharmacists to find funding for patients who are unable to…
+Shoobs,"Winter 2014ConsumerTravel, Leisure and Tourism",We help you find and book tickets to great entertainment events that…
+Pushbullet,Winter 2014ConsumerHome and Personal,Push things to your other things.
+Povio,"Winter 2014B2BEngineering, Product and Design",Engineering and Design that Fuels Startup Success
+PiinPoint,Winter 2014B2BOffice Management,PiinPoint helps businesses find the best locations for growth
+One Degree,Winter 2014Unspecified,One Degree is a nonprofit organization that makes it easy for…
+MBX,Winter 2014ConsumerApparel and Cosmetics,A global multi-brand beauty and personal care startup.
+Emailio,Winter 2014B2BProductivity,Email built for wellness
+DevCycle,"Winter 2014B2BEngineering, Product and Design",Feature Flag Management Built for Developers
+Axoni,Winter 2014FintechBanking and Exchange,Axoni is building the next generation of capital markets technology
+CodeNow,Winter 2014Unspecified,Our mission is to diversify the talent pipeline of students who…
+CodeCombat,Winter 2014Education,Game that teaches computer science to middle and high school kids.
+Noora Health,Winter 2014Healthcare,Training patients and their families with health skills
+Cambly,Winter 2014Education,On-demand access to English tutors over video chat.
+AptDeco,Winter 2014ConsumerHome and Personal,AptDeco is the easiest way to buy and sell used furniture
+CareMessage,Winter 2014Healthcare,Patient engagement for low-income populations
+Ambition,Winter 2014B2BSales,Coaching and gamification software for sales teams.
+AirHelp,"Winter 2014ConsumerTravel, Leisure and Tourism","AirHelp helps air passengers get compensation for delayed, cancelled…"
+42,Winter 2014B2BRetail,Analytics stack for omnichannel retailers and brands
+True Link,Summer 2013Fintech,Financial Services for Financial Caregivers.
+Reebee,Summer 2013ConsumerHome and Personal,Flyer app.
+Lob,Summer 2013B2BMarketing,Lob is the only automation platform that transforms direct mail into…
+Panorama Education,Summer 2013Education,Improving education for every student.
+Cratejoy,Summer 2013B2BRetail,Cratejoy is the platform for subscriptions
+"Estimote, Inc.",Summer 2013B2BSupply Chain and Logistics,Location intelligence platform
+EasyPost,Summer 2013B2BSupply Chain and Logistics,The shipping infrastructure of the internet.
+Asseta,Summer 2013B2B,Marketplace for industrial spare parts and capital equipment.
+Per Vices,Winter 2012Industrials,Building Mission Critical Software Defined Radio products.
+7cups,Summer 2013HealthcareHealthcare Services,7 Cups is an emotional support service that matches up people that…
+Watsi,Winter 2013Healthcare,Watsi is the first global crowdfunding platform for medical…
+Goldbelly,Winter 2013ConsumerFood and Beverage,Empowering restaurants and small food makers to ship nationwide.
+Wevorce,Winter 2013ConsumerHome and Personal,Changing divorce for good by making it a way less horrible experience…
+Wefunder,Winter 2013FintechAsset Management,We're Robinhood for pre-IPO startups. Everyone can invest $100.
+SimplyInsured,Winter 2013HealthcareHealthcare Services,We sell health insurance to small businesses 100% online.
+CircuitHub,Winter 2012IndustrialsManufacturing and Robotics,On-Demand Electronics Manufacturing
+Experiment,Winter 2013HealthcareHealthcare Services,crowdfunding platform for science
+RADAR,Winter 2013B2BRetail,RADAR is building technology to completely transform the in-store…
+Lollipuff,Winter 2013ConsumerApparel and Cosmetics,Online Auctions for Authentic (Women's) Designer Goods
+Strikingly,Winter 2013B2BMarketing,"The easiest way to create a beautiful, mobile optimized website."
+InfluxData,Winter 2013B2BInfrastructure,The platform for building and operating time series applications.
+Etleap,Winter 2013B2BInfrastructure,Etleap is an ETL solution for creating perfect data pipelines.
+Cheetah,Winter 2013B2BRetail,"Fastest, easiest, and most affordable way for small business owners…"
+Lawdingo,Winter 2013ConsumerHome and Personal,Lawdingo provides virtual paralegal services to law firms.
+Padlet,Winter 2013B2BProductivity,Papyrus → Parchment → Paper → Padlet
+BuildZoom,Winter 2013ConsumerHome and Personal,BuildZoom is a better way to remodel. We connect homeowners to the…
+CircuitLab,"Winter 2013B2BEngineering, Product and Design",Online circuit simulator and electronic schematic editor.
+StyleUp,Winter 2013ConsumerApparel and Cosmetics,"StyleUp brings effortless joy to getting dressed with daily,…"
+9gag,Summer 2012ConsumerSocial,Make the world happier.
+Svbtle,Summer 2012ConsumerContent,A publishing platform.
+Plivo,Summer 2012B2B,"AI Agents for customer engagement on WhatsApp, Voice, Chat & SMS."
+Double Robotics,Summer 2012B2BProductivity,Telepresence robots
+Vastrm,Summer 2012ConsumerApparel and Cosmetics,Mass customized active apparel. We are building a full turn key…
+Flightfox,Summer 2012B2BOperations,"A platform to plan, book and manage global and group travel."
+BackerKit,Summer 2012B2BSales,The only end-to-end crowdfunding platform built for today’s creators
+Submittable,Summer 2012B2B,"The best way to launch, manage and measure social impact programs"
+NewsBlur,Summer 2012ConsumerContent,NewsBlur is a personalized news reader
+OctaveWealth,Summer 2012B2BHuman Resources,The 401(k) that helps you grow
+Upwave,Summer 2012B2BOperations,Marketing analytics for the world's biggest brand marketers
+Eligible,Summer 2012HealthcareHealthcare IT,Insurance Billing APIs for Healthcare Businesses
+FundersClub,Summer 2012FintechAsset Management,Online VC
+Zentail,Summer 2012B2BSupply Chain and Logistics,We're making ecommerce simple connecting brands with sales channels
+Mattermost,Summer 2012B2BProductivity,Secure Collaboration for Technical Teams
+HealthSherpa,Summer 2012HealthcareHealthcare Services,Private sector Healthcare.gov.
+Human Dx,Summer 2012HealthcareHealthcare IT,The Human Diagnosis Project.
+Mth Sense,Summer 2012B2BMarketing,We're a mobile on-device profiling and ad-serving platform initially…
+Rainforest,"Summer 2012B2BEngineering, Product and Design",no-code end-to-end testing that integrates with any CI/CD pipeline
+Screenleap,Winter 2012B2BProductivity,One-click screen sharing with installation-free viewing on all devices
+Buxfer,Winter 2007FintechConsumer Finance,Buxfer helps you make better spending decisions by making it easy to…
+Virtualmin,Winter 2007B2BInfrastructure,
+Blue Frog Gaming,Summer 2007ConsumerGaming,
+CleverDeck,Winter 2012Education,Collaborate with an artist to commission original artwork you'll live…
+Shoptiques,Winter 2012ConsumerApparel and Cosmetics,Shoptiques.com lets you shop the world's best local boutiques online.
+Idler,Summer 2025B2BOperations,"AI employees that handle the work, so people can do the magic."
+Perseus Defense,Summer 2025IndustrialsDrones,Autonomous micro-missiles for Counter UxS.
+Cyberdesk,Summer 2025B2BInfrastructure,Self hostable fleet of virtual desktops to build computer use agents
+Ninite,Winter 2008B2BInfrastructure,Simple third-party app patching and deployment for Windows.
+Cohesive,Spring 2025B2B,The agentic CRM for blue-collar services
+Docket,"Spring 2025B2BEngineering, Product and Design",AI agents for web testing
+Daxa,Spring 2025B2BAnalytics,An AI that watches how people use your product
+SAVA,Spring 2025IndustrialsManufacturing and Robotics,Autonomous Factories for American Manufacturing
+Godela,"Spring 2025B2BEngineering, Product and Design",AI Physics Engine to replace simulations and prototypes
+BitPatrol,Spring 2025B2BSecurity,AI-powered code security
+Aegis,Spring 2025HealthcareHealthcare IT,AI Agents to win denied health insurance claims.
+Cascade Space,Spring 2025IndustrialsAviation and Space,Deep space communications as a service
+Bond,Spring 2025B2BProductivity,"Building Donna, your AI Chief of Staff"
+Blueshoe,Spring 2025B2BLegal,The AI-native legal back office
+sieve,Spring 2025B2BFinance and Accounting,AI + human review to solve data cleaning - accessible via API or Excel
+Airweave,Spring 2025B2BInfrastructure,Open-Source Tool That Lets Agents Search Any App
+Theorem,Spring 2025B2BSecurity,Program verification so even your systems engineers can vibecode
+text.ai,Spring 2025Consumer,AI in your group chats
+StarSling,"Spring 2025B2BEngineering, Product and Design",Cursor for DevOps
+Wavedash,Spring 2025ConsumerGaming,Play the latest games in your browser with no downloads
+Cactus,Spring 2025B2B,AI copilot for solopreneurs
+LineWise,Spring 2025B2BOperations,AI Engineer to troubleshoot manufacturing line issues
+Code Four,Spring 2025B2BAnalytics,Modernizing the police workflow.
+Lumari,Spring 2025B2BSales,Agentic internal tools
+mlop,Spring 2025B2B,Experiment tracking for training ML models
+Den,Spring 2025B2BProductivity,Cursor for knowledge workers
+Propolis,Spring 2025B2B,Hands off QA via intelligent browser agents.
+Cotool,Spring 2025B2BSecurity,AI Agents for Security Operations Teams
+Delty,"Spring 2025B2BEngineering, Product and Design",AI staff engineer: software architect that leads coding agents
+Nimbic AI,"Spring 2025B2BEngineering, Product and Design",Automatically write and update internal docs with every code commit.
+Moby Analytics,Spring 2025B2BFinance and Accounting,AI financial auditors
+Rimba,Spring 2025IndustrialsClimate,AI to replace consultants for energy & industrial compliance reporting
+WorkDone,Spring 2025HealthcareHealthcare IT,Real-time AI Compliance for Medical Documentation
+Probo,Spring 2025B2BSecurity,We help you get compliant while you focus on your business.
+MindFort,Spring 2025B2BSecurity,Autonomous Security Agents
+chrt,Spring 2025B2BSupply Chain and Logistics,chrt is a logistics platform for time-critical shipping
+Lapel,Spring 2025B2B,Scale personalized service to every customer.
+Mesmer,"Spring 2025B2BEngineering, Product and Design",Cursor for CTOs
+Relixir,Spring 2025B2B,Content Automation for AI Search Visibility
+Janus,Spring 2025B2BInfrastructure,Battle-Test AI Agents with Human Simulation
+Hemut,Spring 2025B2BSupply Chain and Logistics,AI-powered operating system for trucking companies.
+Zero,Spring 2025B2BProductivity,AI powered email client that manages your email so you don't have to.
+ValueMate,Spring 2025B2B,Valuemate automates real estate appraisals with AI
+Bramante Biologics,Spring 2025Healthcare,American drug manufacturing
+Scalar Field,Spring 2025Fintech,Reinventing the trading terminal — one intelligent agent at a time.
+Eloquent AI,Spring 2025B2B,The AI Operator for Financial Services
+MorphoAI,Spring 2025IndustrialsManufacturing and Robotics,Software tool for designing robots and machines
+Vassar Robotics,Spring 2025ConsumerConsumer Electronics,$200 Al robot arms that learn new skills in 30 min.
+Boost Robotics,Spring 2025IndustrialsManufacturing and Robotics,Robots for the inspection and maintenance of data centers
+Sygaldry Technologies,Spring 2025Industrials,quantum-accelerated AI servers
+ParaQuery,Spring 2025B2BInfrastructure,Managed GPU-accelerated Spark + SQL at 2x speed and half the cost
+Klavis AI,Spring 2025B2B,Open Source MCP Integrations for AI Applications
+Third Chair,Spring 2025B2BLegal,Agents for in-house legal teams
+Vesence,Spring 2025B2BLegal,Cursor for Lawyers. Agentic AI in MS Office.
+PowerMatrix,Spring 2025IndustrialsEnergy,Efficient and compact power supply for AI hardware
+Jazzberry,Spring 2025B2B,Training LLMs to be expert bug finders
+Besimple AI,Spring 2025B2B,AI powered data annotation
+Alkali,"Spring 2025B2BEngineering, Product and Design",Your Copilot for Building Chemical Projects
+Human Behavior,"Spring 2025B2BEngineering, Product and Design","We reveal why users stay, leave, or pay"
+QualGent,Spring 2025B2B,AI Mobile App Quality Assurance Tester
+Prism AI,"Spring 2025B2BEngineering, Product and Design",AI-native Datadog + Amplitude
+Novoflow,Spring 2025HealthcareHealthcare Services,AI employees that automate medical operations for clinics.
+Theta Software,Spring 2025B2B,Self-Learning for AI Agents
+Lyra,Spring 2025B2BSales,AI-Native Zoom For Revenue Teams
+Cleon,Spring 2025B2B,AI Agents for Software Implementations
+throxy,Spring 2025B2BSales,Vertical AI agents that run the sales funnel on autopilot
+Lucis,Spring 2025HealthcareConsumer Health and Wellness,Function Health for Europe
+Flott HQ,Spring 2025B2B,AI-native operating system for vehicle fleet management
+Crimson,Spring 2025B2BLegal,The AI Associate for Litigation Lawyers
+Casco,Spring 2025B2BSecurity,"Evaluate AI agents and apps on security, safety, and accuracy."
+Nomi,Spring 2025B2BSales,Cursor for Sales
+Morphik,Spring 2025B2BInfrastructure,Open-source multimodal search for AI apps
+RunRL,Spring 2025B2BInfrastructure,Reinforcement learning as a service
+Ticket Wallet,Spring 2025B2B,AI-optimized ticket resale
+Kaizen,Spring 2025B2B,Integrate instantly with any website.
+HABIT,Spring 2025IndustrialsManufacturing and Robotics,Reshaping neighborhood services with robotics. Auto details are first.
+Clidey,Spring 2025B2B,Documentation made for AI Agents
+Opusense AI,Spring 2025Real Estate and ConstructionConstruction,AI for Field Inspection Reports
+Labric,Spring 2025B2BAnalytics,The data layer for scientific research
+Photonium,"Spring 2025B2BEngineering, Product and Design",AI-Driven Optical System Design
+Sixtyfour,Spring 2025B2BOperations,Bloomberg for Sales
+Odapt,Spring 2025B2B,How great teams build internal software & agent workflows
+Clado,Spring 2025B2BRecruiting and Talent,Deep Research for People
+Combinely,Spring 2025B2BFinance and Accounting,AI coworker for accountants
+VoiceOS,Spring 2025B2BOperations,Voice AI Interviews for Enterprise
+Chiron,Spring 2025Education,Grammarly for Math ✏️
+Jeevy Fabrication,"Spring 2025B2BEngineering, Product and Design",AI Driven EPC - Weld Fabrication Contractor
+Trapeze,Spring 2025HealthcareHealthcare IT,AI-native Zocdoc
+Tinfoil,Spring 2025B2BSecurity,"Tinfoil makes your AI workflows secure, verifiable, and private."
+The LLM Data Company,Spring 2025B2B,Datagen Tooling for Evals & RL
+Operative,"Spring 2025B2BEngineering, Product and Design",Web application code generation for internal APIs
+Parsewise,Spring 2025B2B,Business Analytics for Unstructured Data
+Better Auth,Spring 2025B2BSecurity,The authentication framework for TypeScript
+Bluejay,Spring 2025B2B,The world's first quality assurance agency for voice AI.
+Kestral,Spring 2025B2B,AI Agents that prioritize the highest impact work across Sales and R&D
+Attune,"Spring 2025B2BEngineering, Product and Design","Faster builds, zero effort."
+PgDog,Spring 2025B2BInfrastructure,Scaling engine for PostgreSQL
+Caucus,Spring 2025B2B,AI CRM for Government
+Kirana AI,Spring 2025B2BRetail,AI manager for physical stores
+Mbodi AI,Spring 2025IndustrialsManufacturing and Robotics,Embodied AI Platform for Industrial Robotics
+Percival,Spring 2025B2BOperations,AI-powered data entry for wholesalers and distributors
+VibeGrade,Spring 2025Education,Cursor for Teachers
+YouLearn,Spring 2025Education,AI tutor for each student.
+stratify,Spring 2025B2B,AI agents that help you understand your customers' needs
+Sim Studio,Spring 2025B2B,The open source AI agent builder
+Clarm,Spring 2025B2BProductivity,Perplexity for internal docs
+Beluga Labs,Spring 2025B2BOperations,Rippling for Content Creators
+Kaelio,Spring 2025HealthcareHealthcare IT,AI operating system for healthcare organizations
+Zenobia Pay,Spring 2025FintechPayments,Bank transfers as payments for luxury retailers.
+Zeon Systems,Spring 2025HealthcareIndustrial Bio,AI-powered robotics for scientific lab automation.
+The Robot Learning Company,Spring 2025IndustrialsManufacturing and Robotics,Affordable robotic workers
+HelixDB,"Spring 2025B2BEngineering, Product and Design",The database for intelligence
+Chonkie,"Spring 2025B2BEngineering, Product and Design",Open Source Data Ingestion For AI
+Almond,Spring 2025IndustrialsManufacturing and Robotics,AI robots for manufacturing
+Claim Health,Spring 2025Healthcare,The first AI revenue platform for post-acute healthcare
+Capacitive,"Spring 2025B2BEngineering, Product and Design",The AI Agent Platform for Knowledge Workers.
+Anvil,Spring 2025B2BMarketing,Anvil is the SEO platform for the AI era
+Approval AI,Spring 2025FintechConsumer Finance,"One-click mortgage: AI shops, negotiates, and handles your application"
+Auctor,Spring 2025B2B,Automating Enterprise Software Implementations
+neoncoral,Spring 2025Consumer,🪸 AI consumer social
+Galen AI,Spring 2025HealthcareConsumer Health and Wellness,"Personal AI healthcare agent, powered by clinical and wearable data."
+SynthioLabs,Spring 2025Healthcare,Voice AI Medical Rep for Pharma
+Cua,"Spring 2025B2BEngineering, Product and Design",Docker for Computer-use Agents
+Minerva,Spring 2025B2BFinance and Accounting,AI to Replace SMB Bookkeepers
+Kanava AI,Spring 2025B2BSupply Chain and Logistics,Your First AI Sales Hire for Wholesale Distributors
+GroundControl,Spring 2025IndustrialsAviation and Space,Vertical AI for highly-regulated manufacturing
+Avallon AI,Spring 2025FintechInsurance,AI agents for insurance claims operations
+Bloom,"Spring 2025B2BEngineering, Product and Design",Build and share mobile apps in seconds
+cubic,"Spring 2025B2BEngineering, Product and Design",AI-powered code review platform
+Notus Autonomous Systems,Spring 2025IndustrialsAviation and Space,Swarm robotics and full AI-command hierarchy integration
+Golf,Spring 2025B2BInfrastructure,Open-source platform for building production MCP servers
+BitBoard,Spring 2025HealthcareHealthcare Services,The AI workforce for healthcare operations.
+nao Labs,Spring 2025B2BAnalytics,Cursor for data teams.
+Vybe,"Spring 2025B2BEngineering, Product and Design",Lovable for internal apps
+Aravolta,Spring 2025B2BInfrastructure,"Software to monitor, control, and optimize data centers."
+Kashikoi,Spring 2025B2B,Simulation Engine for Benchmarking AI Products
+Plexe,"Spring 2025B2BEngineering, Product and Design",Open-source agents to build predictive ML models from a prompt
+RescueTime,Winter 2008B2BProductivity,Take Back Control of your Time
+Frekil,Spring 2025Healthcare,Scale AI for Medical Scans
+Chestnut,Spring 2025FintechCredit and Lending,The first AI mortgage lender
+Red Barn Robotics,Winter 2025IndustrialsAgriculture,A Roomba for weeds on a farm.
+QFEX,Spring 2025FintechBanking and Exchange,24/7 Global Stock Exchange
+Blaxel,Spring 2025B2B,AWS for AI Agents
+Mentra,Winter 2025ConsumerVirtual and Augmented Reality,Building the open source smart glasses operating system.
+BlindPay,Winter 2025FintechPayments,Stablecoin API for global payments
+Vantel,Winter 2025FintechInsurance,AI Software for Commercial Insurance Brokers
+Fira,Winter 2025B2BFinance and Accounting,Agentic AI platform for investment firms
+assistant-ui,Winter 2025B2BInfrastructure,Open Source React.js Library for AI Chat
+Artifact,"Winter 2025B2BEngineering, Product and Design","An Collaborative, AI-native IDE for Hardware Engineers"
+Axal,Winter 2025B2B,The AI Software Architect
+ThirdLayer,Winter 2025B2B,"Building Dex, the AI Browser Copilot"
+TrainLoop,"Winter 2025B2BEngineering, Product and Design",Reasoning Fine-Tuning
+Tally,Winter 2025B2B,AI accounting
+SAMMY Labs,Winter 2025B2B,"Live, AI-powered graph of every possible click path in your software"
+Instinct,Winter 2025IndustrialsAviation and Space,Building the lunar future.
+Mercura,Winter 2025B2BSales,AI Quoting for distributors and manufacturers
+emojis.com,Winter 2025Consumer,AI Copilot for Graphic Design
+Cedar,"Winter 2025B2BEngineering, Product and Design",In-product AI copilot for any app
+Browser Use,Winter 2025B2B,Leading open-source web agent project with 50k stars in 3 months
+TamLabs,Winter 2025B2BProductivity,Cursor for Microsoft Word
+Ergo,Winter 2025B2BSales,AI Agents for Sales Operations
+CopyCat,Winter 2025B2BProductivity,"Next-Gen RPA, Powered by Browser Agents"
+Paratus Health,Winter 2025Healthcare,AI-powered intake nurse
+Atlog,Spring 2025B2BOperations,Voice Agents for Physical Retail Stores
+Pig,Winter 2025B2BInfrastructure,Behavioral Cache for Agents
+Bluebook,Winter 2025B2BFinance and Accounting,AI for accounting
+TensorPool,Winter 2025B2BInfrastructure,Vercel For GPUs
+Waffle,Spring 2025B2B,AI Operating System for SMBs
+Dalus,"Winter 2025B2BEngineering, Product and Design",AI-Powered Hardware System Design Software
+Roark,Winter 2025B2BAnalytics,Datadog for Voice AI
+Rebolt,Winter 2025B2B,AI Agents to Replace Restaurant Managers
+Spott,Winter 2025B2BRecruiting and Talent,AI agents for recruiting firms
+Woz,Winter 2025B2B,AI platform enabling anyone to build and scale software businesses
+Proception Inc,Winter 2025IndustrialsManufacturing and Robotics,Making humanoids dexterous enough to thread a needle
+Demeter,Winter 2025B2B,AI Value Creation Team for Private Equity
+Wildcard,"Winter 2025B2BEngineering, Product and Design",Make APIs work for AI Agents
+Permitify,Winter 2025Real Estate and ConstructionConstruction,AI co-pilot for building plan review and building code compliance
+Reditus Space,Winter 2025IndustrialsAviation and Space,Reusable Satellites for zero-g manufacturing
+Optifye.ai,Winter 2025B2B,AI performance monitoring for factory workers
+Pinch,Winter 2025B2BProductivity,Video conferencing with real-time voice translation
+Retrofit,Winter 2025ConsumerApparel and Cosmetics,A vintage marketplace curated by AI
+Archon,Winter 2025Government,We help software companies sell to government.
+Forge Automation,Winter 2025IndustrialsManufacturing and Robotics,Software Enabled CNC Parts Supplier
+Mastra,"Winter 2025B2BEngineering, Product and Design","The Javascript framework for building AI agents, from the Gatsby devs"
+AfterQuery,Winter 2025B2BInfrastructure,Research lab investigating the boundaries of AI capabilities.
+Misprint,Winter 2025Consumer,Misprint is building Robinhood for Pokemon cards
+FuseAI,Winter 2025B2BSales,The only sales software you will ever need.
+Miyagi Labs,Winter 2025Education,Shopify for AI-generated courses
+Artificial Societies,Winter 2025B2BAnalytics,We use AI to simulate entire human societies
+TripleZip,Winter 2025Real Estate and Construction,Automating CRE accounting with AI
+Peppr AI,"Winter 2025B2BEngineering, Product and Design",Self-improving knowledge base synthesizing scattered company data
+Infinite,Winter 2025FintechPayments,Global B2B Stablecoin Processor
+Sennu AI,Winter 2025B2B,AI Agents Automating the $400B Tech Consulting Market
