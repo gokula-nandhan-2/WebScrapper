@@ -79,6 +79,47 @@ def scrape_dynamic_fields():
     df.to_csv("yc_dynamic_data.csv", index=False)
     print("✅ Saved to yc_dynamic_data.csv")
 
+def fetch_static_data(row):
+    url = row["Detail URL"]
+    name = row["Company Name"]
+
+    driver = get_chrome_driver()
+    founders, linkedin_urls = "",""
+
+    try:
+        driver.get(url)
+        time.sleep(2)
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+        links = soup.select("div[class*='FounderSection'] a")
+
+        founders_names = []
+        linkedin_links = []
+
+        for link in links:
+            href = link.get("href", "")
+            if "linkedin.com" in href:
+                founders_names.append(link.text.strip())
+                linkedin_links.append(href)
+
+        founders = ', '.join(founders_names)
+        linkedin_urls=', '.join(linkedin_links)
+
+        print(f"✅ Scraped: {name}")
+    except Exception as e:
+        print(f"❌ Error at {url}: {e}")
+    finally:
+        driver.quit()
+
+    return {
+        "Founder Name(s)": founders,
+        "Founder LinkedIn URL(s)": linkedin_urls
+    }
+
+
+
+
+
+
 
 # if __name__ == "__main__":
 #     driver = get_chrome_driver()
@@ -102,5 +143,22 @@ def scrape_dynamic_fields():
 
 # if __name__ == "__main__":
 #     get_chrome_driver()
-if __name__ == "__main__":
-    scrape_dynamic_fields()
+
+# if __name__ == "__main__":
+#     scrape_dynamic_fields()
+
+# if __name__ == "__main__":
+#     # Test input: A single row from your dataset
+#     test_row = {
+#         "Company Name": "DoorDash",
+#         "Detail URL": "https://www.ycombinator.com/companies/doordash"  # Use any valid YC company URL
+#     }
+#
+#     # Run the function with the test row
+#     result = fetch_static_data(test_row)
+#
+#     # Print results
+#     print("\n🎯 Test Result:")
+#     print(f"Founders: {result['Founder Name(s)']}")
+#     print(f"LinkedIn URLs: {result['Founder LinkedIn URL(s)']}")
+
