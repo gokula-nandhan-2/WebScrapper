@@ -19,12 +19,11 @@ This project scrapes startup data from the [Y Combinator](https://www.ycombinato
 - concurrent.futures (ThreadPoolExecutor)
 
 ## References
-
-- [Selenium Python Automation (freeCodeCamp)](https://youtu.be/XVv6mJpFOb0?si=oYVVv0hx5Wmih13D)  
-- [Multithreading with ThreadPoolExecutor (Corey Schafer)](https://youtu.be/IEEhzQoKtQU?si=ih0Pnj6Jqr0ZqVwd)  
-- [BeautifulSoup Tutorial (Tech with Tim)](https://youtu.be/UOsRrxMKJYk?si=C3UlK-OQhfH1WAB9)  
-- [Selenium Best Practices (edureka!)](https://youtu.be/mBoX_JCKZTE?si=GNyDHEHVE2pZiGoL)
 - [BeautifulSoup Web Scraping Full Course (freeCodeCamp)](https://youtu.be/XVv6mJpFOb0?si=pQbPLTdTaUGL3EHK)
+- [Selenium Course for Beginners (freeCodeCamp)](https://youtu.be/j7VZsCCnptM?si=DpfO9lGYg5vMv3dk)
+- [Multithreading with ThreadPoolExecutor (Corey Schafer)](https://youtu.be/IEEhzQoKtQU?si=ih0Pnj6Jqr0ZqVwd)  
+- [Python Selenium for Beginners (The PyCoach)](https://youtu.be/UOsRrxMKJYk?si=C3UlK-OQhfH1WAB9)  
+
 
 ## Output
 
