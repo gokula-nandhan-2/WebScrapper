@@ -1,26 +1,21 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from bs4 import BeautifulSoup
 import time
 import pandas as pd
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
+from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Initializes and returns a headless Chrome browser using Selenium
 def get_chrome_driver():
     chrome_options = Options()
-    # chrome_options.add_argument("--headless")
-    # chrome_options.add_argument("--window-size=1920,1080")
     driver = webdriver.Chrome(options=chrome_options)
-    print("🚀 Initializing driver...")
+    print("Initializing driver...")
     return driver
 
-# Testing part of the get_chrome_Method
-# driver = get_chrome_driver()
-# driver.get("https://www.ycombinator.com/companies")
-# time.sleep(10)
-
-def scroll(driver, target_count=10):
+def scroll(driver, target_count=500):
     last_height = driver.execute_script('return document.body.scrollHeight')
     startup_cards = set()
 
@@ -42,24 +37,19 @@ def scrape_dynamic_fields():
     driver.get("https://www.ycombinator.com/companies")
     time.sleep(3)
 
-    cards = scroll(driver, target_count=10)
+    cards = scroll(driver, target_count=500)
     data = []
 
-    for i, card in enumerate(cards[:10]):
+    for i, card in enumerate(cards[:500]):
         try:
 
             card_html = card.get_attribute("outerHTML")
             soup = BeautifulSoup(card_html, "html.parser")
 
             name_tag = soup.find('span', class_='_coName_i9oky_470').text.strip()
-            batch_tag = soup.find('div', class_='_pillWrapper_i9oky_33').text.strip()
+            batch_tag = batch_tag = soup.find('span', class_='pill _pill_i9oky_33').text.strip()
             description_tag = soup.find('span', class_='_coDescription_i9oky_495').text.strip()
             url = card.get_attribute("href")
-
-            # name = card.find_element(By.TAG_NAME, "h2").text
-            # batch = card.find_element(By.TAG_NAME, "div").text
-            # description = card.find_element(By.TAG_NAME, "p").text
-            # url = card.get_attribute("href")
 
             data.append({
                 "Company Name": name_tag,
@@ -77,58 +67,89 @@ def scrape_dynamic_fields():
     # Save to CSV
     df = pd.DataFrame(data)
     df.to_csv("yc_dynamic_data.csv", index=False)
-    print("✅ Saved to yc_dynamic_data.csv")
-
-#
+    print("Saved to yc_dynamic_data.csv")
 
 def fetch_static_data_with_index(i, row):
     url = row["Detail URL"]
-    name = row["Company Name"]
+    company_name = row["Company Name"]
 
     driver = get_chrome_driver()
     founders, linkedin_urls = "", ""
 
     try:
         driver.get(url)
-        time.sleep(2)
+        WebDriverWait(driver, 8).until(
+            EC.presence_of_all_elements_located((By.CSS_SELECTOR, "div.text-xl.font-bold"))
+        )
         soup = BeautifulSoup(driver.page_source, "html.parser")
-        # links = soup.select("div[class*='FounderSection'] a")
 
-        founder_tags = soup.select("div.text-xl.font-bold")
-        founder_names = [tag.get_text(strip=True) for tag in founder_tags]
+        founder_names = []
+        linkedin_links = []
 
-        # founder_names = []
-        # linkedin_links = []
+        # ✅ Find all possible founder blocks
+        founder_blocks = soup.select("div.min-w-0.flex-1")
 
-        # for link in links:
-        #     href = link.get("href", "")
-        #     if "linkedin.com" in href:
-        #         founder_names.append(link.text.strip())
-        #         linkedin_links.append(href)
+        for block in founder_blocks:
+            name_tag = block.find("div", class_="text-xl font-bold")
+            link_tag = block.find("a", href=True)
 
-        linkedin_links = [
-            a.get("href", "") for a in soup.select("a[href*='linkedin.com']")
-            if "school/y-combinator" not in a.get("href", "")
-        ]
+            if name_tag:
+                name = name_tag.get_text(strip=True)
+                if name:
+                    founder_names.append(name)
 
-        founders = ', '.join(founder_names)
-        linkedin_urls = ', '.join(linkedin_links)
+            if link_tag:
+                href = link_tag["href"]
+                if "linkedin.com" in href and "school/y-combinator" not in href:
+                    if href.startswith("/"):
+                        href = "https://www.ycombinator.com" + href
+                    linkedin_links.append(href)
 
-        print(f"[{i+1}] ✅ Scraped: {name}")
+        # 🔄 Fallback if no names found
+        if not founder_names:
+            fallback_blocks = soup.select("div.flex.flex-row.items-center.justify-between div")
+            for block in fallback_blocks:
+                if "Founder" in block.get_text(strip=True):
+                    maybe_name = block.find_previous_sibling("div")
+                    if maybe_name:
+                        founder_names.append(maybe_name.get_text(strip=True))
+
+        # 🔍 Fallback for LinkedIn
+        if not linkedin_links:
+            for a in soup.find_all("a", href=True):
+                href = a["href"]
+                if "linkedin.com/in/" in href and "school/y-combinator" not in href:
+                    if href.startswith("/"):
+                        href = "https://www.ycombinator.com" + href
+                    linkedin_links.append(href)
+
+        # 🧹 Clean and deduplicate
+        founder_names = list(dict.fromkeys([f.strip() for f in founder_names if f.strip()]))
+        linkedin_links = list(dict.fromkeys([l.strip() for l in linkedin_links if l.strip()]))
+
+        if not founder_names:
+            print(f"[{i+1}/500] No founder names found at {url}")
+        if not linkedin_links:
+            print(f"[{i+1}/500] No LinkedIn links found at {url}")
+
+        founders = ", ".join(founder_names)
+        linkedin_urls = ", ".join(linkedin_links)
+
+        print(f"[{i+1}/500] Scraped: {company_name} -> Founders: {founders}")
     except Exception as e:
-        print(f"[{i+1}] ❌ Error at {url}: {e}")
+        print(f"[{i+1}/500] Error at {url}: {e}")
     finally:
         driver.quit()
 
-    return {
+    return i, {
         "Founder Name(s)": founders,
         "Founder LinkedIn URL(s)": linkedin_urls
     }
 
 
-def scrape_static_fields_concurrently(max_workers=5):
+def scrape_static_fields_concurrently(max_workers=10):
     df = pd.read_csv("yc_dynamic_data.csv")
-    results = []
+    results = {}
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         future_to_index = {
@@ -137,22 +158,25 @@ def scrape_static_fields_concurrently(max_workers=5):
         }
 
         for future in as_completed(future_to_index):
-            i = future_to_index[future]
             try:
-                result = future.result()
-                results.append(result)
+                i, result = future.result()
+                results[i] = result
             except Exception as e:
-                print(f"❌ Thread error at index {i}: {e}")
-                results.append({
+                i = future_to_index[future]
+                print(f"Thread error at index {i}: {e}")
+                results[i] = {
                     "Founder Name(s)": "",
                     "Founder LinkedIn URL(s)": ""
-                })
+                }
 
-    static_df = pd.DataFrame(results)
-    final_df = pd.concat([df, static_df], axis=1)
-    final_df.drop(columns=["Detail URL"]).to_csv("yc_full_data.csv", index=False)
-    print("✅ Saved full dataset to yc_full_data.csv")
 
+    for i, data in results.items():
+        df.at[i, "Founder Name(s)"] = data["Founder Name(s)"]
+        df.at[i, "Founder LinkedIn URL(s)"] = data["Founder LinkedIn URL(s)"]
+
+
+    df.drop(columns=["Detail URL"]).to_csv("yc_full_data.csv", index=False)
+    print("Saved full dataset to yc_full_data.csv!")
 
 
 # --------- Run Both Parts --------- #

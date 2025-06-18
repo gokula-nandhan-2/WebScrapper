@@ -1,11 +1,501 @@
 Company Name,Batch,Short Description,Detail URL
-DoorDash,Summer 2013ConsumerFood and Beverage,Restaurant delivery.,https://www.ycombinator.com/companies/doordash
-Airbnb,"Winter 2009ConsumerTravel, Leisure and Tourism",Book accommodations around the world.,https://www.ycombinator.com/companies/airbnb
-Coinbase,Summer 2012FintechBanking and Exchange,"Buy, sell, and manage cryptocurrencies.",https://www.ycombinator.com/companies/coinbase
-Instacart,Summer 2012ConsumerFood and Beverage,Marketplace for grocery delivery and pickup,https://www.ycombinator.com/companies/instacart
-Oklo,Summer 2014IndustrialsEnergy,"Emission free, always on power from advanced fission power plants.",https://www.ycombinator.com/companies/oklo
-Dropbox,Summer 2007B2BProductivity,Backup and share files in the cloud.,https://www.ycombinator.com/companies/dropbox
-GitLab,"Winter 2015B2BEngineering, Product and Design",A complete DevOps platform delivered as a single application.,https://www.ycombinator.com/companies/gitlab
-Rigetti Computing,Summer 2014IndustrialsManufacturing and Robotics,Quantum coherent supercomputing.,https://www.ycombinator.com/companies/rigetti-computing
-Matterport,Winter 2012ConsumerVirtual and Augmented Reality,Turn physical objects and environments into 3D models in seconds.,https://www.ycombinator.com/companies/matterport
-Amplitude,Winter 2012B2BAnalytics,Digital Analytics Platform,https://www.ycombinator.com/companies/amplitude
+DoorDash,Summer 2013,Restaurant delivery.,https://www.ycombinator.com/companies/doordash
+Airbnb,Winter 2009,Book accommodations around the world.,https://www.ycombinator.com/companies/airbnb
+Coinbase,Summer 2012,"Buy, sell, and manage cryptocurrencies.",https://www.ycombinator.com/companies/coinbase
+Instacart,Summer 2012,Marketplace for grocery delivery and pickup,https://www.ycombinator.com/companies/instacart
+Oklo,Summer 2014,"Emission free, always on power from advanced fission power plants.",https://www.ycombinator.com/companies/oklo
+Dropbox,Summer 2007,Backup and share files in the cloud.,https://www.ycombinator.com/companies/dropbox
+GitLab,Winter 2015,A complete DevOps platform delivered as a single application.,https://www.ycombinator.com/companies/gitlab
+Rigetti Computing,Summer 2014,Quantum coherent supercomputing.,https://www.ycombinator.com/companies/rigetti-computing
+Matterport,Winter 2012,Turn physical objects and environments into 3D models in seconds.,https://www.ycombinator.com/companies/matterport
+Amplitude,Winter 2012,Digital Analytics Platform,https://www.ycombinator.com/companies/amplitude
+PagerDuty,Summer 2010,Real-time visibility into critical apps and services all in one place.,https://www.ycombinator.com/companies/pagerduty
+Weave,Winter 2014,Customer communication and payments platform.,https://www.ycombinator.com/companies/weave
+Ginkgo Bioworks,Summer 2014,Our mission is to make biology easier to engineer.,https://www.ycombinator.com/companies/ginkgo-bioworks
+Pardes Biosciences,Summer 2020,We break viruses,https://www.ycombinator.com/companies/pardes-bio
+Embark Trucks,Winter 2016,Self-driving semi trucks.,https://www.ycombinator.com/companies/embark-trucks
+Lucira Health,Winter 2015,Next generation infectious disease test kits,https://www.ycombinator.com/companies/lucira-health
+Momentus,Summer 2018,The space infrastructure services company,https://www.ycombinator.com/companies/momentus
+Segment,Summer 2011,"Software and APIs to collect, clean, and control customer data.",https://www.ycombinator.com/companies/segment
+Algolia,Winter 2014,A developer-friendly and enterprise-grade search API.,https://www.ycombinator.com/companies/algolia
+Truebill,Winter 2016,Live your best financial life,https://www.ycombinator.com/companies/truebill
+Twitch,Winter 2007,A global community creating the future of live entertainment.,https://www.ycombinator.com/companies/twitch
+PlanGrid,Winter 2012,Mobile applications for the construction industry.,https://www.ycombinator.com/companies/plangrid
+Bellabeat,Winter 2014,Tech-powered women's wellness.,https://www.ycombinator.com/companies/bellabeat
+Cruise,Winter 2014,Self-driving cars.,https://www.ycombinator.com/companies/cruise
+Benchling,Summer 2012,Unlocking the power of biotech with modern software for modern science,https://www.ycombinator.com/companies/benchling
+Casetext,Summer 2013,We make the world's laws free and understandable.,https://www.ycombinator.com/companies/casetext
+Bird,Summer 2016,The world’s largest omnichannel communications platform,https://www.ycombinator.com/companies/bird
+Brex,Winter 2017,"Business accounts, corporate cards, and spend management software.",https://www.ycombinator.com/companies/brex
+The Athletic,Summer 2016,Subscription sports media.,https://www.ycombinator.com/companies/the-athletic
+Codecademy,Summer 2011,The leading online learning platform for technical skills.,https://www.ycombinator.com/companies/codecademy
+Checkr,Summer 2014,People infrastructure for the future of work,https://www.ycombinator.com/companies/checkr
+Lever,Summer 2012,Talent Acquisition Suite that combines ATS + Talent CRM,https://www.ycombinator.com/companies/lever
+Clipboard Health,Winter 2017,Connects healthcare facilities with nurses nearby.,https://www.ycombinator.com/companies/clipboard-health
+Heap,Winter 2013,Captures user interactions with no code to generate analytics.,https://www.ycombinator.com/companies/heap
+Sendwave,Winter 2012,"Instant, no fee international remittances.",https://www.ycombinator.com/companies/sendwave
+Deel,Winter 2019,The all-in-one HR and payroll platform for global teams,https://www.ycombinator.com/companies/deel
+Clever,Summer 2012,The platform that powers technology in the classroom.,https://www.ycombinator.com/companies/clever
+Caper,Winter 2016,Plug-and-play cashier-less retail powered by computer vision and AI,https://www.ycombinator.com/companies/caper
+EquipmentShare,Winter 2015,Cloud solutions for the construction industry.,https://www.ycombinator.com/companies/equipmentshare
+Reddit,Summer 2005,The frontpage of the internet.,https://www.ycombinator.com/companies/reddit
+Fivestars,Winter 2011,Customer loyalty and payments platform for small businesses.,https://www.ycombinator.com/companies/fivestars
+Machine Zone,Winter 2008,Pioneers of mobile social gaming.,https://www.ycombinator.com/companies/machine-zone
+Faire,Winter 2017,The global online platform empowering independent retail.,https://www.ycombinator.com/companies/faire
+Fivetran,Winter 2013,The leader in automated data movement,https://www.ycombinator.com/companies/fivetran
+Optimizely,Winter 2010,The first all-in-one operating system for marketing,https://www.ycombinator.com/companies/optimizely
+Flexport,Winter 2014,Platform for global logistics.,https://www.ycombinator.com/companies/flexport
+WePay,Summer 2009,Payments for platform businesses.,https://www.ycombinator.com/companies/wepay
+Weebly,Winter 2007,Build a free website that grows with your business.,https://www.ycombinator.com/companies/weebly
+Flock Safety,Summer 2017,The first public safety operating system that eliminates crime.,https://www.ycombinator.com/companies/flock-safety
+Sqreen,Winter 2018,Sqreen is the application security platform for the modern enterprise,https://www.ycombinator.com/companies/sqreen
+NURX,Winter 2016,"Medicine or testing kit, prescribed online and delivered to your door.",https://www.ycombinator.com/companies/nurx
+Go1,Summer 2015,A learning platform that enables you to train your staff or customers.,https://www.ycombinator.com/companies/go1
+CoreOS,Summer 2013,Open source tools of modern distributed systems.,https://www.ycombinator.com/companies/coreos
+Bear Flag Robotics,Winter 2018,Autonomous driving technology for farm tractors.,https://www.ycombinator.com/companies/bear-flag-robotics
+GOAT Group,Winter 2011,"Platform for the greatest products from the past, present and future.",https://www.ycombinator.com/companies/goat-group
+Heroku,Winter 2008,Enabling developers to build and run applications in the cloud.,https://www.ycombinator.com/companies/heroku
+Groww,Winter 2018,"Making financial services simple, transparent and delightful.",https://www.ycombinator.com/companies/groww
+GrubMarket,Winter 2015,AI-powered technology enabler and digital transformer of American…,https://www.ycombinator.com/companies/grubmarket
+HelloSign,Winter 2011,eSignature software for small and mid-market businesses.,https://www.ycombinator.com/companies/hellosign
+Zenefits,Winter 2013,"HR for small businesses: onboarding, payroll and benefits.",https://www.ycombinator.com/companies/zenefits
+Gusto,Winter 2012,Provides growing businesses with everything to take care of their team,https://www.ycombinator.com/companies/gusto
+Honeylove,Summer 2018,Honeylove makes functional undergarments for women,https://www.ycombinator.com/companies/honeylove
+Modern Fertility,Summer 2017,At-home fertility test for women who aren't ready for kids right now…,https://www.ycombinator.com/companies/modern-fertility
+Cognito,Summer 2014,"Frictionless, modern identity verification that starts with just a…",https://www.ycombinator.com/companies/cognito
+OpenInvest,Summer 2015,Values based personalization at scale for asset and wealth management,https://www.ycombinator.com/companies/openinvest
+Meesho,Summer 2016,Democratizing internet commerce for everyone in India,https://www.ycombinator.com/companies/meesho
+Mixpanel,Summer 2009,Mixpanel is event analytics for builders that need answers.,https://www.ycombinator.com/companies/mixpanel
+Paystack,Winter 2016,Modern payments infrastructure for Africa,https://www.ycombinator.com/companies/paystack
+Moxion Power Co.,Winter 2021,Mobile Energy Storage Technology,https://www.ycombinator.com/companies/moxion-power-co
+DrChrono,Winter 2011,The essential platform for modern medical practices and patients.,https://www.ycombinator.com/companies/drchrono
+OMGPop,Summer 2006,An independent flash game studio.,https://www.ycombinator.com/companies/omgpop
+Newfront,Winter 2018,Modern insurance brokerage.,https://www.ycombinator.com/companies/newfront-insurance
+North,Winter 2013,Wearable computing hardware: biosignal gesture recognition,https://www.ycombinator.com/companies/north
+Nowports,Winter 2019,The core engine of supply chain in LATAM,https://www.ycombinator.com/companies/nowports
+Odeko,Summer 2019,Our operations software makes it easier to run--and grow--your cafe,https://www.ycombinator.com/companies/odeko
+GitPrime,Winter 2016,Visibility and analytics for software development leaders.,https://www.ycombinator.com/companies/gitprime
+Proxy,Summer 2016,Smart ring digital wallet,https://www.ycombinator.com/companies/proxy
+FutureAdvisor,Summer 2010,The online financial management service for everyone.,https://www.ycombinator.com/companies/futureadvisor
+Podium,Winter 2016,Get more leads. Make more money.,https://www.ycombinator.com/companies/podium
+Rappi,Winter 2016,On-demand delivery and financial services for Latin America.,https://www.ycombinator.com/companies/rappi
+Razorpay,Winter 2015,India's only full-stack financial solutions company for businesses.,https://www.ycombinator.com/companies/razorpay
+Rippling,Winter 2017,"One place to run all your HR, IT, and Finance. Globally.",https://www.ycombinator.com/companies/rippling
+Scale AI,Summer 2016,Data-centric infrastructure to accelerate the development of AI,https://www.ycombinator.com/companies/scale-ai
+Scentbird,Summer 2015,Scentbird is a luxury fragrance subscription service.,https://www.ycombinator.com/companies/scentbird
+Scribd,Summer 2006,World's largest online library.,https://www.ycombinator.com/companies/scribd
+ShipBob,Summer 2014,Providing Amazon level logistics to e-commerce businesses.,https://www.ycombinator.com/companies/shipbob
+SmartAsset,Summer 2012,Marketplace connecting consumers to financial advisors,https://www.ycombinator.com/companies/smartasset
+Stripe,Summer 2009,Economic infrastructure for the internet.,https://www.ycombinator.com/companies/stripe
+Wave,Winter 2012,Mobile money app for Africa,https://www.ycombinator.com/companies/wave
+Webflow,Summer 2013,Professional website design and publishing platform.,https://www.ycombinator.com/companies/webflow
+Whatnot,Winter 2020,Whatnot is the largest livestream shopping platform in the U.S.,https://www.ycombinator.com/companies/whatnot
+Zapier,Summer 2012,The easiest way to automate your work.,https://www.ycombinator.com/companies/zapier
+Zepto,Winter 2021,10-Minute Grocery Delivery in India,https://www.ycombinator.com/companies/zepto
+Focal Systems,Winter 2016,Building the Operating System for B&M Retail using Deep Learning,https://www.ycombinator.com/companies/focal-systems
+Mio,Winter 2016,Mio powers seamless communication between workplace chat apps.,https://www.ycombinator.com/companies/mio
+Daily,Winter 2016,Conversational Voice and Multimodal AI built with Open Source,https://www.ycombinator.com/companies/daily
+Petcube,Winter 2016,Petcube is on the mission to improve lives of pets and pet owners…,https://www.ycombinator.com/companies/petcube
+Outschool,Winter 2016,A live online learning platform that empowers kids ages 3–18.,https://www.ycombinator.com/companies/outschool
+Mason,Winter 2016,Mason is the fastest way to take smart devices from idea to end user,https://www.ycombinator.com/companies/mason
+MagicBus,Winter 2016,We make vanpool simple.,https://www.ycombinator.com/companies/magicbus
+Tovala,Winter 2016,A smart-oven-paired subscription meal service.,https://www.ycombinator.com/companies/tovala
+iSono Health,Winter 2016,AI-powered platform for Accessible and Personalized Breast Health…,https://www.ycombinator.com/companies/isono-health
+GetAccept,Winter 2016,Close deals faster. Digitally.,https://www.ycombinator.com/companies/getaccept
+Chatfuel,Winter 2016,Platform to easily create chatbots to engage with audiences on…,https://www.ycombinator.com/companies/chatfuel
+Yardbook,Winter 2016,Marketplace & Software Revolutionizing Yard Care,https://www.ycombinator.com/companies/yardbook
+GoCardless,Summer 2011,We’re building the world’s bank payment network.,https://www.ycombinator.com/companies/gocardless
+Stealth Worker,Winter 2016,"Information Security (Cyber Security), Compliance and Privacy (GDPR &…",https://www.ycombinator.com/companies/stealth-worker
+Deepgram,Winter 2016,Building foundational AI for speech transcription and understanding.,https://www.ycombinator.com/companies/deepgram
+SOUNDBOKS,Winter 2016,We're creating the loudest battery-driven speaker on the market,https://www.ycombinator.com/companies/soundboks
+Lattice,Winter 2016,Modern people management platform.,https://www.ycombinator.com/companies/lattice
+Mux,Winter 2016,Video infrastructure for developers,https://www.ycombinator.com/companies/mux
+Human Interest,Summer 2015,The 401(k) for small and medium-sized businesses.,https://www.ycombinator.com/companies/human-interest
+Flirtey (SkyDrop),Summer 2015,Flirtey is the world’s first commercial drone delivery service and…,https://www.ycombinator.com/companies/flirtey
+Eight Sleep,Summer 2015,The sleep fitness company.,https://www.ycombinator.com/companies/eight-sleep
+Instawork,Summer 2015,A flexible work app that connects businesses with hourly workers.,https://www.ycombinator.com/companies/instawork
+Cofactor Genomics,Summer 2015,Cofactor closes the precision medicine gap with predictive diagnostics,https://www.ycombinator.com/companies/cofactor-genomics
+Click & Grow,Summer 2015,Click & Grow makes indoor urban gardens and farms that take complete…,https://www.ycombinator.com/companies/click-and-grow
+Bitmovin,Summer 2015,Powers OTT online video providers with video developer tools.,https://www.ycombinator.com/companies/bitmovin
+TetraScience,Summer 2015,The only R&D data cloud for life sciences,https://www.ycombinator.com/companies/tetrascience
+The Ticket Fairy,Summer 2015,Revenue generation for live events,https://www.ycombinator.com/companies/the-ticket-fairy
+Font Awesome,Summer 2015,Icons and social logos for your website.,https://www.ycombinator.com/companies/font-awesome
+"80,000 Hours",Summer 2015,An online guide that tells talented graduates how to maximise the…,https://www.ycombinator.com/companies/80-000-hours
+Xendit,Summer 2015,Provides payment infrastructure for Southeast Asia,https://www.ycombinator.com/companies/xendit
+Shred Video,Summer 2015,Shred Video builds automated video & photo systems that allow…,https://www.ycombinator.com/companies/shred-video
+Shape (ShapeScale),Summer 2015,ShapeScale is a personal 3D scanner and fitness tracker that…,https://www.ycombinator.com/companies/shape-shapescale
+RedCarpetUp,Summer 2015,Credit cards for Indians that banks cannot see,https://www.ycombinator.com/companies/redcarpetup
+Plate IQ,Summer 2015,Automated Accounts Payable,https://www.ycombinator.com/companies/plate-iq
+PickTrace,Summer 2015,Workforce Management for Large Farms,https://www.ycombinator.com/companies/picktrace
+Fountain,Summer 2015,High volume hiring made simple,https://www.ycombinator.com/companies/fountain
+MicroHealth,Summer 2015,Digital hematology,https://www.ycombinator.com/companies/microhealth
+Zeplin,Summer 2015,Deliver on the Promise of Design,https://www.ycombinator.com/companies/zeplin
+Markhor,Summer 2015,Markhor is a DTC company that works with craftsmen to make shoes and…,https://www.ycombinator.com/companies/markhor
+Circle Medical,Summer 2015,Modern primary care via video and in-person,https://www.ycombinator.com/companies/circle-medical
+GiveCampus,Summer 2015,The fundraising platform for schools.,https://www.ycombinator.com/companies/givecampus
+Drip Capital,Summer 2015,Digital trade financing for small businesses,https://www.ycombinator.com/companies/drip-capital
+Chaldal,Summer 2015,,https://www.ycombinator.com/companies/chaldal
+Clerky,Summer 2011,Makes legal paperwork easy for startups and their attorneys.,https://www.ycombinator.com/companies/clerky
+Bodyport,Summer 2015,Predicting and preventing heart disease.,https://www.ycombinator.com/companies/bodyport
+Verge Genomics,Summer 2015,We use human data and AI to develop better drugs faster.,https://www.ycombinator.com/companies/verge-genomics
+Thrive Agritech,Summer 2015,We design and manufacture energy efficient LED lighting fixtures for…,https://www.ycombinator.com/companies/thrive-agritech
+Tesorio,Summer 2015,Tesorio is the cash flow performance platform that helps finance…,https://www.ycombinator.com/companies/tesorio
+AgileMD,Summer 2011,Predictive analytics and clinical pathways for hospitals,https://www.ycombinator.com/companies/agilemd
+Reach Labs,Summer 2015,"Long range, wireless energy distribution that scales",https://www.ycombinator.com/companies/reach-labs
+SunFarmer,Summer 2015,Reliable and affordable solar energy in developing countries.,https://www.ycombinator.com/companies/sunfarmer
+Confident LIMS,Summer 2015,Laboratory Information Management System (LIMS) serving…,https://www.ycombinator.com/companies/confident-lims
+Branch8,Summer 2015,Branch8 helps sellers to list and manage products on e-commerce…,https://www.ycombinator.com/companies/branch8
+Heroic Labs,Summer 2015,"Social Infrastructure for Games; Makers of Nakama game server, Satori…",https://www.ycombinator.com/companies/heroic-labs
+SnapMagic,Summer 2015,AI copilot for electronics design,https://www.ycombinator.com/companies/snapmagic
+Scope AR,Summer 2015,Scope AR is the leading provider of User Guided Augmented Reality…,https://www.ycombinator.com/companies/scope-ar
+PartnerStack,Summer 2015,PartnerStack is a full stack solution for partnerships.,https://www.ycombinator.com/companies/partnerstack
+Assembly,Summer 2015,Advanced manufacturing and distribution solutions (for China-based…,https://www.ycombinator.com/companies/assembly
+Gemnote,Summer 2015,"Gemnote is the easiest way to design, create and send custom products.",https://www.ycombinator.com/companies/gemnote
+New Story,Summer 2015,We pioneer solutions to end the global housing crisis by empowering…,https://www.ycombinator.com/companies/new-story
+Ironclad,Summer 2015,Digital contracting platform for legal teams.,https://www.ycombinator.com/companies/ironclad
+Leaders In Tech (formerly InnerSpace),Summer 2015,"Helping founders improve themselves, their companies, and the world.",https://www.ycombinator.com/companies/leaders-in-tech
+teaBOT,Summer 2015,A robot that makes tea!,https://www.ycombinator.com/companies/teabot
+Teleport,Summer 2015,"The easiest, most secure way to access all your infrastructure",https://www.ycombinator.com/companies/teleport
+Lugg,Summer 2015,"Move anything, anytime, anywhere",https://www.ycombinator.com/companies/lugg
+Shasqi,Winter 2015,Targeting Cancer with Click Chemistry,https://www.ycombinator.com/companies/shasqi
+Mashgin,Winter 2015,Self-Checkout using Computer Vision.,https://www.ycombinator.com/companies/mashgin
+NimbleRx,Winter 2015,On-demand prescription delivery.,https://www.ycombinator.com/companies/nimblerx
+Quartzy,Summer 2011,Marketplace for life science supplies.,https://www.ycombinator.com/companies/quartzy
+Replika,Winter 2015,Replika is an AI friend that you can talk to designed to make you…,https://www.ycombinator.com/companies/replika
+Tara AI,Winter 2015,"Meet Tara AI, your new engineering efficiency co-pilot.",https://www.ycombinator.com/companies/tara-ai
+Flip,Winter 2015,Community-driven marketplace for sneakers.,https://www.ycombinator.com/companies/flip
+X-Zell,Winter 2015,"Early, pain-free cancer detection.",https://www.ycombinator.com/companies/x-zell
+Zenflow,Winter 2015,"Medical device that provides a more effective, less invasive…",https://www.ycombinator.com/companies/zenflow
+Tab,Winter 2015,"Revolutionising the way travellers discover, plan and book a trip",https://www.ycombinator.com/companies/tab
+Priime,Winter 2015,Priime is a company dedicated to advancements in technology around…,https://www.ycombinator.com/companies/priime
+Streak,Summer 2011,Streak transforms Gmail into a powerful CRM,https://www.ycombinator.com/companies/streak
+Meadow,Winter 2015,Point of Sale and Compliance SaaS for Cannabis Dispensaries,https://www.ycombinator.com/companies/meadow
+Level Frames,Winter 2015,Software eats custom framing,https://www.ycombinator.com/companies/level-frames
+Industrial Microbes,Winter 2015,We design and build microbes to make chemicals greener at lower cost.,https://www.ycombinator.com/companies/industrial-microbes
+Giveffect,Winter 2015,"Fundraising, Volunteer and Donor Management SaaS for nonprofits.",https://www.ycombinator.com/companies/giveffect
+eBrandvalue,Winter 2015,Real-time Nielsen ratings for Brands.Accelerate marketing and product…,https://www.ycombinator.com/companies/ebrandvalue
+Quantierra,Winter 2015,Sourcing investment real estate,https://www.ycombinator.com/companies/quantierra
+Cleanly,Winter 2015,Laundry & Dry Cleaning delivered.,https://www.ycombinator.com/companies/cleanly
+Resolve,Winter 2015,"VR simulations for operations, maintenance and construction teams.",https://www.ycombinator.com/companies/resolve
+Makrwatch,Winter 2015,Scale new user acquisition with YouTube Creators,https://www.ycombinator.com/companies/makrwatch
+TeamNote,Winter 2015,Mobile Productivity(Slack for mobile workforces),https://www.ycombinator.com/companies/teamnote
+Tempo,Winter 2015,Live home fitness training powered by computer vision.,https://www.ycombinator.com/companies/tempo
+SIRUM,Winter 2015,SIRUM is a “match.com” for unused medicine. We connect institutional…,https://www.ycombinator.com/companies/sirum
+Sails Co.,Winter 2015,"Full-service web, mobile, & cloud studio providing professional…",https://www.ycombinator.com/companies/sails-co
+ReadMe,Winter 2015,"Beautiful, personalized, interactive developer hubs",https://www.ycombinator.com/companies/readme
+BuildScience,Winter 2015,The operating system for commercial buildings.,https://www.ycombinator.com/companies/buildscience
+Platzi,Winter 2015,Latin America's School of Technology,https://www.ycombinator.com/companies/platzi
+Labdoor,Winter 2015,Labdoor is building the trusted online drugstore.,https://www.ycombinator.com/companies/labdoor
+GiveMeTap,Winter 2015,We produce & sell stainless steel water bottles that enables people…,https://www.ycombinator.com/companies/givemetap
+Bankjoy,Winter 2015,An end-to-end digital banking solution for banks and credit unions,https://www.ycombinator.com/companies/bankjoy
+Zeitview,Winter 2015,Inspection software for renewable energy & sustainable infrastructure,https://www.ycombinator.com/companies/zeitview
+The Human Utility,Winter 2015,The Human Utility seeks to eliminate water service disconnections for…,https://www.ycombinator.com/companies/the-human-utility
+Democracy Earth,Winter 2015,Censorship resistant democracies.,https://www.ycombinator.com/companies/democracy-earth
+OneSignal,Summer 2011,Engage customers through personalized omni-channel messaging,https://www.ycombinator.com/companies/onesignal
+Atomwise,Winter 2015,Artificial intelligence for drug discovery.,https://www.ycombinator.com/companies/atomwise
+Bright,Winter 2015,Sunrun for the developing world,https://www.ycombinator.com/companies/bright
+Magic,Winter 2015,Extremely talented assistants for busy people,https://www.ycombinator.com/companies/magic
+Mezmo,Winter 2015,Observability platform to control all of your log data,https://www.ycombinator.com/companies/mezmo
+Akido Labs,Winter 2015,Rebuilding healthcare with AI at the core,https://www.ycombinator.com/companies/akido-labs
+Qventus,Winter 2015,We automate operations for hospitals and health systems,https://www.ycombinator.com/companies/qventus
+Bayes Impact,Summer 2014,Tech nonprofit building the future of public services.,https://www.ycombinator.com/companies/bayes-impact
+Helion Energy,Summer 2014,Building the world's first fusion power plant,https://www.ycombinator.com/companies/helion-energy
+HackerRank,Summer 2011,Change the world to value skills over pedigree,https://www.ycombinator.com/companies/hackerrank
+Front,Summer 2014,Customer communications hub for building strong relationships,https://www.ycombinator.com/companies/front
+Apollo,Summer 2011,Apollo helps engineering teams accelerate delivery,https://www.ycombinator.com/companies/apollo
+Roomstorm,Summer 2014,Real time B2B hotel room marketplace for various industries…,https://www.ycombinator.com/companies/roomstorm
+Hive,Summer 2014,"Marketing automation for event promoters (email, sms, ads, CRM)",https://www.ycombinator.com/companies/hive
+Tenjin,Summer 2014,Mobile marketing analytics and infrastructure,https://www.ycombinator.com/companies/tenjin
+SpotAngels,Summer 2014,Waze for parking,https://www.ycombinator.com/companies/spotangels
+UserGems,Summer 2014,AI-powered sales solution based on your best customers,https://www.ycombinator.com/companies/usergems
+SFOX,Summer 2014,Crypto-currency trading platform.,https://www.ycombinator.com/companies/sfox
+PicnicHealth,Summer 2014,Empowering Patients for Deep Real World Data,https://www.ycombinator.com/companies/picnichealth
+Permutive,Summer 2014,Rebuilding data in advertising to protect privacy,https://www.ycombinator.com/companies/permutive
+Alchemy,Summer 2014,Nanotechnology-enabled coatings for automotive and defence sectors,https://www.ycombinator.com/companies/alchemy
+MTailor,Summer 2014,Get measured by your phone in under 30 seconds for perfect fitting…,https://www.ycombinator.com/companies/mtailor
+MetricWire,Summer 2014,Mobile surveys for researchers,https://www.ycombinator.com/companies/metricwire
+Protocol Labs,Summer 2014,"Protocol Labs makes internet protocols: IPFS, Filecoin, and more.",https://www.ycombinator.com/companies/protocol-labs
+Greentoe,Summer 2014,"""Name Your Price"" for products",https://www.ycombinator.com/companies/greentoe
+Hyperpad,Summer 2014,"Create, Share, Play Mobile Games on the iPad.",https://www.ycombinator.com/companies/hyperpad
+Flaviar,Summer 2014,Try-at-home service for fine spirits,https://www.ycombinator.com/companies/flaviar
+Clear,Summer 2014,"Fintech SaaS platform for invoices, taxes, wealth management & credit.",https://www.ycombinator.com/companies/cleartax
+Billforward,Summer 2014,"Subscription billing, rate plan management and analytics as a…",https://www.ycombinator.com/companies/billforward
+Backpack,Summer 2014,Marketplace to get stuff from overseas,https://www.ycombinator.com/companies/backpack
+Aptible,Summer 2014,The No Infrastructure Platform as a Service,https://www.ycombinator.com/companies/aptible
+Immunity Project,Winter 2014,The free HIV vaccine.,https://www.ycombinator.com/companies/immunity-project
+Dyspatch,Winter 2014,Two products to help everyone email better. Dyspatch.io - Email…,https://www.ycombinator.com/companies/dyspatch
+OpenCurriculum,Winter 2014,Helping K-12 teachers and school administrators build awesome…,https://www.ycombinator.com/companies/opencurriculum
+MixerBox,Winter 2014,AI Super-Apps to Live Easier | The anything anytime superapps…,https://www.ycombinator.com/companies/mixerbox
+Unbabel,Winter 2014,AI-powered Language Operations platform,https://www.ycombinator.com/companies/unbabel
+Y Combinator,Fintech,Not your average fixed point combinator.,https://www.ycombinator.com/companies/y-combinator
+GBatteries,Winter 2014,Enabling li-ion batteries to charge ultra fast without compromising…,https://www.ycombinator.com/companies/gbatteries
+Zinc,Winter 2014,The secret backbone of e-commerce.,https://www.ycombinator.com/companies/zinc
+Zidisha,Winter 2014,Direct P2P lending across the international wealth divide.,https://www.ycombinator.com/companies/zidisha
+TrueVault,Winter 2014,We make Privacy Software for SMBs.,https://www.ycombinator.com/companies/truevault
+Guesty,Winter 2014,The management platform for the short term rental industry.,https://www.ycombinator.com/companies/guesty
+Snapdocs,Winter 2014,digital mortgage closing,https://www.ycombinator.com/companies/snapdocs
+Medmonk,Winter 2012,A tool for pharmacists to find funding for patients who are unable to…,https://www.ycombinator.com/companies/medmonk
+Shoobs,Winter 2014,We help you find and book tickets to great entertainment events that…,https://www.ycombinator.com/companies/shoobs
+Pushbullet,Winter 2014,Push things to your other things.,https://www.ycombinator.com/companies/pushbullet
+Povio,Winter 2014,Engineering and Design that Fuels Startup Success,https://www.ycombinator.com/companies/povio
+PiinPoint,Winter 2014,PiinPoint helps businesses find the best locations for growth,https://www.ycombinator.com/companies/piinpoint
+One Degree,Winter 2014,One Degree is a nonprofit organization that makes it easy for…,https://www.ycombinator.com/companies/one-degree
+MBX,Winter 2014,A global multi-brand beauty and personal care startup.,https://www.ycombinator.com/companies/mbx
+Emailio,Winter 2014,Email built for wellness,https://www.ycombinator.com/companies/emailio
+DevCycle,Winter 2014,Feature Flag Management Built for Developers,https://www.ycombinator.com/companies/devcycle
+Axoni,Winter 2014,Axoni is building the next generation of capital markets technology,https://www.ycombinator.com/companies/axoni
+CodeNow,Winter 2014,Our mission is to diversify the talent pipeline of students who…,https://www.ycombinator.com/companies/codenow
+CodeCombat,Winter 2014,Game that teaches computer science to middle and high school kids.,https://www.ycombinator.com/companies/codecombat
+Noora Health,Winter 2014,Training patients and their families with health skills,https://www.ycombinator.com/companies/noora-health
+Cambly,Winter 2014,On-demand access to English tutors over video chat.,https://www.ycombinator.com/companies/cambly
+AptDeco,Winter 2014,AptDeco is the easiest way to buy and sell used furniture,https://www.ycombinator.com/companies/aptdeco
+CareMessage,Winter 2014,Patient engagement for low-income populations,https://www.ycombinator.com/companies/caremessage
+Ambition,Winter 2014,Coaching and gamification software for sales teams.,https://www.ycombinator.com/companies/ambition
+AirHelp,Winter 2014,"AirHelp helps air passengers get compensation for delayed, cancelled…",https://www.ycombinator.com/companies/airhelp
+42,Winter 2014,Analytics stack for omnichannel retailers and brands,https://www.ycombinator.com/companies/42
+True Link,Summer 2013,Financial Services for Financial Caregivers.,https://www.ycombinator.com/companies/true-link
+Reebee,Summer 2013,Flyer app.,https://www.ycombinator.com/companies/reebee
+Lob,Summer 2013,Lob is the only automation platform that transforms direct mail into…,https://www.ycombinator.com/companies/lob
+Panorama Education,Summer 2013,Improving education for every student.,https://www.ycombinator.com/companies/panorama-education
+Cratejoy,Summer 2013,Cratejoy is the platform for subscriptions,https://www.ycombinator.com/companies/cratejoy
+"Estimote, Inc.",Summer 2013,Location intelligence platform,https://www.ycombinator.com/companies/estimote-inc
+EasyPost,Summer 2013,The shipping infrastructure of the internet.,https://www.ycombinator.com/companies/easypost
+Asseta,Summer 2013,Marketplace for industrial spare parts and capital equipment.,https://www.ycombinator.com/companies/asseta
+Per Vices,Winter 2012,Building Mission Critical Software Defined Radio products.,https://www.ycombinator.com/companies/per-vices
+7cups,Summer 2013,7 Cups is an emotional support service that matches up people that…,https://www.ycombinator.com/companies/7cups
+Watsi,Winter 2013,Watsi is the first global crowdfunding platform for medical…,https://www.ycombinator.com/companies/watsi
+Goldbelly,Winter 2013,Empowering restaurants and small food makers to ship nationwide.,https://www.ycombinator.com/companies/goldbelly
+Wevorce,Winter 2013,Changing divorce for good by making it a way less horrible experience…,https://www.ycombinator.com/companies/wevorce
+Wefunder,Winter 2013,We're Robinhood for pre-IPO startups. Everyone can invest $100.,https://www.ycombinator.com/companies/wefunder
+SimplyInsured,Winter 2013,We sell health insurance to small businesses 100% online.,https://www.ycombinator.com/companies/simplyinsured
+CircuitHub,Winter 2012,On-Demand Electronics Manufacturing,https://www.ycombinator.com/companies/circuithub
+Experiment,Winter 2013,crowdfunding platform for science,https://www.ycombinator.com/companies/experiment
+RADAR,Winter 2013,RADAR is building technology to completely transform the in-store…,https://www.ycombinator.com/companies/radar
+Lollipuff,Winter 2013,Online Auctions for Authentic (Women's) Designer Goods,https://www.ycombinator.com/companies/lollipuff
+Strikingly,Winter 2013,"The easiest way to create a beautiful, mobile optimized website.",https://www.ycombinator.com/companies/strikingly
+InfluxData,Winter 2013,The platform for building and operating time series applications.,https://www.ycombinator.com/companies/influxdata
+Etleap,Winter 2013,Etleap is an ETL solution for creating perfect data pipelines.,https://www.ycombinator.com/companies/etleap
+Cheetah,Winter 2013,"Fastest, easiest, and most affordable way for small business owners…",https://www.ycombinator.com/companies/cheetah
+Lawdingo,Winter 2013,Lawdingo provides virtual paralegal services to law firms.,https://www.ycombinator.com/companies/lawdingo
+Padlet,Winter 2013,Papyrus → Parchment → Paper → Padlet,https://www.ycombinator.com/companies/padlet
+BuildZoom,Winter 2013,BuildZoom is a better way to remodel. We connect homeowners to the…,https://www.ycombinator.com/companies/buildzoom
+CircuitLab,Winter 2013,Online circuit simulator and electronic schematic editor.,https://www.ycombinator.com/companies/circuitlab
+StyleUp,Winter 2013,"StyleUp brings effortless joy to getting dressed with daily,…",https://www.ycombinator.com/companies/styleup
+9gag,Summer 2012,Make the world happier.,https://www.ycombinator.com/companies/9gag
+Svbtle,Summer 2012,A publishing platform.,https://www.ycombinator.com/companies/svbtle
+Plivo,Summer 2012,"AI Agents for customer engagement on WhatsApp, Voice, Chat & SMS.",https://www.ycombinator.com/companies/plivo
+Double Robotics,Summer 2012,Telepresence robots,https://www.ycombinator.com/companies/double-robotics
+Vastrm,Summer 2012,Mass customized active apparel. We are building a full turn key…,https://www.ycombinator.com/companies/vastrm
+Flightfox,Summer 2012,"A platform to plan, book and manage global and group travel.",https://www.ycombinator.com/companies/flightfox
+BackerKit,Summer 2012,The only end-to-end crowdfunding platform built for today’s creators,https://www.ycombinator.com/companies/backerkit
+Submittable,Summer 2012,"The best way to launch, manage and measure social impact programs",https://www.ycombinator.com/companies/submittable
+NewsBlur,Summer 2012,NewsBlur is a personalized news reader,https://www.ycombinator.com/companies/newsblur
+OctaveWealth,Summer 2012,The 401(k) that helps you grow,https://www.ycombinator.com/companies/octavewealth
+Upwave,Summer 2012,Marketing analytics for the world's biggest brand marketers,https://www.ycombinator.com/companies/upwave
+Eligible,Summer 2012,Insurance Billing APIs for Healthcare Businesses,https://www.ycombinator.com/companies/eligible
+FundersClub,Summer 2012,Online VC,https://www.ycombinator.com/companies/fundersclub
+Zentail,Summer 2012,We're making ecommerce simple connecting brands with sales channels,https://www.ycombinator.com/companies/zentail
+Mattermost,Summer 2012,Secure Collaboration for Technical Teams,https://www.ycombinator.com/companies/mattermost
+HealthSherpa,Summer 2012,Private sector Healthcare.gov.,https://www.ycombinator.com/companies/healthsherpa
+Human Dx,Summer 2012,The Human Diagnosis Project.,https://www.ycombinator.com/companies/human-dx
+Mth Sense,Summer 2012,We're a mobile on-device profiling and ad-serving platform initially…,https://www.ycombinator.com/companies/mth-sense
+Rainforest,Summer 2012,no-code end-to-end testing that integrates with any CI/CD pipeline,https://www.ycombinator.com/companies/rainforest
+Screenleap,Winter 2012,One-click screen sharing with installation-free viewing on all devices,https://www.ycombinator.com/companies/screenleap-inc
+Buxfer,Winter 2007,Buxfer helps you make better spending decisions by making it easy to…,https://www.ycombinator.com/companies/buxfer
+Virtualmin,Winter 2007,,https://www.ycombinator.com/companies/virtualmin
+Blue Frog Gaming,Summer 2007,,https://www.ycombinator.com/companies/blue-frog-gaming
+CleverDeck,Winter 2012,Collaborate with an artist to commission original artwork you'll live…,https://www.ycombinator.com/companies/cleverdeck
+Shoptiques,Winter 2012,Shoptiques.com lets you shop the world's best local boutiques online.,https://www.ycombinator.com/companies/shoptiques
+Reacher,Summer 2025,AI-powered marketplace connecting brands with top creators,https://www.ycombinator.com/companies/reacher
+Idler,Summer 2025,"AI employees that handle the work, so people can do the magic.",https://www.ycombinator.com/companies/idler
+Perseus Defense,Summer 2025,Autonomous micro-missiles for Counter UxS.,https://www.ycombinator.com/companies/perseus-defense
+Cyberdesk,Summer 2025,Self hostable fleet of virtual desktops to build computer use agents,https://www.ycombinator.com/companies/cyberdesk
+Ninite,Winter 2008,Simple third-party app patching and deployment for Windows.,https://www.ycombinator.com/companies/ninite
+Cohesive,Spring 2025,The agentic CRM for blue-collar services,https://www.ycombinator.com/companies/cohesive
+Docket,Spring 2025,AI agents for web testing,https://www.ycombinator.com/companies/docket
+Daxa,Spring 2025,An AI that watches how people use your product,https://www.ycombinator.com/companies/daxa
+SAVA,Spring 2025,Autonomous Factories for American Manufacturing,https://www.ycombinator.com/companies/sava
+Godela,Spring 2025,AI Physics Engine to replace simulations and prototypes,https://www.ycombinator.com/companies/godela
+BitPatrol,Spring 2025,AI-powered code security,https://www.ycombinator.com/companies/bitpatrol
+Aegis,Spring 2025,AI Agents to win denied health insurance claims.,https://www.ycombinator.com/companies/aegis
+Cascade Space,Spring 2025,Deep space communications as a service,https://www.ycombinator.com/companies/cascade-space
+Bond,Spring 2025,"Building Donna, your AI Chief of Staff",https://www.ycombinator.com/companies/bond
+Blueshoe,Spring 2025,The AI-native legal back office,https://www.ycombinator.com/companies/blueshoe
+sieve,Spring 2025,AI + human review to solve data cleaning - accessible via API or Excel,https://www.ycombinator.com/companies/usesieve
+Airweave,Spring 2025,Open-Source Tool That Lets Agents Search Any App,https://www.ycombinator.com/companies/airweave
+Theorem,Spring 2025,Program verification so even your systems engineers can vibecode,https://www.ycombinator.com/companies/theorem-2
+text.ai,Spring 2025,AI in your group chats,https://www.ycombinator.com/companies/text-ai
+StarSling,Spring 2025,Cursor for DevOps,https://www.ycombinator.com/companies/starsling
+Wavedash,Spring 2025,Play the latest games in your browser with no downloads,https://www.ycombinator.com/companies/wavedash
+Cactus,Spring 2025,AI copilot for solopreneurs,https://www.ycombinator.com/companies/oncactus
+LineWise,Spring 2025,AI Engineer to troubleshoot manufacturing line issues,https://www.ycombinator.com/companies/linewise
+Code Four,Spring 2025,Modernizing the police workflow.,https://www.ycombinator.com/companies/code-four
+Lumari,Spring 2025,Agentic internal tools,https://www.ycombinator.com/companies/lumari
+mlop,Spring 2025,Experiment tracking for training ML models,https://www.ycombinator.com/companies/mlop
+Den,Spring 2025,Cursor for knowledge workers,https://www.ycombinator.com/companies/den
+Propolis,Spring 2025,Hands off QA via intelligent browser agents.,https://www.ycombinator.com/companies/propolis
+Cotool,Spring 2025,AI Agents for Security Operations Teams,https://www.ycombinator.com/companies/cotool
+Delty,Spring 2025,AI staff engineer: software architect that leads coding agents,https://www.ycombinator.com/companies/delty
+Nimbic AI,Spring 2025,Automatically write and update internal docs with every code commit.,https://www.ycombinator.com/companies/nimbic-ai
+Moby Analytics,Spring 2025,AI financial auditors,https://www.ycombinator.com/companies/moby-analytics
+Rimba,Spring 2025,AI to replace consultants for energy & industrial compliance reporting,https://www.ycombinator.com/companies/rimba
+WorkDone,Spring 2025,Real-time AI Compliance for Medical Documentation,https://www.ycombinator.com/companies/workdone
+Probo,Spring 2025,We help you get compliant while you focus on your business.,https://www.ycombinator.com/companies/probo
+MindFort,Spring 2025,Autonomous Security Agents,https://www.ycombinator.com/companies/mindfort
+chrt,Spring 2025,chrt is a logistics platform for time-critical shipping,https://www.ycombinator.com/companies/chrt
+Lapel,Spring 2025,Scale personalized service to every customer.,https://www.ycombinator.com/companies/lapel
+Mesmer,Spring 2025,Cursor for CTOs,https://www.ycombinator.com/companies/mesmer
+Relixir,Spring 2025,Content Automation for AI Search Visibility,https://www.ycombinator.com/companies/relixir
+Janus,Spring 2025,Battle-Test AI Agents with Human Simulation,https://www.ycombinator.com/companies/janus
+Hemut,Spring 2025,AI-powered operating system for trucking companies.,https://www.ycombinator.com/companies/hemut
+Zero,Spring 2025,AI powered email client that manages your email so you don't have to.,https://www.ycombinator.com/companies/zero
+ValueMate,Spring 2025,Valuemate automates real estate appraisals with AI,https://www.ycombinator.com/companies/valuemate
+Bramante Biologics,Spring 2025,American drug manufacturing,https://www.ycombinator.com/companies/bramante-biologics
+Scalar Field,Spring 2025,Reinventing the trading terminal — one intelligent agent at a time.,https://www.ycombinator.com/companies/scalar-field
+Eloquent AI,Spring 2025,The AI Operator for Financial Services,https://www.ycombinator.com/companies/eloquent-ai
+MorphoAI,Spring 2025,Software tool for designing robots and machines,https://www.ycombinator.com/companies/morphoai
+Vassar Robotics,Spring 2025,$200 Al robot arms that learn new skills in 30 min.,https://www.ycombinator.com/companies/vassar-robotics
+Boost Robotics,Spring 2025,Robots for the inspection and maintenance of data centers,https://www.ycombinator.com/companies/boost-robotics
+Sygaldry Technologies,Spring 2025,quantum-accelerated AI servers,https://www.ycombinator.com/companies/sygaldry-technologies
+ParaQuery,Spring 2025,Managed GPU-accelerated Spark + SQL at 2x speed and half the cost,https://www.ycombinator.com/companies/paraquery
+Klavis AI,Spring 2025,Open Source MCP Integrations for AI Applications,https://www.ycombinator.com/companies/klavis-ai
+Third Chair,Spring 2025,Agents for in-house legal teams,https://www.ycombinator.com/companies/third-chair
+Vesence,Spring 2025,Cursor for Lawyers. Agentic AI in MS Office.,https://www.ycombinator.com/companies/vesence
+PowerMatrix,Spring 2025,Efficient and compact power supply for AI hardware,https://www.ycombinator.com/companies/powermatrix
+Jazzberry,Spring 2025,Training LLMs to be expert bug finders,https://www.ycombinator.com/companies/jazzberry
+Besimple AI,Spring 2025,AI powered data annotation,https://www.ycombinator.com/companies/besimple-ai
+Alkali,Spring 2025,Your Copilot for Building Chemical Projects,https://www.ycombinator.com/companies/alkali
+Human Behavior,Spring 2025,"We reveal why users stay, leave, or pay",https://www.ycombinator.com/companies/human-behavior
+QualGent,Spring 2025,AI Mobile App Quality Assurance Tester,https://www.ycombinator.com/companies/qualgent
+Prism AI,Spring 2025,AI-native Datadog + Amplitude,https://www.ycombinator.com/companies/prism-ai
+Novoflow,Spring 2025,AI employees that automate medical operations for clinics.,https://www.ycombinator.com/companies/novoflow
+Theta Software,Spring 2025,Self-Learning for AI Agents,https://www.ycombinator.com/companies/theta-software
+Lyra,Spring 2025,AI-Native Zoom For Revenue Teams,https://www.ycombinator.com/companies/lyrahq
+Cleon,Spring 2025,AI Agents for Software Implementations,https://www.ycombinator.com/companies/cleon
+throxy,Spring 2025,Vertical AI agents that run the sales funnel on autopilot,https://www.ycombinator.com/companies/throxy
+Lucis,Spring 2025,Function Health for Europe,https://www.ycombinator.com/companies/lucis
+Flott HQ,Spring 2025,AI-native operating system for vehicle fleet management,https://www.ycombinator.com/companies/flott-hq
+Crimson,Spring 2025,The AI Associate for Litigation Lawyers,https://www.ycombinator.com/companies/crimson
+Casco,Spring 2025,"Evaluate AI agents and apps on security, safety, and accuracy.",https://www.ycombinator.com/companies/casco
+Nomi,Spring 2025,Cursor for Sales,https://www.ycombinator.com/companies/nomi
+Morphik,Spring 2025,Open-source multimodal search for AI apps,https://www.ycombinator.com/companies/morphik
+RunRL,Spring 2025,Reinforcement learning as a service,https://www.ycombinator.com/companies/runrl
+Ticket Wallet,Spring 2025,AI-optimized ticket resale,https://www.ycombinator.com/companies/ticket-wallet
+Kaizen,Spring 2025,Integrate instantly with any website.,https://www.ycombinator.com/companies/kaizen
+HABIT,Spring 2025,Reshaping neighborhood services with robotics. Auto details are first.,https://www.ycombinator.com/companies/habit
+Clidey,Spring 2025,Documentation made for AI Agents,https://www.ycombinator.com/companies/clidey
+Opusense AI,Spring 2025,AI for Field Inspection Reports,https://www.ycombinator.com/companies/opusense-ai
+Labric,Spring 2025,The data layer for scientific research,https://www.ycombinator.com/companies/labric
+Photonium,Spring 2025,AI-Driven Optical System Design,https://www.ycombinator.com/companies/photonium
+Sixtyfour,Spring 2025,Bloomberg for Sales,https://www.ycombinator.com/companies/sixtyfour
+Odapt,Spring 2025,How great teams build internal software & agent workflows,https://www.ycombinator.com/companies/odapt
+Clado,Spring 2025,Deep Research for People,https://www.ycombinator.com/companies/clado
+Combinely,Spring 2025,AI coworker for accountants,https://www.ycombinator.com/companies/combinely
+VoiceOS,Spring 2025,Voice AI Interviews for Enterprise,https://www.ycombinator.com/companies/voiceos
+Chiron,Spring 2025,Grammarly for Math ✏️,https://www.ycombinator.com/companies/chiron
+Jeevy Fabrication,Spring 2025,AI Driven EPC - Weld Fabrication Contractor,https://www.ycombinator.com/companies/jeevy-fabrication
+Trapeze,Spring 2025,AI-native Zocdoc,https://www.ycombinator.com/companies/trapeze
+Tinfoil,Spring 2025,"Tinfoil makes your AI workflows secure, verifiable, and private.",https://www.ycombinator.com/companies/tinfoil
+The LLM Data Company,Spring 2025,Datagen Tooling for Evals & RL,https://www.ycombinator.com/companies/the-llm-data-company
+Operative,Spring 2025,Web application code generation for internal APIs,https://www.ycombinator.com/companies/operative
+Parsewise,Spring 2025,Business Analytics for Unstructured Data,https://www.ycombinator.com/companies/parsewise
+Better Auth,Spring 2025,The authentication framework for TypeScript,https://www.ycombinator.com/companies/better-auth
+Bluejay,Spring 2025,The world's first quality assurance agency for voice AI.,https://www.ycombinator.com/companies/bluejay
+Kestral,Spring 2025,AI Agents that prioritize the highest impact work across Sales and R&D,https://www.ycombinator.com/companies/kestral
+Attune,Spring 2025,"Faster builds, zero effort.",https://www.ycombinator.com/companies/attune
+PgDog,Spring 2025,Scaling engine for PostgreSQL,https://www.ycombinator.com/companies/pgdog
+Caucus,Spring 2025,AI CRM for Government,https://www.ycombinator.com/companies/caucus
+Kirana AI,Spring 2025,AI manager for physical stores,https://www.ycombinator.com/companies/kirana-ai
+Mbodi AI,Spring 2025,Embodied AI Platform for Industrial Robotics,https://www.ycombinator.com/companies/mbodi-ai
+Percival,Spring 2025,AI-powered data entry for wholesalers and distributors,https://www.ycombinator.com/companies/percival
+VibeGrade,Spring 2025,Cursor for Teachers,https://www.ycombinator.com/companies/vibegrade
+YouLearn,Spring 2025,AI tutor for each student.,https://www.ycombinator.com/companies/youlearn
+stratify,Spring 2025,AI agents that help you understand your customers' needs,https://www.ycombinator.com/companies/stratify
+Sim Studio,Spring 2025,The open source AI agent builder,https://www.ycombinator.com/companies/simstudio
+Clarm,Spring 2025,Perplexity for internal docs,https://www.ycombinator.com/companies/clarm
+Beluga Labs,Spring 2025,Rippling for Content Creators,https://www.ycombinator.com/companies/beluga-labs
+Kaelio,Spring 2025,AI operating system for healthcare organizations,https://www.ycombinator.com/companies/kaelio
+Zenobia Pay,Spring 2025,Bank transfers as payments for luxury retailers.,https://www.ycombinator.com/companies/zenobia-pay
+Zeon Systems,Spring 2025,AI-powered robotics for scientific lab automation.,https://www.ycombinator.com/companies/zeon-systems
+The Robot Learning Company,Spring 2025,Affordable robotic workers,https://www.ycombinator.com/companies/the-robot-learning-company
+HelixDB,Spring 2025,The database for intelligence,https://www.ycombinator.com/companies/helixdb
+Chonkie,Spring 2025,Open Source Data Ingestion For AI,https://www.ycombinator.com/companies/chonkie
+Almond,Spring 2025,AI robots for manufacturing,https://www.ycombinator.com/companies/almond-2
+Claim Health,Spring 2025,The first AI revenue platform for post-acute healthcare,https://www.ycombinator.com/companies/claim-health
+Capacitive,Spring 2025,The AI Agent Platform for Knowledge Workers.,https://www.ycombinator.com/companies/capacitive
+Anvil,Spring 2025,Anvil is the SEO platform for the AI era,https://www.ycombinator.com/companies/anvil
+Approval AI,Spring 2025,"One-click mortgage: AI shops, negotiates, and handles your application",https://www.ycombinator.com/companies/approval-ai
+Auctor,Spring 2025,Automating Enterprise Software Implementations,https://www.ycombinator.com/companies/auctor
+neoncoral,Spring 2025,🪸 AI consumer social,https://www.ycombinator.com/companies/neoncoral
+Galen AI,Spring 2025,"Personal AI healthcare agent, powered by clinical and wearable data.",https://www.ycombinator.com/companies/galen-ai
+SynthioLabs,Spring 2025,Voice AI Medical Rep for Pharma,https://www.ycombinator.com/companies/synthiolabs
+Cua,Spring 2025,Docker for Computer-use Agents,https://www.ycombinator.com/companies/cua
+Minerva,Spring 2025,AI to Replace SMB Bookkeepers,https://www.ycombinator.com/companies/minerva
+Kanava AI,Spring 2025,Your First AI Sales Hire for Wholesale Distributors,https://www.ycombinator.com/companies/kanava-ai
+GroundControl,Spring 2025,Vertical AI for highly-regulated manufacturing,https://www.ycombinator.com/companies/groundcontrol
+Avallon AI,Spring 2025,AI agents for insurance claims operations,https://www.ycombinator.com/companies/avallon-ai
+Bloom,Spring 2025,Build and share mobile apps in seconds,https://www.ycombinator.com/companies/bloom-4
+cubic,Spring 2025,AI-powered code review platform,https://www.ycombinator.com/companies/cubic
+Notus Autonomous Systems,Spring 2025,Swarm robotics and full AI-command hierarchy integration,https://www.ycombinator.com/companies/notus-autonomous-systems
+Golf,Spring 2025,Open-source platform for building production MCP servers,https://www.ycombinator.com/companies/golf
+BitBoard,Spring 2025,The AI workforce for healthcare operations.,https://www.ycombinator.com/companies/bitboard
+nao Labs,Spring 2025,Cursor for data teams.,https://www.ycombinator.com/companies/nao-labs
+Vybe,Spring 2025,Lovable for internal apps,https://www.ycombinator.com/companies/vybe
+Aravolta,Spring 2025,"Software to monitor, control, and optimize data centers.",https://www.ycombinator.com/companies/aravolta
+Kashikoi,Spring 2025,Simulation Engine for Benchmarking AI Products,https://www.ycombinator.com/companies/kashikoi
+Plexe,Spring 2025,Open-source agents to build predictive ML models from a prompt,https://www.ycombinator.com/companies/plexe
+RescueTime,Winter 2008,Take Back Control of your Time,https://www.ycombinator.com/companies/rescuetime
+Frekil,Spring 2025,Scale AI for Medical Scans,https://www.ycombinator.com/companies/frekil
+Chestnut,Spring 2025,The first AI mortgage lender,https://www.ycombinator.com/companies/chestnut
+Red Barn Robotics,Winter 2025,A Roomba for weeds on a farm.,https://www.ycombinator.com/companies/red-barn-robotics
+QFEX,Spring 2025,24/7 Global Stock Exchange,https://www.ycombinator.com/companies/qfex
+Blaxel,Spring 2025,AWS for AI Agents,https://www.ycombinator.com/companies/blaxel
+Mentra,Winter 2025,Building the open source smart glasses operating system.,https://www.ycombinator.com/companies/mentra
+BlindPay,Winter 2025,Stablecoin API for global payments,https://www.ycombinator.com/companies/blindpay
+Vantel,Winter 2025,AI Software for Commercial Insurance Brokers,https://www.ycombinator.com/companies/vantel
+Fira,Winter 2025,Agentic AI platform for investment firms,https://www.ycombinator.com/companies/fira
+assistant-ui,Winter 2025,Open Source React.js Library for AI Chat,https://www.ycombinator.com/companies/assistant-ui
+Artifact,Winter 2025,"An Collaborative, AI-native IDE for Hardware Engineers",https://www.ycombinator.com/companies/artifact-2
+Axal,Winter 2025,The AI Software Architect,https://www.ycombinator.com/companies/axal
+ThirdLayer,Winter 2025,"Building Dex, the AI Browser Copilot",https://www.ycombinator.com/companies/thirdlayer
+TrainLoop,Winter 2025,Reasoning Fine-Tuning,https://www.ycombinator.com/companies/trainloop
+Tally,Winter 2025,AI accounting,https://www.ycombinator.com/companies/tally-2
+SAMMY Labs,Winter 2025,"Live, AI-powered graph of every possible click path in your software",https://www.ycombinator.com/companies/sammy-labs
+Instinct,Winter 2025,Building the lunar future.,https://www.ycombinator.com/companies/instinct
+Mercura,Winter 2025,AI Quoting for distributors and manufacturers,https://www.ycombinator.com/companies/mercura
+emojis.com,Winter 2025,AI Copilot for Graphic Design,https://www.ycombinator.com/companies/emojis-com
+Cedar,Winter 2025,In-product AI copilot for any app,https://www.ycombinator.com/companies/cedar
+Browser Use,Winter 2025,Leading open-source web agent project with 50k stars in 3 months,https://www.ycombinator.com/companies/browser-use
+TamLabs,Winter 2025,Cursor for Microsoft Word,https://www.ycombinator.com/companies/tamlabs
+Ergo,Winter 2025,AI Agents for Sales Operations,https://www.ycombinator.com/companies/ergo
+CopyCat,Winter 2025,"Next-Gen RPA, Powered by Browser Agents",https://www.ycombinator.com/companies/copycat
+Paratus Health,Winter 2025,AI-powered intake nurse,https://www.ycombinator.com/companies/paratus-health
+Atlog,Spring 2025,Voice Agents for Physical Retail Stores,https://www.ycombinator.com/companies/atlog
+Pig,Winter 2025,Behavioral Cache for Agents,https://www.ycombinator.com/companies/pig
+Bluebook,Winter 2025,AI for accounting,https://www.ycombinator.com/companies/bluebook
+TensorPool,Winter 2025,Vercel For GPUs,https://www.ycombinator.com/companies/tensorpool
+Waffle,Spring 2025,AI Operating System for SMBs,https://www.ycombinator.com/companies/waffle
+Dalus,Winter 2025,AI-Powered Hardware System Design Software,https://www.ycombinator.com/companies/dalus
+Roark,Winter 2025,Datadog for Voice AI,https://www.ycombinator.com/companies/roark
+Rebolt,Winter 2025,AI Agents to Replace Restaurant Managers,https://www.ycombinator.com/companies/rebolt
+Spott,Winter 2025,AI agents for recruiting firms,https://www.ycombinator.com/companies/spott
+Woz,Winter 2025,AI platform enabling anyone to build and scale software businesses,https://www.ycombinator.com/companies/woz
+Proception Inc,Winter 2025,Making humanoids dexterous enough to thread a needle,https://www.ycombinator.com/companies/proception-inc
+Demeter,Winter 2025,AI Value Creation Team for Private Equity,https://www.ycombinator.com/companies/demeter
+Wildcard,Winter 2025,Make APIs work for AI Agents,https://www.ycombinator.com/companies/wildcard
+Permitify,Winter 2025,AI co-pilot for building plan review and building code compliance,https://www.ycombinator.com/companies/permitify
+Reditus Space,Winter 2025,Reusable Satellites for zero-g manufacturing,https://www.ycombinator.com/companies/reditus-space
+Optifye.ai,Winter 2025,AI performance monitoring for factory workers,https://www.ycombinator.com/companies/optifye-ai
+Pinch,Winter 2025,Video conferencing with real-time voice translation,https://www.ycombinator.com/companies/pinch
+Retrofit,Winter 2025,A vintage marketplace curated by AI,https://www.ycombinator.com/companies/retrofit
+Archon,Winter 2025,We help software companies sell to government.,https://www.ycombinator.com/companies/archon
+Forge Automation,Winter 2025,Software Enabled CNC Parts Supplier,https://www.ycombinator.com/companies/forge-automation
+Mastra,Winter 2025,"The Javascript framework for building AI agents, from the Gatsby devs",https://www.ycombinator.com/companies/mastra
+AfterQuery,Winter 2025,Research lab investigating the boundaries of AI capabilities.,https://www.ycombinator.com/companies/afterquery
+Misprint,Winter 2025,Misprint is building Robinhood for Pokemon cards,https://www.ycombinator.com/companies/misprint
+FuseAI,Winter 2025,The only sales software you will ever need.,https://www.ycombinator.com/companies/fuseai
+Miyagi Labs,Winter 2025,Shopify for AI-generated courses,https://www.ycombinator.com/companies/miyagi-labs
+Artificial Societies,Winter 2025,We use AI to simulate entire human societies,https://www.ycombinator.com/companies/artificial-societies
+TripleZip,Winter 2025,Automating CRE accounting with AI,https://www.ycombinator.com/companies/triplezip
+Peppr AI,Winter 2025,Self-improving knowledge base synthesizing scattered company data,https://www.ycombinator.com/companies/peppr-ai
+Infinite,Winter 2025,Global B2B Stablecoin Processor,https://www.ycombinator.com/companies/infinite

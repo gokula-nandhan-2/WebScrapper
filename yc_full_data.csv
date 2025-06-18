@@ -1,11 +1,501 @@
 Company Name,Batch,Short Description,Founder Name(s),Founder LinkedIn URL(s)
-DoorDash,Summer 2013ConsumerFood and Beverage,Restaurant delivery.,"Caroline Cochran, Jacob DeWitte, Oklo","https://www.linkedin.com/in/caorilne, http://linkedin.com/in/jacob-dewitte-90062132, https://www.linkedin.com/company/oklo/"
-Airbnb,"Winter 2009ConsumerTravel, Leisure and Tourism",Book accommodations around the world.,"Apoorva Mehta, Brandon Leonardo, Max Mullen, Instacart","https://www.linkedin.com/in/apoorvamehta/, https://www.linkedin.com/in/leonardo/, https://www.linkedin.com/in/maxmullen/, https://www.linkedin.com/company/instacart/"
-Coinbase,Summer 2012FintechBanking and Exchange,"Buy, sell, and manage cryptocurrencies.","DoorDash, Founders, Andy Fang, Stanley Tang, Tony Xu","https://www.linkedin.com/company/doordash/, https://www.linkedin.com/in/fangsterr, https://www.linkedin.com/in/stanleytang, https://www.linkedin.com/in/xutony"
-Instacart,Summer 2012ConsumerFood and Beverage,Marketplace for grocery delivery and pickup,"Arash Ferdowsi, Drew Houston, Dropbox","https://www.linkedin.com/in/arashferdowsi/, https://www.linkedin.com/in/drewhouston/, https://www.linkedin.com/company/dropbox/"
-Oklo,Summer 2014IndustrialsEnergy,"Emission free, always on power from advanced fission power plants.","Matterport, Founders, David Gausebeck",https://www.linkedin.com/in/david-gausebeck-ab23015
-Dropbox,Summer 2007B2BProductivity,Backup and share files in the cloud.,"Coinbase, Founders, Brian Armstrong",https://www.linkedin.com/in/barmstrong/
-GitLab,"Winter 2015B2BEngineering, Product and Design",A complete DevOps platform delivered as a single application.,"Rigetti Computing, Chad Rigetti",https://www.linkedin.com/in/chad-rigetti-9891562
-Rigetti Computing,Summer 2014IndustrialsManufacturing and Robotics,Quantum coherent supercomputing.,"Nathan Blecharczyk, Brian Chesky, Joe Gebbia, Airbnb","https://www.linkedin.com/in/blecharczyk/, https://www.linkedin.com/in/brianchesky/, https://www.linkedin.com/in/jgebbia/, https://www.linkedin.com/company/airbnb/"
-Matterport,Winter 2012ConsumerVirtual and Augmented Reality,Turn physical objects and environments into 3D models in seconds.,"GitLab, Founders, Sytse Sijbrandij, Dmytro Zaporozhets","https://www.linkedin.com/company/gitlab-com, http://nl.linkedin.com/in/sijbrandij, https://www.linkedin.com/in/dzaporozhets"
-Amplitude,Winter 2012B2BAnalytics,Digital Analytics Platform,"Spenser Skates, Curtis Liu, Amplitude","https://www.linkedin.com/in/spenserskates, https://www.linkedin.com/company/amplitude-analytics/"
+DoorDash,Summer 2013,Restaurant delivery.,"Andy Fang, Stanley Tang, Tony Xu","https://www.linkedin.com/in/fangsterr, https://www.linkedin.com/in/stanleytang, https://www.linkedin.com/in/xutony"
+Airbnb,Winter 2009,Book accommodations around the world.,"Nathan Blecharczyk, Brian Chesky, Joe Gebbia","https://www.linkedin.com/in/blecharczyk/, https://www.linkedin.com/in/brianchesky/, https://www.linkedin.com/in/jgebbia/"
+Coinbase,Summer 2012,"Buy, sell, and manage cryptocurrencies.",Brian Armstrong,https://www.linkedin.com/in/barmstrong/
+Instacart,Summer 2012,Marketplace for grocery delivery and pickup,"Apoorva Mehta, Brandon Leonardo, Max Mullen","https://www.linkedin.com/in/apoorvamehta/, https://www.linkedin.com/in/leonardo/, https://www.linkedin.com/in/maxmullen/"
+Oklo,Summer 2014,"Emission free, always on power from advanced fission power plants.","Caroline Cochran, Jacob DeWitte",http://linkedin.com/in/jacob-dewitte-90062132
+Dropbox,Summer 2007,Backup and share files in the cloud.,"Arash Ferdowsi, Drew Houston","https://www.linkedin.com/in/arashferdowsi/, https://www.linkedin.com/in/drewhouston/"
+GitLab,Winter 2015,A complete DevOps platform delivered as a single application.,"Sytse Sijbrandij, Dmytro Zaporozhets",http://nl.linkedin.com/in/sijbrandij
+Rigetti Computing,Summer 2014,Quantum coherent supercomputing.,Chad Rigetti,https://www.linkedin.com/in/chad-rigetti-9891562
+Matterport,Winter 2012,Turn physical objects and environments into 3D models in seconds.,David Gausebeck,https://www.linkedin.com/in/david-gausebeck-ab23015
+Amplitude,Winter 2012,Digital Analytics Platform,"Spenser Skates, Curtis Liu",https://www.linkedin.com/in/spenserskates
+PagerDuty,Summer 2010,Real-time visibility into critical apps and services all in one place.,Alex Solomon,https://www.linkedin.com/in/alexsolo
+Weave,Winter 2014,Customer communication and payments platform.,"Jared Rodman, Clint Berry, Brandon Rodman","https://www.linkedin.com/in/jared-rodman-2188a23b/, https://www.linkedin.com/in/clintonberry, https://www.linkedin.com/in/brandonrodman"
+Ginkgo Bioworks,Summer 2014,Our mission is to make biology easier to engineer.,"Barry Canton, Austin Che, Jason Kelly, Tom Knight, Reshma Shetty","https://www.linkedin.com/in/barry-canton-6826424/, https://www.linkedin.com/in/austinche/, https://www.linkedin.com/in/jrkelly2/, https://www.linkedin.com/in/tom-knight-2236324/, https://www.linkedin.com/in/rpshetty/"
+Pardes Biosciences,Summer 2020,We break viruses,Uri Lopatin,https://linkedin.com/in/urilopatin
+Embark Trucks,Winter 2016,Self-driving semi trucks.,"Alex Rodrigues, Brandon Moak",https://ca.linkedin.com/in/brandonmoak
+Lucira Health,Winter 2015,Next generation infectious disease test kits,Debkishore Mitra,http://www.linkedin.com/in/debkishoremitra
+Momentus,Summer 2018,The space infrastructure services company,Mikhail Kokorich,https://linkedin.com/in/kokorich
+Segment,Summer 2011,"Software and APIs to collect, clean, and control customer data.","Calvin French-Owen, Ilya Volodarsky",https://www.linkedin.com/in/ilyavolodarsky/
+Algolia,Winter 2014,A developer-friendly and enterprise-grade search API.,"Nicolas Dessaigne, Julien Lemoine","https://www.linkedin.com/in/nicolasdessaigne/, https://linkedin.com/in/julienlemoine"
+Truebill,Winter 2016,Live your best financial life,"Haroon Mokhtarzada, Yahya Mokhtarzada, Idris Mokhtarzada",https://www.linkedin.com/in/yahyamokhtarzada
+Twitch,Winter 2007,A global community creating the future of live entertainment.,"Emmett Shear, Justin Kan, Kyle Vogt",https://www.linkedin.com/in/kylevogt/
+PlanGrid,Winter 2012,Mobile applications for the construction industry.,"Ralph Gootee, Ryan Sutton-Gee, Tracy Young","https://www.linkedin.com/in/ralphleon/, https://www.linkedin.com/in/rsuttong, https://www.linkedin.com/in/tracy-young-0a17441"
+Bellabeat,Winter 2014,Tech-powered women's wellness.,"Urska Srsen, Sandro Mur",
+Cruise,Winter 2014,Self-driving cars.,"Daniel Kan, Kyle Vogt","https://www.linkedin.com/in/danielkan, https://www.linkedin.com/in/kylevogt/"
+Benchling,Summer 2012,Unlocking the power of biotech with modern software for modern science,Sajith Wickramasekara,
+Casetext,Summer 2013,We make the world's laws free and understandable.,Jake Heller,https://www.linkedin.com/in/jakeheller/
+Bird,Summer 2016,The world’s largest omnichannel communications platform,"Bob Violier, Robert Vis, Joey van Ommen",
+Brex,Winter 2017,"Business accounts, corporate cards, and spend management software.","Pedro Franceschi, Henrique Dubugras",https://www.linkedin.com/in/pfranceschi
+The Athletic,Summer 2016,Subscription sports media.,"Adam Hansmann, Alex Mather","https://www.linkedin.com/in/adamhansmann, https://www.linkedin.com/in/alexemather"
+Codecademy,Summer 2011,The leading online learning platform for technical skills.,Zach Sims,https://www.linkedin.com/in/zacharysims
+Checkr,Summer 2014,People infrastructure for the future of work,"Daniel Yanisse, Jonathan Perichon",https://www.linkedin.com/in/jperichon/
+Lever,Summer 2012,Talent Acquisition Suite that combines ATS + Talent CRM,"Brian Noguchi, Nate Smith, Sarah Nahm",https://www.linkedin.com/in/sarahnahm
+Clipboard Health,Winter 2017,Connects healthcare facilities with nurses nearby.,Wei Deng,https://www.linkedin.com/in/dengwei
+Heap,Winter 2013,Captures user interactions with no code to generate analytics.,Matin Movassate,https://www.linkedin.com/in/matin-movassate-29494723
+Sendwave,Winter 2012,"Instant, no fee international remittances.","Drew Durbin, Lincoln Quirk",https://www.linkedin.com/in/lincolnquirk
+Deel,Winter 2019,The all-in-one HR and payroll platform for global teams,"Alex Bouaziz, Shuo Wang","https://www.linkedin.com/in/alexbouaziz/, https://www.linkedin.com/in/shuo-wang-848a8956/"
+Clever,Summer 2012,The platform that powers technology in the classroom.,"Dan Carroll, Rafael Garcia","https://www.linkedin.com/in/danielcarroll/, https://www.linkedin.com/in/rafgarcia/"
+Caper,Winter 2016,Plug-and-play cashier-less retail powered by computer vision and AI,"Ahmed Beshry, Lindon Gao, Yilin Huang","https://ca.linkedin.com/in/ahmedbeshry, https://www.linkedin.com/pub/lindon-gao/24/b31/1a1"
+EquipmentShare,Winter 2015,Cloud solutions for the construction industry.,"Brad Siegler, Jeff Lowe, Jabbok Schlacks, William Schlacks","https://www.linkedin.com/in/lowejeffrey, https://www.linkedin.com/in/jabbok-schlacks-319a378a, https://www.linkedin.com/in/william-schlacks-49796016"
+Reddit,Summer 2005,The frontpage of the internet.,Steve Huffman,https://www.linkedin.com/in/shuffman56/
+Fivestars,Winter 2011,Customer loyalty and payments platform for small businesses.,"Victor Ho, Matt Doka","https://www.linkedin.com/in/victor-ho-47257211/, https://www.linkedin.com/in/mattdoka/"
+Machine Zone,Winter 2008,Pioneers of mobile social gaming.,"Gabriel Leydon, Halbert Nakagawa, Mike Sherrill",https://www.linkedin.com/in/mikesherrill
+Faire,Winter 2017,The global online platform empowering independent retail.,"Marcelo Cortes, Daniele Perito, Max Rhodes","https://www.linkedin.com/in/marcelo-cortes-b34317, https://www.linkedin.com/in/danieleperito, https://www.linkedin.com/in/max-rhodes"
+Fivetran,Winter 2013,The leader in automated data movement,"Taylor Brown, George Fraser","https://www.linkedin.com/in/taylorwcbrown, https://www.linkedin.com/in/george-fraser-a0219230"
+Optimizely,Winter 2010,The first all-in-one operating system for marketing,Pete Koomen,https://www.linkedin.com/in/petekoomen/
+Flexport,Winter 2014,Platform for global logistics.,Ryan Petersen,https://www.linkedin.com/in/rpetersen
+WePay,Summer 2009,Payments for platform businesses.,"Richard Aberman, Bill Clerico",https://www.linkedin.com/in/billclerico
+Weebly,Winter 2007,Build a free website that grows with your business.,"David Rusenko, Chris Fanini, Dan Veltri",https://www.linkedin.com/in/chrisfanini/
+Flock Safety,Summer 2017,The first public safety operating system that eliminates crime.,"Matt Feury, Garrett Langley","https://www.linkedin.com/in/matt-feury-a105a339/, https://www.linkedin.com/in/glangley/"
+Sqreen,Winter 2018,Sqreen is the application security platform for the modern enterprise,"Pierre Betouin, Jean-Baptiste Aviat","https://www.linkedin.com/in/pbetouin/, https://www.linkedin.com/in/jbaviat"
+NURX,Winter 2016,"Medicine or testing kit, prescribed online and delivered to your door.",Edvard Engesaeth,
+Go1,Summer 2015,A learning platform that enables you to train your staff or customers.,"Andrew Barnes, Chris Eigeland, Chris Hood, Vu Tran","http://www.linkedin.com/in/ajbarnes, https://au.linkedin.com/in/chriseigeland, http://au.linkedin.com/in/chrish00d, http://www.linkedin.com/profile/view?id=145590347"
+CoreOS,Summer 2013,Open source tools of modern distributed systems.,Alex Polvi,https://www.linkedin.com/in/polvi/
+Bear Flag Robotics,Winter 2018,Autonomous driving technology for farm tractors.,"Igino Cafiero, Aubrey Donnellan","https://www.linkedin.com/in/igino-cafiero-43b213b0, https://www.linkedin.com/in/aubrey-donnellan-0b676b7/"
+GOAT Group,Winter 2011,"Platform for the greatest products from the past, present and future.","Eddy Lu, Daishin Sugano","https://www.linkedin.com/in/eddylu/, https://www.linkedin.com/in/sensugano"
+Heroku,Winter 2008,Enabling developers to build and run applications in the cloud.,"Orion Henry, James Lindenbaum, Adam Wiggins","https://www.linkedin.com/in/jameslindenbaum, https://www.linkedin.com/in/adam-wiggins-a7623845"
+Groww,Winter 2018,"Making financial services simple, transparent and delightful.","Ishan Bansal, Harsh Jain, Lalit Keshre, Neeraj Singh","https://in.linkedin.com/in/ishan-bansal-8678b216, https://in.linkedin.com/in/harshjainiitd, https://www.linkedin.com/in/lalitkeshre, https://www.linkedin.com/in/neeraj-singh-a910819"
+GrubMarket,Winter 2015,AI-powered technology enabler and digital transformer of American…,Mike Xu,http://www.linkedin.com/pub/mike-minyi-xu/1/837/510/
+HelloSign,Winter 2011,eSignature software for small and mid-market businesses.,Neal O'Mara,https://www.linkedin.com/in/nealomara/
+Zenefits,Winter 2013,"HR for small businesses: onboarding, payroll and benefits.",Laks Srini,http://www.linkedin.com/in/lakssrini
+Gusto,Winter 2012,Provides growing businesses with everything to take care of their team,"Edward Kim, Tomer London, Josh Reeves","https://www.linkedin.com/in/edawerd/, https://www.linkedin.com/in/tomerlondon/, https://www.linkedin.com/in/joshuareeves/"
+Honeylove,Summer 2018,Honeylove makes functional undergarments for women,Betsie Larkin,https://www.linkedin.com/in/betsie-larkin-611a49ba
+Modern Fertility,Summer 2017,At-home fertility test for women who aren't ready for kids right now…,"Carly Leahy, Afton Vechery","https://www.linkedin.com/in/carlyleahy, https://www.linkedin.com/in/aftonv/"
+Cognito,Summer 2014,"Frictionless, modern identity verification that starts with just a…","John Backus, Alain Meier, Christopher Morton",https://linkedin.com/in/mortonch
+OpenInvest,Summer 2015,Values based personalization at scale for asset and wealth management,"Conor Murray, Phillip Wei",https://www.linkedin.com/pub/conor-murray/93/300/b06
+Meesho,Summer 2016,Democratizing internet commerce for everyone in India,"Vidit Aatrey, Sanjeev Barnwal","https://www.linkedin.com/in/vidit-aatrey-a3639120, https://www.linkedin.com/in/sanjeev-barnwal-4099341b"
+Mixpanel,Summer 2009,Mixpanel is event analytics for builders that need answers.,"Tim Trefren, Suhail Doshi",https://www.linkedin.com/in/suhaildoshi/
+Paystack,Winter 2016,Modern payments infrastructure for Africa,"Shola Akinlade, Ezra Olubi",http://ng.linkedin.com/in/shollsman/en
+Moxion Power Co.,Winter 2021,Mobile Energy Storage Technology,"Paul Huelskamp, Alexander Meek","https://www.linkedin.com/in/paulhuelskamp, https://www.linkedin.com/in/alexandermeek/"
+DrChrono,Winter 2011,The essential platform for modern medical practices and patients.,"Daniel Kivatinos, Michael Nusimow",https://linkedin.com/in/mnusimow
+OMGPop,Summer 2006,An independent flash game studio.,Charles Forman,https://www.linkedin.com/in/iminlikewithyou/
+Newfront,Winter 2018,Modern insurance brokerage.,"Spike Lipkin, Gordon Wintrob",https://www.linkedin.com/in/spike-lipkin-8173651b/
+North,Winter 2013,Wearable computing hardware: biosignal gesture recognition,"Stephen Lake, Matthew Bailey, Aaron Grant",https://linkedin.com/in/slake
+Nowports,Winter 2019,The core engine of supply chain in LATAM,"Maximiliano Casal, Alfonso de los Rios Villareal",https://www.linkedin.com/in/alfonso-de-los-rios-24a3a713a/
+Odeko,Summer 2019,Our operations software makes it easier to run--and grow--your cafe,James Burkhardt,https://www.linkedin.com/in/james-burkhardt-6bb4ab48/
+GitPrime,Winter 2016,Visibility and analytics for software development leaders.,"Ben Thompson, Travis Kimmel",https://www.linkedin.com/in/travis-kimmel-20111b2a
+Proxy,Summer 2016,Smart ring digital wallet,"Denis Mars, Simon Ratner","https://www.linkedin.com/in/denismars, https://www.linkedin.com/in/simonratner"
+FutureAdvisor,Summer 2010,The online financial management service for everyone.,Bo Lu,https://www.linkedin.com/in/boluprofile
+Podium,Winter 2016,Get more leads. Make more money.,"Dennis Steele, Eric Rea","https://www.linkedin.com/in/steeledennis, https://www.linkedin.com/in/ericrea"
+Rappi,Winter 2016,On-demand delivery and financial services for Latin America.,"Sebastian Mejia, Simon Borrero, Felipe Villamarin","https://co.linkedin.com/in/simonborrero, https://www.linkedin.com/in/felipe-villamarin-85518161"
+Razorpay,Winter 2015,India's only full-stack financial solutions company for businesses.,"Shashank Kumar, Harshil Mathur",http://www.linkedin.com/in/kumarshashank
+Rippling,Winter 2017,"One place to run all your HR, IT, and Finance. Globally.","Parker Conrad, Prasanna S","https://www.linkedin.com/in/parkerconrad, https://www.linkedin.com/in/myprasanna"
+Scale AI,Summer 2016,Data-centric infrastructure to accelerate the development of AI,Alexandr Wang,https://www.linkedin.com/in/alexandrwang
+Scentbird,Summer 2015,Scentbird is a luxury fragrance subscription service.,Mariya Nurislamova,http://www.linkedin.com/in/mariyanurislamova/
+Scribd,Summer 2006,World's largest online library.,Jared Friedman,https://linkedin.com/in/jaredfriedman
+ShipBob,Summer 2014,Providing Amazon level logistics to e-commerce businesses.,"Divey Gulati, Dhruv Saxena","https://www.linkedin.com/in/divey-gulati-90299414, https://www.linkedin.com/in/dhruv-saxena-4568034"
+SmartAsset,Summer 2012,Marketplace connecting consumers to financial advisors,Michael Carvin,https://www.linkedin.com/in/michael-carvin-5315692a
+Stripe,Summer 2009,Economic infrastructure for the internet.,"John Collison, Patrick Collison","https://www.linkedin.com/in/johnbcollison/, https://www.linkedin.com/in/patrickcollison/"
+Wave,Winter 2012,Mobile money app for Africa,"Drew Durbin, Lincoln Quirk",https://www.linkedin.com/in/lincolnquirk
+Webflow,Summer 2013,Professional website design and publishing platform.,"Bryant Chou, Sergie Magdalin, Vlad Magdalin",https://www.linkedin.com/in/bryantchou
+Whatnot,Winter 2020,Whatnot is the largest livestream shopping platform in the U.S.,"Logan Head, Grant LaFontaine","https://www.linkedin.com/in/logan-head-b0866615, https://www.linkedin.com/in/grantlafontaine/"
+Zapier,Summer 2012,The easiest way to automate your work.,"Wade Foster, Bryan Helmig, Mike Knoop",https://www.linkedin.com/in/bryanhelmig
+Zepto,Winter 2021,10-Minute Grocery Delivery in India,"Aadit Palicha, Kaivalya Vohra","https://www.linkedin.com/in/aadit-palicha/, https://www.linkedin.com/in/kaivalya-vohra/"
+Focal Systems,Winter 2016,Building the Operating System for B&M Retail using Deep Learning,Michael Cantalino,https://www.linkedin.com/pub/michael-john-cantalino/12/b44/747
+Mio,Winter 2016,Mio powers seamless communication between workplace chat apps.,"James Cundle, Tom Hadfield","https://www.linkedin.com/in/jamescundle/, http://www.linkedin.com/in/hadfieldtom/"
+Daily,Winter 2016,Conversational Voice and Multimodal AI built with Open Source,Kwindla Hultman Kramer,
+Petcube,Winter 2016,Petcube is on the mission to improve lives of pets and pet owners…,"Andrey Klen, Alex (Sasha) Neskin, Yaroslav Azhnyuk","https://www.linkedin.com/pub/alex-neskin/15/244/155, https://www.linkedin.com/in/YaroslavAzhnyuk"
+Outschool,Winter 2016,A live online learning platform that empowers kids ages 3–18.,"Nicholas Grandy, Amir Nathoo",https://www.linkedin.com/profile/view?id=AAMAAABZlEsBToF_BCHS0McY54D6pM73t9TzIWE&trk=hp-identity-name
+Mason,Winter 2016,Mason is the fastest way to take smart devices from idea to end user,Jim Xiao,https://www.linkedin.com/in/jimxiao
+MagicBus,Winter 2016,We make vanpool simple.,"Jason Kraft, Chris Upjohn","https://linkedin.com/in/jasonjkraft, https://www.linkedin.com/pub/chris-upjohn"
+Tovala,Winter 2016,A smart-oven-paired subscription meal service.,"David Rabie, Bryan Wilcox","http://www.linkedin.com/in/davidrabie/en, https://linkedin.com/in/bryanwilcox"
+iSono Health,Winter 2016,AI-powered platform for Accessible and Personalized Breast Health…,Shadi Saberi,http://www.linkedin.com/in/ssaberig
+GetAccept,Winter 2016,Close deals faster. Digitally.,"Jonas Blanck, Mathias Thulin, Carl Carell, Samir Smajic","https://www.linkedin.com/in/jonasblanck, https://se.linkedin.com/in/carlcarell, https://www.linkedin.com/in/samirsmajic"
+Chatfuel,Winter 2016,Platform to easily create chatbots to engage with audiences on…,"Dmitrii Dumik, Artem Ptashnik","https://www.linkedin.com/in/ddumik, https://www.linkedin.com/in/artem-ptashnik-828163bb/"
+Yardbook,Winter 2016,Marketplace & Software Revolutionizing Yard Care,Mark Ke,https://www.linkedin.com/pub/mark-ke/1/84/a97
+GoCardless,Summer 2011,We’re building the world’s bank payment network.,"Hiroki Takeuchi, Tom Blomfield",https://www.linkedin.com/in/hirokitakeuchi/
+Stealth Worker,Winter 2016,"Information Security (Cyber Security), Compliance and Privacy (GDPR &…",Ken Baylor,https://www.linkedin.com/in/kenbaylor
+Deepgram,Winter 2016,Building foundational AI for speech transcription and understanding.,Scott Stephenson,
+SOUNDBOKS,Winter 2016,We're creating the loudest battery-driven speaker on the market,"Jesper Theil Thomsen, Christoffer Nyvold","https://www.linkedin.com/profile/view?id=AAIAABVMXEgBw5e16NKx-jQOYprAiCu8I34aBw8&trk=nav_responsive_tab_profile_pic, https://dk.linkedin.com/pub/christoffer-nyvold/101/84a/b38"
+Lattice,Winter 2016,Modern people management platform.,"Eric Koslow, Jack Altman",https://www.linkedin.com/in/jackealtman
+Mux,Winter 2016,Video infrastructure for developers,"Adam Brown, Jon Dahl, Steve Heffernan, Matthew McClure",https://www.linkedin.com/in/adam-brown-7452b03a/
+Human Interest,Summer 2015,The 401(k) for small and medium-sized businesses.,"Roger Lee, Paul Sawaya","https://www.linkedin.com/in/rogerrlee/, https://linkedin.com/in/paulsawaya"
+Flirtey (SkyDrop),Summer 2015,Flirtey is the world’s first commercial drone delivery service and…,Matthew Sweeny,https://www.linkedin.com/in/matthew-sweeny-732b70127/
+Eight Sleep,Summer 2015,The sleep fitness company.,"Massimo Andreasi Bassi, Matteo Franceschetti, Alexandra Zatarain","https://www.linkedin.com/in/maghis, https://www.linkedin.com/in/matteofranceschetti"
+Instawork,Summer 2015,A flexible work app that connects businesses with hourly workers.,Sumir Meghani,https://www.linkedin.com/in/sumirmeghani
+Cofactor Genomics,Summer 2015,Cofactor closes the precision medicine gap with predictive diagnostics,"Dave Messina, Jarret Glasscock",https://www.linkedin.com/in/jarretglasscock
+Click & Grow,Summer 2015,Click & Grow makes indoor urban gardens and farms that take complete…,Mattias Lepp,https://ee.linkedin.com/pub/mattias-lepp/17/ab4/413
+Bitmovin,Summer 2015,Powers OTT online video providers with video developer tools.,"Christian Timmerer, Stefan Lederer, Christopher Mueller","http://at.linkedin.com/pub/stefan-lederer/25/236/2a1, https://www.linkedin.com/in/bitmovin-chris/"
+TetraScience,Summer 2015,The only R&D data cloud for life sciences,Siping Wang,https://www.linkedin.com/pub/siping-wang/47/A32/205
+The Ticket Fairy,Summer 2015,Revenue generation for live events,"Ritesh Patel, Jigar Patel",http://www.linkedin.com/in/desinex
+Font Awesome,Summer 2015,Icons and social logos for your website.,"Dave Gandy, Travis Chase","https://linkedin.com/in/davegandy, http://www.linkedin.com/in/supercodepoet"
+"80,000 Hours",Summer 2015,An online guide that tells talented graduates how to maximise the…,"William MacAskill, Benjamin Todd","http://uk.linkedin.com/in/wdmacaskill, https://uk.linkedin.com/pub/benjamin-todd/63/66b/b58/"
+Xendit,Summer 2015,Provides payment infrastructure for Southeast Asia,"Bo Chen, Juan Gonzalez, Moses Lo","https://www.linkedin.com/in/bochen303, https://www.linkedin.com/in/0505gonzalez, http://linkedin.com/in/moseslo"
+Shred Video,Summer 2015,Shred Video builds automated video & photo systems that allow…,"Mike Allen, Mark Godfrey","www.linkedin.com/pub/michael-allen/7/511/9a1/en, https://www.linkedin.com/profile/view?id=18358820"
+Shape (ShapeScale),Summer 2015,ShapeScale is a personal 3D scanner and fitness tracker that…,"Martin Kessler, Alexandre Wayenberg",http://www.linkedin.com/in/awayenberg
+RedCarpetUp,Summer 2015,Credit cards for Indians that banks cannot see,Kartik Venkataraman,https://www.linkedin.com/in/kartikvenkataraman1
+Plate IQ,Summer 2015,Automated Accounts Payable,"Ram Jayaraman, Bhavuk Kaul","https://www.linkedin.com/in/ramprabhuj, https://www.linkedin.com/in/bhavukkaul"
+PickTrace,Summer 2015,Workforce Management for Large Farms,"Harrison Steed, Austin Steed","http://www.linkedin.com/pub/harrison-steed/, https://www.linkedin.com/in/austinsteed"
+Fountain,Summer 2015,High volume hiring made simple,Keith Ryu,https://www.linkedin.com/in/kibaekr/
+MicroHealth,Summer 2015,Digital hematology,"Marc Lara, Miguel Lara","linkedin.com/mlaranyc, http://linkedin.com/in/mlara1/en"
+Zeplin,Summer 2015,Deliver on the Promise of Design,"Ismail Ceylan, Merih Akar, Pelin Kenez, Berk Çebi","https://www.linkedin.com/in/ceylanismail/, https://www.linkedin.com/in/pelinkenez"
+Markhor,Summer 2015,Markhor is a DTC company that works with craftsmen to make shoes and…,"Sidra Qasim, Waqas Ali","http://linkedin.com/in/sidraqasim, http://linkedin.com/in/waqasaday"
+Circle Medical,Summer 2015,Modern primary care via video and in-person,"JS Boulanger, George Favvas, Brent LaRue","https://www.linkedin.com/in/jsboulanger, https://www.linkedin.com/in/georgefavvas, https://www.linkedin.com/in/laruebrent"
+GiveCampus,Summer 2015,The fundraising platform for schools.,"Michael Kong, Kestrel Linder","https://www.linkedin.com/pub/michael-kong/10/bb1/353, https://www.linkedin.com/pub/kestrel-linder/b3/677/403?domainCountryName=&csrfToken=ajax%3A4508253911625070148"
+Drip Capital,Summer 2015,Digital trade financing for small businesses,Pushkar Mukewar,https://www.linkedin.com/pub/pushkar-mukewar/1/695/31
+Chaldal,Summer 2015,,"Waseem Alim, Zia Ashraf, Tejas Viswanath","https://www.linkedin.com/profile/view?id=38553536, https://www.linkedin.com/in/zia-ashraf/, https://www.linkedin.com/in/tejas-viswanath"
+Clerky,Summer 2011,Makes legal paperwork easy for startups and their attorneys.,"Chris Field, Darby Wong",https://www.linkedin.com/in/fieldchris
+Bodyport,Summer 2015,Predicting and preventing heart disease.,"Corey Centen, Sarah Smith",https://www.linkedin.com/in/sarahannsmith
+Verge Genomics,Summer 2015,We use human data and AI to develop better drugs faster.,Alice Zhang,https://www.linkedin.com/pub/alice-zhang/2b/786/208
+Thrive Agritech,Summer 2015,We design and manufacture energy efficient LED lighting fixtures for…,Brian Bennett,https://www.linkedin.com/profile/view?id=33089925&trk=nav_responsive_tab_profile
+Tesorio,Summer 2015,Tesorio is the cash flow performance platform that helps finance…,"Fabio Fleitas, Carlos Vega",https://www.linkedin.com/pub/carlos-r-vega/
+AgileMD,Summer 2011,Predictive analytics and clinical pathways for hospitals,Borna Safabakhsh,https://www.linkedin.com/in/bornas/
+Reach Labs,Summer 2015,"Long range, wireless energy distribution that scales",Christopher Davlantes,https://www.linkedin.com/in/chrisdavlantes/en
+SunFarmer,Summer 2015,Reliable and affordable solar energy in developing countries.,"Jason Gray, Andy Moon","https://www.linkedin.com/in/jasondgray, https://www.linkedin.com/in/andymoonfuture/"
+Confident LIMS,Summer 2015,Laboratory Information Management System (LIMS) serving…,Steve Albarran,https://www.linkedin.com/in/steve-albarran/
+Branch8,Summer 2015,Branch8 helps sellers to list and manage products on e-commerce…,Matt Li,http://hk.linkedin.com/pub/matt-li/16/4b1/38b
+Heroic Labs,Summer 2015,"Social Infrastructure for Games; Makers of Nakama game server, Satori…","Mo Firouz, Andrei Mihu, Chris Molozian","http://uk.linkedin.com/in/mofirouz, http://uk.linkedin.com/in/andreimihu, https://uk.linkedin.com/in/chrismolozian"
+SnapMagic,Summer 2015,AI copilot for electronics design,Natasha Baker,https://www.linkedin.com/in/natashaabaker
+Scope AR,Summer 2015,Scope AR is the leading provider of User Guided Augmented Reality…,"Scott Montgomerie, David Nedohin","http://www.linkedin.com/in/scottmontgomerie/en, https://www.ca.linkedin.com/in/davidnedohin"
+PartnerStack,Summer 2015,PartnerStack is a full stack solution for partnerships.,"Neil Chudleigh, Bryn Jones, Jonathan Mendes, Luke Swanek","https://ca.linkedin.com/in/jonathanmendes, http://ca.linkedin.com/in/lswanek/"
+Assembly,Summer 2015,Advanced manufacturing and distribution solutions (for China-based…,Jonathan Friedman,https://linkedin.com/in/friedparts
+Gemnote,Summer 2015,"Gemnote is the easiest way to design, create and send custom products.",Ashley Wong,https://www.linkedin.com/profile/view?id=48575772&trk=nav_responsive_tab_profile_pic
+New Story,Summer 2015,We pioneer solutions to end the global housing crisis by empowering…,"Brett Hagler, Matthew Marshall",http://linkedin.com/in/jamesmatthewmarshall
+Ironclad,Summer 2015,Digital contracting platform for legal teams.,"Jason Boehmig, Cai GoGwilt",http://www.linkedin.com/in/jboehmig
+Leaders In Tech (formerly InnerSpace),Summer 2015,"Helping founders improve themselves, their companies, and the world.","Joe Greenstein, Semira Rahemtulla","http://linkedin.com/in/joegreenstein, https://www.linkedin.com/in/semira"
+teaBOT,Summer 2015,A robot that makes tea!,Rehman Merali,https://www.linkedin.com/in/rehmanmerali
+Teleport,Summer 2015,"The easiest, most secure way to access all your infrastructure","Alexander Klizhentas, Ev Kontsevoy, Taylor Wakefield","https://www.linkedin.com/in/kontsevoy/, https://www.linkedin.com/in/taylorwakefield/"
+Lugg,Summer 2015,"Move anything, anytime, anywhere","Jordan Brown, Eric Kreutzer",https://www.linkedin.com/in/eric-kreutzer
+Shasqi,Winter 2015,Targeting Cancer with Click Chemistry,Jose M. Mejia Oneto,http://www.linkedin.com/in/joseperu/
+Mashgin,Winter 2015,Self-Checkout using Computer Vision.,"Mukul Dhankhar, Abhinai Srivastava","https://linkedin.com/in/mdhankhar, https://www.linkedin.com/in/abhinai"
+NimbleRx,Winter 2015,On-demand prescription delivery.,Talha Sattar,https://www.linkedin.com/pub/talha-sattar/5/77a/97
+Quartzy,Summer 2011,Marketplace for life science supplies.,"Adam Regelmann, Jayant Kulkarni","https://www.linkedin.com/in/adam-r-7189a67/, https://www.linkedin.com/in/jayantekulkarni/"
+Replika,Winter 2015,Replika is an AI friend that you can talk to designed to make you…,Eugenia Kuyda,https://www.linkedin.com/in/eugenia-kuyda-638a8a1b/
+Tara AI,Winter 2015,"Meet Tara AI, your new engineering efficiency co-pilot.","Syed Ahmed, Iba Masood","https://www.linkedin.com/in/syedahmedz/, https://www.linkedin.com/in/ibamasood"
+Flip,Winter 2015,Community-driven marketplace for sneakers.,Kemar Newell,https://www.linkedin.com/in/kemarnewell/
+X-Zell,Winter 2015,"Early, pain-free cancer detection.","Sebastian Punyaratabandhu Bhakdi, Prapat Suriyaphol","https://www.linkedin.com/pub/sebastian-chakrit-punyaratabandhu-bhakdi/4a/357/8a3, http://th.linkedin.com/pub/prapat-suriyaphol/17/5b0/3b2"
+Zenflow,Winter 2015,"Medical device that provides a more effective, less invasive…",Shreya Mehta,https://www.linkedin.com/pub/shreya-mehta/5/57/49a
+Tab,Winter 2015,"Revolutionising the way travellers discover, plan and book a trip",Mark Datta,http://uk.linkedin.com/in/markdatta
+Priime,Winter 2015,Priime is a company dedicated to advancements in technology around…,"Arthur Chang, Andrew Ng, Joe Pestro",http://linkedin.com/in/joepestro
+Streak,Summer 2011,Streak transforms Gmail into a powerful CRM,Aleem Mawani,https://www.linkedin.com/in/aleemmawani/
+Meadow,Winter 2015,Point of Sale and Compliance SaaS for Cannabis Dispensaries,"Rick Harrison, David Hua, Scott A Garman, Harrison Lee","https://www.linkedin.com/profile/view?id=79643071&trk=nav_responsive_tab_profile, https://www.linkedin.com/in/harrisonrlee"
+Level Frames,Winter 2015,Software eats custom framing,"Josh Hubball, Damian Sowers",https://www.linkedin.com/in/joshhubball
+Industrial Microbes,Winter 2015,We design and build microbes to make chemicals greener at lower cost.,"Liz Clarke, Derek Greenfield, Noah Helman","https://www.linkedin.com/in/elizabethclarke, https://www.linkedin.com/profile/view?id=9841556"
+Giveffect,Winter 2015,"Fundraising, Volunteer and Donor Management SaaS for nonprofits.","Allan Shin, Kevin Shin","http://www.linkedin.com/in/allanshin, https://www.linkedin.com/in/kevinshinobi"
+eBrandvalue,Winter 2015,Real-time Nielsen ratings for Brands.Accelerate marketing and product…,"Ayse Akcura, Tolga Akçura","https://www.linkedin.com/pub/ayse-akcura/2/b85/6ba, http://www.linkedin.com/pub/tolga-akcura/2/894/448"
+Quantierra,Winter 2015,Sourcing investment real estate,Sandip Trivedi,https://linkedin.com/in/sandiptrivedi
+Cleanly,Winter 2015,Laundry & Dry Cleaning delivered.,"Chen Atlas, Itay Forer, Tom Harari",http://www.linkedin.com/in/atlaschen
+Resolve,Winter 2015,"VR simulations for operations, maintenance and construction teams.","Angel Alonso Say, Russell Varriale",https://www.linkedin.com/in/sayangel
+Makrwatch,Winter 2015,Scale new user acquisition with YouTube Creators,"Andres Felipe Diaz, Carlos Saavedra","http://linkedin.com/in/andresthegeek/, https://www.linkedin.com/in/carlosaave"
+TeamNote,Winter 2015,Mobile Productivity(Slack for mobile workforces),"Roy Law, Ming Lo, Jon Yip","https://www.linkedin.com/pub/roy-law/63/b2b/4b, http://hk.linkedin.com/in/loming/"
+Tempo,Winter 2015,Live home fitness training powered by computer vision.,"Moawia Eldeeb, Joshua Augustin","https://www.linkedin.com/in/moawiaeldeeb, https://www.linkedin.com/in/joshua-augustin-56ba268a"
+SIRUM,Winter 2015,SIRUM is a “match.com” for unused medicine. We connect institutional…,"Kiah J. Williams, Adam Kircher, George Wang","http://www.linkedin.com/pub/kiah-williams/9/656/b65, http://www.linkedin.com/pub/adam-kircher/a/532/b87, https://www.linkedin.com/pub/george-wang/12/883/771"
+Sails Co.,Winter 2015,"Full-service web, mobile, & cloud studio providing professional…","Mike McNeil, Scott Gress, Cody Stoltman","http://www.linkedin.com/in/scottgress/, http://www.linkedin.com/in/codystoltman/"
+ReadMe,Winter 2015,"Beautiful, personalized, interactive developer hubs",Gregory Koberger,http://linkedin.com/in/gkoberger
+BuildScience,Winter 2015,The operating system for commercial buildings.,Ritesh Patel,https://www.linkedin.com/in/xitijpatel/
+Platzi,Winter 2015,Latin America's School of Technology,"Christian Van Der Henst, Freddy Vega","https://www.linkedin.com/in/cvander, https://www.linkedin.com/in/johnfreddyvega"
+Labdoor,Winter 2015,Labdoor is building the trusted online drugstore.,"Rafael Ferreira, Helton Souza, Neil Thanedar",https://www.linkedin.com/in/heltonsouza
+GiveMeTap,Winter 2015,We produce & sell stainless steel water bottles that enables people…,Edwin Broni-Mensah,https://www.linkedin.com/in/ebronimensah
+Bankjoy,Winter 2015,An end-to-end digital banking solution for banks and credit unions,Mike Duncan,https://www.linkedin.com/in/HelloMike
+Zeitview,Winter 2015,Inspection software for renewable energy & sustainable infrastructure,Dan Burton,http://www.linkedin.com/pub/daniel-burton/89/117/287/
+The Human Utility,Winter 2015,The Human Utility seeks to eliminate water service disconnections for…,Tiffani Ashley Bell,http://www.linkedin.com/in/tiffani
+Democracy Earth,Winter 2015,Censorship resistant democracies.,"Pia Mancini, Santiago Siri, Guido Vilariño","https://www.linkedin.com/in/piamancini, http://ar.linkedin.com/in/santisiri, https://www.linkedin.com/in/gvilarino"
+OneSignal,Summer 2011,Engage customers through personalized omni-channel messaging,"George Deglin, Long Vo","https://www.linkedin.com/in/gdeglin, https://www.linkedin.com/in/longvo/"
+Atomwise,Winter 2015,Artificial intelligence for drug discovery.,"Abraham Heifets, Izhar Wallach",https://www.linkedin.com/pub/izhar-wallach/11/38/a04
+Bright,Winter 2015,Sunrun for the developing world,Jonah Greenberger,http://www.linkedin.com/in/jonahgreenberger/
+Magic,Winter 2015,Extremely talented assistants for busy people,"Aaron Kemmer, David Merriman, Mike Chen, Nic Novak, Michael Rubin","https://www.linkedin.com/in/aaronkemmer/, https://www.linkedin.com/in/cmikec, https://www.linkedin.com/in/nic-novak-00177250, https://www.linkedin.com/in/michael-rubin-519b2785/"
+Mezmo,Winter 2015,Observability platform to control all of your log data,Lee Liu,https://www.linkedin.com/in/leeliu
+Akido Labs,Winter 2015,Rebuilding healthcare with AI at the core,"Jared Goodner, Prashant Samant","https://www.linkedin.com/profile/view?id=40518626, https://www.linkedin.com/profile/view?id=25361409&trk=nav_responsive_tab_profile"
+Qventus,Winter 2015,We automate operations for hospitals and health systems,"Ian Christopher, Mudit Garg","http://www.linkedin.com/in/ianfchristopher, https://www.linkedin.com/profile/view?id=9103167"
+Bayes Impact,Summer 2014,Tech nonprofit building the future of public services.,Paul Duan,https://www.linkedin.com/in/pyduan
+Helion Energy,Summer 2014,Building the world's first fusion power plant,"David Kirtley, Chris Pihl",https://www.linkedin.com/in/chris-pihl-4a84b1a/
+HackerRank,Summer 2011,Change the world to value skills over pedigree,"Vivek Ravisankar, Harishankaran",https://www.linkedin.com/in/vivekravisankar
+Front,Summer 2014,Customer communications hub for building strong relationships,"Mathilde Collin, Laurent Perrin",https://www.linkedin.com/in/mathilde-collin-bb59492a/en/
+Apollo,Summer 2011,Apollo helps engineering teams accelerate delivery,"matt debergalis, Nick Martin, Geoff Schmidt",https://www.linkedin.com/in/gschmidt/
+Roomstorm,Summer 2014,Real time B2B hotel room marketplace for various industries…,Maksim Izmaylov,https://linkedin.com/in/maksimizmaylov
+Hive,Summer 2014,"Marketing automation for event promoters (email, sms, ads, CRM)","Patrick Hannigan, Ian Roberts",https://www.linkedin.com/in/patrickhannigan/
+Tenjin,Summer 2014,Mobile marketing analytics and infrastructure,"Christopher Farm, Amir Manji",https://www.linkedin.com/in/christopherfarm
+SpotAngels,Summer 2014,Waze for parking,"Thomas Cottin, Aboud Jardaneh",https://www.linkedin.com/in/aboud-jardaneh-9751b9a
+UserGems,Summer 2014,AI-powered sales solution based on your best customers,"Christian Kletzl, Stephan Kletzl","https://www.linkedin.com/in/christiankletzl, https://www.linkedin.com/in/stephankletzl"
+SFOX,Summer 2014,Crypto-currency trading platform.,"George Melika, Akbar Thobhani",https://www.linkedin.com/in/akbart
+PicnicHealth,Summer 2014,Empowering Patients for Deep Real World Data,"Troy Astorino, Noga Leviner","https://www.linkedin.com/in/troyastorino, https://www.linkedin.com/in/nogaleviner"
+Permutive,Summer 2014,Rebuilding data in advertising to protect privacy,"Joe Root, Tim Spratt",https://www.linkedin.com/in/josephsroot
+Alchemy,Summer 2014,Nanotechnology-enabled coatings for automotive and defence sectors,"Khanjan Desai, Chong Shen","https://www.linkedin.com/in/khanjandesai/, https://www.linkedin.com/in/chongshen/"
+MTailor,Summer 2014,Get measured by your phone in under 30 seconds for perfect fitting…,Miles Penn,
+MetricWire,Summer 2014,Mobile surveys for researchers,"Charles Desouza, Brian Stewart",
+Protocol Labs,Summer 2014,"Protocol Labs makes internet protocols: IPFS, Filecoin, and more.",Juan Benet,https://www.linkedin.com/in/jbenetcs/
+Greentoe,Summer 2014,"""Name Your Price"" for products",Andrew Kurland,https://www.linkedin.com/in/andrewkurland
+Hyperpad,Summer 2014,"Create, Share, Play Mobile Games on the iPad.","Hamed Saadat, Murtaza Saadat",https://www.linkedin.com/in/msaadat
+Flaviar,Summer 2014,Try-at-home service for fine spirits,"Jugoslav Petkovic, Matija Rijavec, Grisa Soba","https://www.linkedin.com/in/jugoslav, https://www.linkedin.com/in/matijarijavec/, https://www.linkedin.com/in/grisasoba"
+Clear,Summer 2014,"Fintech SaaS platform for invoices, taxes, wealth management & credit.","Srivatsan Chari, Archit Gupta, Ankit Solanki","https://www.linkedin.com/in/architgupta, https://in.linkedin.com/in/ankitsolanki"
+Billforward,Summer 2014,"Subscription billing, rate plan management and analytics as a…",Aubone Tennant,https://www.linkedin.com/in/aubonetennant
+Backpack,Summer 2014,Marketplace to get stuff from overseas,Fahim Aziz,https://www.linkedin.com/in/fahimmaziz
+Aptible,Summer 2014,The No Infrastructure Platform as a Service,"Chas Ballew, Frank Macreery",https://www.linkedin.com/in/chasballew/
+Immunity Project,Winter 2014,The free HIV vaccine.,"Ian Cinnamon, Naveen Jain, Reid Rubsamen","http://linkedin.com/in/iancinnamon, https://www.linkedin.com/in/naveenkjain, https://www.linkedin.com/in/reidrubsamenmd"
+Dyspatch,Winter 2014,Two products to help everyone email better. Dyspatch.io - Email…,Matt Harris,https://www.linkedin.com/in/harrismc
+OpenCurriculum,Winter 2014,Helping K-12 teachers and school administrators build awesome…,Varun Arora,
+MixerBox,Winter 2014,AI Super-Apps to Live Easier | The anything anytime superapps…,John Lai,https://www.linkedin.com/in/johnlai1/
+Unbabel,Winter 2014,AI-powered Language Operations platform,"João Graça, Vasco Pedro, Bruno Prezado Silva, Hugo Silva","https://www.linkedin.com/in/joao-v-graca, https://www.linkedin.com/in/bruno-prezado-silva-b26a028/"
+Y Combinator,Fintech,Not your average fixed point combinator.,"Paul Graham, Jessica Livingston","https://www.linkedin.com/in/jessicalivingston1, https://www.linkedin.com/in/oliverortlieb/, https://www.linkedin.com/in/zach-kamran/"
+GBatteries,Winter 2014,Enabling li-ion batteries to charge ultra fast without compromising…,"Tim Sherstyuk, Nick Sherstyuk",https://www.linkedin.com/in/timsherstyuk
+Zinc,Winter 2014,The secret backbone of e-commerce.,"Doug Feigelson, John Wang","https://www.linkedin.com/in/doug-feigelson-95371825, https://www.linkedin.com/in/johnjianwang"
+Zidisha,Winter 2014,Direct P2P lending across the international wealth divide.,Julia Kurnia,https://www.linkedin.com/in/juliakurnia
+TrueVault,Winter 2014,We make Privacy Software for SMBs.,Jason Wang,https://www.linkedin.com/in/jasonwang
+Guesty,Winter 2014,The management platform for the short term rental industry.,"Amiad Soto, Koby Soto",https://www.linkedin.com/in/amiadsoto
+Snapdocs,Winter 2014,digital mortgage closing,Aaron King,https://www.linkedin.com/in/aaronwking
+Medmonk,Winter 2012,A tool for pharmacists to find funding for patients who are unable to…,"Abbas Mehdi, Somaira Punjwani","https://www.linkedin.com/in/amehdi, https://www.linkedin.com/in/somaira-punjwani-68b80816"
+Shoobs,Winter 2014,We help you find and book tickets to great entertainment events that…,Louise Broni-Mensah,https://www.linkedin.com/in/louisebronimensah/
+Pushbullet,Winter 2014,Push things to your other things.,"Christopher Hesse, Ryan Oldenburg, Andre von Houck","https://www.linkedin.com/in/christopher-hesse-861a249, https://www.linkedin.com/in/ryan-oldenburg-70661694, https://www.linkedin.com/in/andrevonhouck"
+Povio,Winter 2014,Engineering and Design that Fuels Startup Success,Matevž Petek,https://www.linkedin.com/in/matevzpetek
+PiinPoint,Winter 2014,PiinPoint helps businesses find the best locations for growth,"Jim Robeson, Adam Saunders",https://www.linkedin.com/in/adamrsaunders/
+One Degree,Winter 2014,One Degree is a nonprofit organization that makes it easy for…,Rey Faustino,https://www.linkedin.com/in/reyfaustino/
+MBX,Winter 2014,A global multi-brand beauty and personal care startup.,Hyungseok (Dino) Ha,https://www.linkedin.com/in/hyungseok-dino-ha-32579221/
+Emailio,Winter 2014,Email built for wellness,"Martin Stoyanov, Teo Teodosiev",https://www.linkedin.com/in/teodosiev/
+DevCycle,Winter 2014,Feature Flag Management Built for Developers,"Andrew Norris, Jonathan Norris, Cobi Druxerman",https://www.linkedin.com/in/druxerman/
+Axoni,Winter 2014,Axoni is building the next generation of capital markets technology,"Greg Schvey, Jeffrey Schvey",https://www.linkedin.com/in/jeffschvey/
+CodeNow,Winter 2014,Our mission is to diversify the talent pipeline of students who…,Ryan Seashore,https://www.linkedin.com/in/seashore/
+CodeCombat,Winter 2014,Game that teaches computer science to middle and high school kids.,Nick Winter,http://linkedin.com/in/nwinter
+Noora Health,Winter 2014,Training patients and their families with health skills,Edith Elliott,https://www.linkedin.com/in/edith-elliott-633b7a37/
+Cambly,Winter 2014,On-demand access to English tutors over video chat.,"Kevin Law, Sameer Shariff",https://www.linkedin.com/in/kevin-law-4b526525
+AptDeco,Winter 2014,AptDeco is the easiest way to buy and sell used furniture,"Reham Fagiri, kalam dennis","https://www.linkedin.com/in/reham-fagiri-97683b1, https://www.linkedin.com/in/kalam-dennis-641a7120"
+CareMessage,Winter 2014,Patient engagement for low-income populations,"Cecilia Corral, Vineet Singal","https://www.linkedin.com/in/ceciliacorral, https://www.linkedin.com/in/vineetsingal/"
+Ambition,Winter 2014,Coaching and gamification software for sales teams.,"Jared Houghton, Brian Trautschold, Travis Truett","https://www.linkedin.com/in/jaredshoughton, https://www.linkedin.com/in/brian-trautschold-97518219/, https://www.linkedin.com/in/travistruett"
+AirHelp,Winter 2014,"AirHelp helps air passengers get compensation for delayed, cancelled…",Henrik Zillmer,https://www.linkedin.com/in/zillmer
+42,Winter 2014,Analytics stack for omnichannel retailers and brands,Nick Porter,https://www.linkedin.com/in/nicolasporter
+True Link,Summer 2013,Financial Services for Financial Caregivers.,"Claire McDonnell, Kai Stinchcombe","https://www.linkedin.com/in/clairemcdonnell/, https://www.linkedin.com/in/kaistinchcombe"
+Reebee,Summer 2013,Flyer app.,"Tobiasz Dankiewicz, Michal Martyniak",https://linkedin.com/in/tobiaszdankiewicz
+Lob,Summer 2013,Lob is the only automation platform that transforms direct mail into…,Harry Zhang,
+Panorama Education,Summer 2013,Improving education for every student.,Aaron Feuer,https://www.linkedin.com/in/aaronfeuer
+Cratejoy,Summer 2013,Cratejoy is the platform for subscriptions,Amir Elaguizy,https://www.linkedin.com/in/amirelaguizy/
+"Estimote, Inc.",Summer 2013,Location intelligence platform,"Lukasz Kostka, Jakub Krzych","https://www.linkedin.com/in/lukaszkostka/, https://www.linkedin.com/in/krzych"
+EasyPost,Summer 2013,The shipping infrastructure of the internet.,Jarrett Streebin,https://www.linkedin.com/in/jstreebin
+Asseta,Summer 2013,Marketplace for industrial spare parts and capital equipment.,Garrett Beck,https://www.linkedin.com/in/garrett-beck-22022521/
+Per Vices,Winter 2012,Building Mission Critical Software Defined Radio products.,"Victor Wollesen, Brandon Malatest",
+7cups,Summer 2013,7 Cups is an emotional support service that matches up people that…,Glen Moriarty,
+Watsi,Winter 2013,Watsi is the first global crowdfunding platform for medical…,"Chase Adam, Grace Garey","https://www.linkedin.com/in/chaseadam17, https://www.linkedin.com/in/gracegarey"
+Goldbelly,Winter 2013,Empowering restaurants and small food makers to ship nationwide.,"Joe Ariel, Joel Gillman, Trevor Stow, Vanessa Torrivilla","https://www.linkedin.com/in/joeariel, https://www.linkedin.com/in/trevor-stow-6984394, https://www.linkedin.com/in/vanessatorrivilla"
+Wevorce,Winter 2013,Changing divorce for good by making it a way less horrible experience…,Michelle Crosby,https://www.linkedin.com/in/michelle-crosby-93508a6
+Wefunder,Winter 2013,We're Robinhood for pre-IPO startups. Everyone can invest $100.,"Nick Tommarello, Greg Belote",https://www.linkedin.com/in/gregbelote/
+SimplyInsured,Winter 2013,We sell health insurance to small businesses 100% online.,Vivek Shah,https://www.linkedin.com/in/vivekajayshah
+CircuitHub,Winter 2012,On-Demand Electronics Manufacturing,Andrew Seddon,https://www.linkedin.com/in/seddonandrew/
+Experiment,Winter 2013,crowdfunding platform for science,Denny Luan,https://www.linkedin.com/in/denny-luan-8189b726/
+RADAR,Winter 2013,RADAR is building technology to completely transform the in-store…,Spencer Hewett,https://www.linkedin.com/in/spencerhewett
+Lollipuff,Winter 2013,Online Auctions for Authentic (Women's) Designer Goods,Fei Deyle,https://www.linkedin.com/in/fei-deyle-14152910
+Strikingly,Winter 2013,"The easiest way to create a beautiful, mobile optimized website.","Teng Bao, Dafeng Guo, David Haisha Chen","https://www.linkedin.com/in/tengbao, https://linkedin.com/in/dfguo, https://www.linkedin.com/in/haishachen"
+InfluxData,Winter 2013,The platform for building and operating time series applications.,Paul Dix,https://www.linkedin.com/in/pauldix/
+Etleap,Winter 2013,Etleap is an ETL solution for creating perfect data pipelines.,Christian Romming,https://www.linkedin.com/in/cromming
+Cheetah,Winter 2013,"Fastest, easiest, and most affordable way for small business owners…",Na'ama Moran,https://www.linkedin.com/in/naamamoran/
+Lawdingo,Winter 2013,Lawdingo provides virtual paralegal services to law firms.,Nikhil Nirmel,https://linkedin.com/in/nikhilnirmel
+Padlet,Winter 2013,Papyrus → Parchment → Paper → Padlet,Nitesh Goel,https://www.linkedin.com/in/doodlebug
+BuildZoom,Winter 2013,BuildZoom is a better way to remodel. We connect homeowners to the…,"David Petersen, Jiyan Wei","https://www.linkedin.com/in/davidcpetersen, https://www.linkedin.com/in/jiyanwei"
+CircuitLab,Winter 2013,Online circuit simulator and electronic schematic editor.,"Humberto Evans, Mike Robbins",https://www.linkedin.com/in/humbertoevans
+StyleUp,Winter 2013,"StyleUp brings effortless joy to getting dressed with daily,…",Ryan Choi,https://www.linkedin.com/in/ryankicks
+9gag,Summer 2012,Make the world happier.,"Chris Chan, Derek Chan, Ray Chan, Marco Fung, Brian Yu",https://linkedin.com/in/raychan
+Svbtle,Summer 2012,A publishing platform.,Dustin Curtis,
+Plivo,Summer 2012,"AI Agents for customer engagement on WhatsApp, Voice, Chat & SMS.","Venky B, Michael Ricordeau",https://www.linkedin.com/in/michaelricordeau/
+Double Robotics,Summer 2012,Telepresence robots,"David Cann, Marc DeVidts","https://www.linkedin.com/in/davidjcann, https://www.linkedin.com/in/marcdevidts"
+Vastrm,Summer 2012,Mass customized active apparel. We are building a full turn key…,Jonathan Tang,https://www.linkedin.com/in/jonathantang/
+Flightfox,Summer 2012,"A platform to plan, book and manage global and group travel.","Todd Sullivan, Lauren Sullivan",https://www.linkedin.com/in/lozsul/
+BackerKit,Summer 2012,The only end-to-end crowdfunding platform built for today’s creators,"Maxwell Salzberg, Rosanna Yau","https://www.linkedin.com/in/maxwell-salzberg/, https://www.linkedin.com/in/rosannayau/"
+Submittable,Summer 2012,"The best way to launch, manage and measure social impact programs","Michael FitzGerald, John Brownell, Bruce Tribbensee",
+NewsBlur,Summer 2012,NewsBlur is a personalized news reader,Samuel Clay,https://www.linkedin.com/in/kathryn-minshew
+OctaveWealth,Summer 2012,The 401(k) that helps you grow,Rikin Shah,https://linkedin.com/in/rik1shah
+Upwave,Summer 2012,Marketing analytics for the world's biggest brand marketers,Chris Kelly,https://www.linkedin.com/in/christopherkelly
+Eligible,Summer 2012,Insurance Billing APIs for Healthcare Businesses,Katelyn Gleason,
+FundersClub,Summer 2012,Online VC,"Alex Mittal, Boris Silver",https://www.linkedin.com/in/borismsilver/
+Zentail,Summer 2012,We're making ecommerce simple connecting brands with sales channels,Dan Sugarman,https://www.linkedin.com/in/dansugarman/
+Mattermost,Summer 2012,Secure Collaboration for Technical Teams,Ian Tien,https://www.linkedin.com/in/iantien/
+HealthSherpa,Summer 2012,Private sector Healthcare.gov.,"George Kalogeropoulos, Ning Liang",https://linkedin.com/in/ningliang
+Human Dx,Summer 2012,The Human Diagnosis Project.,"Jay Komarneni, Irving Lin",https://www.linkedin.com/in/irvinglin
+Mth Sense,Summer 2012,We're a mobile on-device profiling and ad-serving platform initially…,"Mandar Agte, Mohan Balachandran",https://linkedin.com/mohanbalachandran
+Rainforest,Summer 2012,no-code end-to-end testing that integrates with any CI/CD pipeline,"Russell Smith, Fred Stevens-Smith","https://linkedin.com/in/russellhowardsmith, https://www.linkedin.com/in/fredstevenssmith/"
+Screenleap,Winter 2012,One-click screen sharing with installation-free viewing on all devices,Lawrence Gentilello,https://www.linkedin.com/in/gentilello
+Buxfer,Winter 2007,Buxfer helps you make better spending decisions by making it easy to…,"Amit Manjhi, Shashank Pandit",https://www.linkedin.com/in/shashankpandit
+Virtualmin,Winter 2007,,"Jamie Cameron, Joe Cooper",https://www.linkedin.com/in/jamiecameron2
+Blue Frog Gaming,Summer 2007,,Matt Maroon,https://www.linkedin.com/in/matthewmaroon
+CleverDeck,Winter 2012,Collaborate with an artist to commission original artwork you'll live…,Justin Cannon,
+Shoptiques,Winter 2012,Shoptiques.com lets you shop the world's best local boutiques online.,"Peter Delahunty, Olga Vidisheva, Dan Morin, Jeff Morin","https://www.linkedin.com/in/peterdelahunty/, https://www.linkedin.com/in/olga-vidisheva/, https://www.linkedin.com/in/danielmorin, https://www.linkedin.com/in/jeffmorin"
+Reacher,Summer 2025,AI-powered marketplace connecting brands with top creators,"Bora Mutluoglu, Jerry Qian","https://linkedin.com/in/bora-mutluoglu, https://linkedin.com/in/j-qian"
+Idler,Summer 2025,"AI employees that handle the work, so people can do the magic.","Ivan Chub, Nalu Concepcion, Tony Goss","https://www.linkedin.com/in/ivanchub/, https://linkedin.com/in/nalu-concepcion/, https://www.linkedin.com/in/tony-goss-a53732132"
+Perseus Defense,Summer 2025,Autonomous micro-missiles for Counter UxS.,"Jason Cornelius, Steve Messinger","https://www.linkedin.com/in/jason-k-cornelius/, https://www.linkedin.com/in/steve-messinger-a32680155/"
+Cyberdesk,Summer 2025,Self hostable fleet of virtual desktops to build computer use agents,"Mahmoud Al-Madi, Alan Duong","https://www.linkedin.com/in/mahmoudalmadi/, https://linkedin.com/in/alanduong07"
+Ninite,Winter 2008,Simple third-party app patching and deployment for Windows.,"Sascha Kuzins, Patrick Swieskowski",
+Cohesive,Spring 2025,The agentic CRM for blue-collar services,"Kevin Zhang, Nam Nguyen",https://www.linkedin.com/in/nam-nguyen96/
+Docket,Spring 2025,AI agents for web testing,"Nishant Hooda, Boris Skurikhin",https://linkedin.com/in/nishant-h
+Daxa,Spring 2025,An AI that watches how people use your product,"Connor Engelsberg, Ananth Kashyap","https://www.linkedin.com/in/connor-engelsberg/, https://www.linkedin.com/in/ananth-kashyap/"
+SAVA,Spring 2025,Autonomous Factories for American Manufacturing,"Jakob Knudsen, Vedic Patel, Alessio Toniolo",https://www.linkedin.com/in/vedic-patel-539546238/
+Godela,Spring 2025,AI Physics Engine to replace simulations and prototypes,"Cinnamon Sipper, Abhijit Pranav Pamarty","https://www.linkedin.com/in/cinnamonsipper, https://www.linkedin.com/in/abhijit-pranav-pamarty-6b2453152/"
+BitPatrol,Spring 2025,AI-powered code security,Christopher Lambert,"https://www.linkedin.com/in/~chris/, https://www.linkedin.com/in/~chris"
+Aegis,Spring 2025,AI Agents to win denied health insurance claims.,"Krishang Todi, Aarav Bajaj, Dhanya Shah","https://www.linkedin.com/in/krishang-todi-a6525b135/?trk=opento_sprofile_details, https://www.linkedin.com/in/aarav-bajaj-408ab01b1/, https://www.linkedin.com/in/dhanya-shah-97878835b/"
+Cascade Space,Spring 2025,Deep space communications as a service,"Jacob Portukalian, Arlen Abraham",https://www.linkedin.com/in/arlenabraham/
+Bond,Spring 2025,"Building Donna, your AI Chief of Staff","Chloe Samaha, Rene Sultan","https://linkedin.com/in/chloesamaha/, https://www.linkedin.com/in/renesultan/, https://www.linkedin.com/in/chloesamaha/"
+Blueshoe,Spring 2025,The AI-native legal back office,"Casey O'Grady, Kai Yee Wan",https://www.linkedin.com/in/casey-og
+sieve,Spring 2025,AI + human review to solve data cleaning - accessible via API or Excel,"Nicole Lu, Savannah Tynan","https://www.linkedin.com/in/lu-nicole/, https://www.linkedin.com/in/savannah-tynan-13272a157/"
+Airweave,Spring 2025,Open-Source Tool That Lets Agents Search Any App,"Lennert Jansen, Rauf Akdemir",https://www.linkedin.com/in/orhan-rauf-akdemir/
+Theorem,Spring 2025,Program verification so even your systems engineers can vibecode,"Jason Gross, Rajashree Agrawal","https://www.linkedin.com/in/jason-gross-86b72125/, https://www.linkedin.com/in/rajashreeagrawal/"
+text.ai,Spring 2025,AI in your group chats,"Rushi Shah, Paras Maniar, Prahar Patel","https://www.linkedin.com/in/rushishah01/, https://www.linkedin.com/in/parasmaniar/, https://www.linkedin.com/in/prahar-patel"
+StarSling,Spring 2025,Cursor for DevOps,"Yonas Beshawred, Daniel Worku","https://www.linkedin.com/in/yonas-beshawred/, https://www.linkedin.com/in/worku"
+Wavedash,Spring 2025,Play the latest games in your browser with no downloads,"Kyler Blue, Raymond (George) Kennedy, Matthew Portner","https://linkedin.com/in/kylerblue, https://www.linkedin.com/in/franzwarning/, https://www.linkedin.com/in/in-in-in/"
+Cactus,Spring 2025,AI copilot for solopreneurs,"Ajith Govind, Avinash Joshi","https://linkedin.com/in/ajith-govind, https://linkedin.com/in/joshi-avinash"
+LineWise,Spring 2025,AI Engineer to troubleshoot manufacturing line issues,"Tanachart (James) Kujareevanich, Zhichu Ren, Wenbo Zhang","https://www.linkedin.com/in/tanachartkujareevanich/, https://www.linkedin.com/in/zhichu-ren/, https://www.linkedin.com/in/wenbo-zhang6"
+Code Four,Spring 2025,Modernizing the police workflow.,"George Cheng, Natnael Kahssay, Dylan Nguyen",https://www.linkedin.com/in/natnaelkahssay/
+Lumari,Spring 2025,Agentic internal tools,"Eshani Mehta, Sam Lamba","https://www.linkedin.com/in/eshanimehta/, https://www.linkedin.com/in/samarthlamba"
+mlop,Spring 2025,Experiment tracking for training ML models,"Lakee Sivaraya, Stephen Sun",https://www.linkedin.com/in/jqssun
+Den,Spring 2025,Cursor for knowledge workers,"Linus Talacko, Justin Lee",https://www.linkedin.com/in/linustalacko
+Propolis,Spring 2025,Hands off QA via intelligent browser agents.,"Marc Papazian, Matt White","https://linkedin.com/in/marc-papazian, https://www.linkedin.com/in/matt-white-4750397b/"
+Cotool,Spring 2025,AI Agents for Security Operations Teams,"Logan Carmody, Eddie Conk, Max Pollard","https://www.linkedin.com/in/logan-carmody/, https://www.linkedin.com/in/eddieconk, https://www.linkedin.com/in/mmpollard/, https://www.linkedin.com/in/eddieconk/"
+Delty,Spring 2025,AI staff engineer: software architect that leads coding agents,"Lalit Kundu, Catherine Zhao","https://linkedin.com/in/lalitkundu, https://www.linkedin.com/in/cat-catherine-zhao, http://linkedin.com/in/lalitkundu, http://linkedin.com/in/cat-catherine-zhao"
+Nimbic AI,Spring 2025,Automatically write and update internal docs with every code commit.,"Akshath M, Ishan Khare, Ishan Mehta","https://www.linkedin.com/in/iskhare, https://www.linkedin.com/in/ishanmehta2"
+Moby Analytics,Spring 2025,AI financial auditors,"Dimitri Kassubeck, Thomas Rapilly, Clément Sengelen","https://www.linkedin.com/in/dimitri-kassubeck-69764647/, https://www.linkedin.com/in/thomas-rapilly-00481167/, https://www.linkedin.com/in/cl%C3%A9ment-sengelen-09261354/"
+Rimba,Spring 2025,AI to replace consultants for energy & industrial compliance reporting,"Timothy Daniel, Akshay Sharma","https://www.linkedin.com/in/timothydaniel09, https://www.linkedin.com/in/akshay326/"
+WorkDone,Spring 2025,Real-time AI Compliance for Medical Documentation,"Dmitry Karpov, Alex Odin, Sergey Yudovskiy","https://linkedin.com/in/dmitrykarpov, https://www.linkedin.com/in/odinalex/"
+Probo,Spring 2025,We help you get compliant while you focus on your business.,"Antoine Bouchardy, Bryan Frimin",https://www.linkedin.com/in/antoinebouchardy/
+MindFort,Spring 2025,Autonomous Security Agents,"Brandon Veiseh, Sam Berston, Akul Gupta","https://linkedin.com/in/samberston, https://www.linkedin.com/in/akulguptax/"
+chrt,Spring 2025,chrt is a logistics platform for time-critical shipping,"Kyle Reagan, Aaron Carver","https://linkedin.com/in/kyle-reagan-surfs, https://linkedin.com/in/aaroncarver, https://www.linkedin.com/in/kyle-reagan-surfs/, https://www.linkedin.com/in/aaroncarver/"
+Lapel,Spring 2025,Scale personalized service to every customer.,"Nikolas Huebecker, Coleman Oates","https://linkedin.com/in/nhuebecker, https://linkedin.com/in/colemanoates"
+Mesmer,Spring 2025,Cursor for CTOs,"João de Paula, Sergio Oliveira Bergmann, Lucas Silva",https://www.linkedin.com/in/lucasbrunosilva
+Relixir,Spring 2025,Content Automation for AI Search Visibility,"Sean Dorje, Dennis Zax","https://linkedin.com/in/seandorje, https://linkedin.com/in/dennis-zax-704165201"
+Janus,Spring 2025,Battle-Test AI Agents with Human Simulation,"Shivum Pandove, Jet Wu","https://www.linkedin.com/in/shivump1/, https://www.linkedin.com/in/jet-wu-cmu"
+Hemut,Spring 2025,AI-powered operating system for trucking companies.,"Loki Cheema, Anthony Guerrera","https://www.linkedin.com/in/loki-cheema/, https://www.linkedin.com/in/anthonynguerrera?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+Zero,Spring 2025,AI powered email client that manages your email so you don't have to.,"Nizar Abi Zaher, Adam Wazzan","https://www.linkedin.com/in/nizar-abi-zaher-801462272, https://www.linkedin.com/in/ajxb/"
+ValueMate,Spring 2025,Valuemate automates real estate appraisals with AI,"Anir Prativadi, Pietro Demicheli","https://www.linkedin.com/in/anir-prativadi-4aa4881ba/, https://www.linkedin.com/in/pietro-demicheli/"
+Bramante Biologics,Spring 2025,American drug manufacturing,"Scott Stankey, Michael Magaraci","https://www.linkedin.com/in/scottstankey/, https://www.linkedin.com/in/michael-magaraci/"
+Scalar Field,Spring 2025,Reinventing the trading terminal — one intelligent agent at a time.,"Amandeep Singh, Ramakant Yadav","https://www.linkedin.com/in/amandeep-singh0/, https://www.linkedin.com/in/ramakant-yadav1/"
+Eloquent AI,Spring 2025,The AI Operator for Financial Services,"Tugce Bulut, Aldo Lipani","https://www.linkedin.com/in/tugcebulut/, https://www.linkedin.com/in/aldo-lipani, https://www.linkedin.com/in/aldo-lipani/"
+MorphoAI,Spring 2025,Software tool for designing robots and machines,"Ayna Arora, Andrew Spielberg","https://www.linkedin.com/in/aynaarora/, https://www.linkedin.com/in/andrew-spielberg-82073926a/"
+Vassar Robotics,Spring 2025,$200 Al robot arms that learn new skills in 30 min.,Charles Yong,https://linkedin.com/in/charles-zhengqi-yong
+Boost Robotics,Spring 2025,Robots for the inspection and maintenance of data centers,"Hardik Singh, Hans Kumar","https://www.linkedin.com/in/hardiksingh, https://www.linkedin.com/in/kumarhans/"
+Sygaldry Technologies,Spring 2025,quantum-accelerated AI servers,"Chad Rigetti, Idalia Friedson",https://www.linkedin.com/in/idaliafriedson/
+ParaQuery,Spring 2025,Managed GPU-accelerated Spark + SQL at 2x speed and half the cost,Win Wang,https://www.linkedin.com/in/winwang
+Klavis AI,Spring 2025,Open Source MCP Integrations for AI Applications,"Xiangkai Zeng, Zihao Lin",https://www.linkedin.com/in/xiangkai-zeng/
+Third Chair,Spring 2025,Agents for in-house legal teams,"Yoav Zimmerman, Shourya Lala","https://www.linkedin.com/in/yoav-zimmerman-05653252/, https://www.linkedin.com/in/shouryalala/"
+Vesence,Spring 2025,Cursor for Lawyers. Agentic AI in MS Office.,"Henrik Hansson, Ludvig Swanstrom","https://www.linkedin.com/in/henrik-hansson-1571a8187/, https://www.linkedin.com/in/ludvig-swanstr%C3%B6m-73ab49114/"
+PowerMatrix,Spring 2025,Efficient and compact power supply for AI hardware,"Borong Hu, Xufu Ren","https://www.linkedin.com/in/boronghu/, https://www.linkedin.com/in/xufu-ren-58477924b/"
+Jazzberry,Spring 2025,Training LLMs to be expert bug finders,"Mateo Perez, Marco Dewey",https://www.linkedin.com/in/mateo-perez/
+Besimple AI,Spring 2025,AI powered data annotation,"Yi Zhong, Bill Wang","https://www.linkedin.com/in/yzhong94/, https://www.linkedin.com/in/8illwang/"
+Alkali,Spring 2025,Your Copilot for Building Chemical Projects,"Emmett Goodman, Victor Miller",https://www.linkedin.com/in/victor-v-a514248b
+Human Behavior,Spring 2025,"We reveal why users stay, leave, or pay","Skyler Ji, Amogh Chaturvedi, Chirag Kawediya",https://www.linkedin.com/in/skyler-ji/
+QualGent,Spring 2025,AI Mobile App Quality Assurance Tester,"Shivam Agrawal, Aaron Yu","https://www.linkedin.com/in/shivam-agrawal, https://www.linkedin.com/in/aaron-y-a12518ab/"
+Prism AI,Spring 2025,AI-native Datadog + Amplitude,"Rajit Khanna, Alex Liu, Land Tantichot","https://www.linkedin.com/in/rkhanna23/, https://www.linkedin.com/in/alexyliuswe, https://www.linkedin.com/in/landtantichot/"
+Novoflow,Spring 2025,AI employees that automate medical operations for clinics.,"Mathieu Rihet, Georges Casassovici","https://www.linkedin.com/in/mathieurihet/, https://www.linkedin.com/in/thegeorgesc/"
+Theta Software,Spring 2025,Self-Learning for AI Agents,"Rayan Garg, Tanmay Sharma, Gurvir Singh","https://www.linkedin.com/in/rayan-garg/, https://www.linkedin.com/in/tanmayxsharma/, https://www.linkedin.com/in/gurvir-s/"
+Lyra,Spring 2025,AI-Native Zoom For Revenue Teams,"Courtne Marland, Henry Kwon","https://www.linkedin.com/in/courtnemarland/, https://www.linkedin.com/in/taeksoo-kwon/"
+Cleon,Spring 2025,AI Agents for Software Implementations,"Ricardo Pantaleon, Rohan Gupta, Alexandros Zisimidis",https://www.linkedin.com/in/ricardo-pantaleon-9b6959135/
+throxy,Spring 2025,Vertical AI agents that run the sales funnel on autopilot,"Bergen Merey, Arnau Ayerbe Garcia, Pablo Jimenez de Parga Ramos",https://linkedin.com/in/pjdepargar
+Lucis,Spring 2025,Function Health for Europe,"Max Berthelot, Baptiste Debever, Max Guerois","https://linkedin.com/in/maximeberthelot, https://linkedin.com/in/bdebever, https://www.linkedin.com/in/maxguerois/, https://www.linkedin.com/in/maximeberthelot/, https://www.linkedin.com/in/bdebever/"
+Flott HQ,Spring 2025,AI-native operating system for vehicle fleet management,"Sylvanus MAHE, Kanvaly Fadiga",https://www.linkedin.com/in/kanvaly-fadiga
+Crimson,Spring 2025,The AI Associate for Litigation Lawyers,"Mark Feldner, Amine Amor, David Strömbäck","https://www.linkedin.com/in/mark-feldner/, https://www.linkedin.com/in/amine-amor-4a7a42135/, https://www.linkedin.com/in/davidstromback/"
+Casco,Spring 2025,"Evaluate AI agents and apps on security, safety, and accuracy.","Rene Brandel, Ian Saultz",https://www.linkedin.com/in/iansaultz/
+Nomi,Spring 2025,Cursor for Sales,"Ethan Safar, Swan Beaujard",https://www.linkedin.com/in/ethan-safar/
+Morphik,Spring 2025,Open-source multimodal search for AI apps,"Adityavardhan Agrawal, Arnav Agrawal","https://www.linkedin.com/in/adityav369/, https://www.linkedin.com/in/arnavagrawal03/"
+RunRL,Spring 2025,Reinforcement learning as a service,"Andrew Gritsevskiy, Derik Kauffman",https://linkedin.com/in/agritsevskiy
+Ticket Wallet,Spring 2025,AI-optimized ticket resale,"Truman Gelnovatch, Ryan Clare","https://www.linkedin.com/in/truman-gelnovatch-52442218a/, https://linkedin.com/in/ryan-clare-782299196"
+Kaizen,Spring 2025,Integrate instantly with any website.,"Kenneth Acquah, Michael Silver","https://www.linkedin.com/in/kenneth-acquah-45b397123/, https://www.linkedin.com/in/michael-silver-853952129/, https://www.linkedin.com/in/ken-acquah-45b397123/"
+HABIT,Spring 2025,Reshaping neighborhood services with robotics. Auto details are first.,"Michael Trehan, Harish Palani","https://www.linkedin.com/in/michaeltrehan, https://www.linkedin.com/in/harishkpalani"
+Clidey,Spring 2025,Documentation made for AI Agents,"Hemang Kandwal, Anguel Hristozov","https://linkedin.com/in/hemangkandwal, https://linkedin.com/in/ahristozov, https://www.linkedin.com/in/hemangkandwal/, https://www.linkedin.com/in/ahristozov/"
+Opusense AI,Spring 2025,AI for Field Inspection Reports,"Roya Cody, Michael Bacani","https://www.linkedin.com/in/royacody/, https://www.linkedin.com/in/michael-bacani/"
+Labric,Spring 2025,The data layer for scientific research,"Caitlin Hogan, Connor Hogan","https://www.linkedin.com/in/caitlin-hogan-429551177, https://www.linkedin.com/in/connor-hogan-282709195/"
+Photonium,Spring 2025,AI-Driven Optical System Design,"Jennifer Song, Adam Mhatre","https://linkedin.com/in/jennifer-y-song, https://linkedin.com/in/adam-mhatre-5b8aaa230"
+Sixtyfour,Spring 2025,Bloomberg for Sales,"Saarth Shah, Christopher Price",https://linkedin.com/in/christopher-price-59a24b178
+Odapt,Spring 2025,How great teams build internal software & agent workflows,"Madhav Mohan, Lucas Negritto, Ende Shen",https://www.linkedin.com/in/ende-shen/
+Clado,Spring 2025,Deep Research for People,"Eric Mao, Tom Zheng","https://www.linkedin.com/in/eric-mao/, https://www.linkedin.com/in/toomzheng"
+Combinely,Spring 2025,AI coworker for accountants,"Tom Invernizzi, Arthur Granacher","https://www.linkedin.com/in/tominvernizzi/, https://www.linkedin.com/in/arthur-granacher, https://www.linkedin.com/in/arthur-granacher/"
+VoiceOS,Spring 2025,Voice AI Interviews for Enterprise,"Jonah Daian, Parker Bjur, Kai Brokering, Ari Ramsan",https://linkedin.com/in/parker-bjur-7bb368178
+Chiron,Spring 2025,Grammarly for Math ✏️,"James Booth, Max Booth","https://linkedin.com/in/james-booth-project-chiron, https://www.linkedin.com/in/max-booth-132928302/"
+Jeevy Fabrication,Spring 2025,AI Driven EPC - Weld Fabrication Contractor,"Jeevesh Konuru, Vinay Konuru",https://www.linkedin.com/in/jeevesh-k-4aa73a139/
+Trapeze,Spring 2025,AI-native Zocdoc,"Betty Chang, Christopher Chen","https://www.linkedin.com/in/betchang, https://www.linkedin.com/in/chrismychen, https://www.linkedin.com/in/betchang/, https://www.linkedin.com/in/chrismychen/"
+Tinfoil,Spring 2025,"Tinfoil makes your AI workflows secure, verifiable, and private.","Tanya Verma, Jules Drean, Nate Sales, Sacha Servan-Schreiber",https://www.linkedin.com/in/tanya-verma-130a23124/
+The LLM Data Company,Spring 2025,Datagen Tooling for Evals & RL,"Daanish Khazi, Gavin Bains, Joseph Besgen",https://www.linkedin.com/in/jpbesgen/
+Operative,Spring 2025,Web application code generation for internal APIs,"Christopher Settles, Erik Quintanilla","https://www.linkedin.com/in/christopher-settles/, https://linkedin.com/in/erikquintanilla"
+Parsewise,Spring 2025,Business Analytics for Unstructured Data,"Max Hofer, Greg Csegzi","https://www.linkedin.com/in/mwhofer/, https://www.linkedin.com/in/gergely-csegzi"
+Better Auth,Spring 2025,The authentication framework for TypeScript,Bereket Engida,https://www.linkedin.com/in/bekacru/
+Bluejay,Spring 2025,The world's first quality assurance agency for voice AI.,"Rohan Vasishth, Faraz Siddiqi",https://www.linkedin.com/in/rohanvas/
+Kestral,Spring 2025,AI Agents that prioritize the highest impact work across Sales and R&D,"Brian Kim, Bernard Xie","https://www.linkedin.com/in/brian-y-kim-16b7aa63/, https://www.linkedin.com/in/xiebernard"
+Attune,Spring 2025,"Faster builds, zero effort.","Xin Ding, Eliza Zhang","https://www.linkedin.com/in/xinding3/, https://linkedin.com/in/lehaozhang"
+PgDog,Spring 2025,Scaling engine for PostgreSQL,Lev Kokotov,https://linkedin.com/in/levkk
+Caucus,Spring 2025,AI CRM for Government,"Amir Farahani, Tyler Chen","https://www.linkedin.com/in/amir-farahani-21745b216, https://www.linkedin.com/in/tyler-chen-43570b241/, https://www.linkedin.com/in/theamirfarahani/"
+Kirana AI,Spring 2025,AI manager for physical stores,"Nicholas Sleeper, Prateek Pinisetti","https://www.linkedin.com/in/nicholas-sleeper-209641179/, https://www.linkedin.com/in/prateek-pinisetti-606287171/"
+Mbodi AI,Spring 2025,Embodied AI Platform for Industrial Robotics,"Xavier (Tianhao) Chi, Sebastian Peralta","https://www.linkedin.com/in/xavierchi/, https://linkedin.com/in/sebastian-peralta-87493a135, https://www.linkedin.com/in/sebbyjp/"
+Percival,Spring 2025,AI-powered data entry for wholesalers and distributors,"Kevin Bi, David Zhu","https://www.linkedin.com/in/kevin-bi-006426148/, https://www.linkedin.com/in/davidzhu10/"
+VibeGrade,Spring 2025,Cursor for Teachers,"Daniel Martinez, Musa Aqeel","https://www.linkedin.com/in/danielmartinezdev, https://linkedin.com/in/musa-aqeel"
+YouLearn,Spring 2025,AI tutor for each student.,"David Yu, Achyut Krishna Byanjankar, Soami Kapadia","https://www.linkedin.com/in/david-yu-871202244/, https://linkedin.com/in/achyut-byanjankar, https://linkedin.com/in/soamikapadia, https://www.linkedin.com/in/achyut-byanjankar/, https://www.linkedin.com/in/soamikapadia/"
+stratify,Spring 2025,AI agents that help you understand your customers' needs,"Siddhartha Javvaji, Pratham Hombal","https://www.linkedin.com/in/siddhartha-javvaji-23b81617a/, https://www.linkedin.com/in/prathamhombal/, https://www.linkedin.com/in/siddhartha-javvaji-23b81617a, https://www.linkedin.com/in/prathamhombal"
+Sim Studio,Spring 2025,The open source AI agent builder,"Emir Karabeg, Waleed Latif","https://www.linkedin.com/in/emir-karabeg-53ab52196/, https://www.linkedin.com/in/waleedlatif"
+Clarm,Spring 2025,Perplexity for internal docs,"Marcus Storm-Mollard, Alex Usher",https://www.linkedin.com/in/alex-usher
+Beluga Labs,Spring 2025,Rippling for Content Creators,"Fernando Young, Jack Swisher","https://www.linkedin.com/in/fernando-young-13b713166/, https://www.linkedin.com/in/jack-swisher-77548a165/"
+Kaelio,Spring 2025,AI operating system for healthcare organizations,"Luca Martial, Andrey Avtomonov","https://www.linkedin.com/in/luca-martial/, https://www.linkedin.com/in/andreyavtomonov/"
+Zenobia Pay,Spring 2025,Bank transfers as payments for luxury retailers.,"Ryan Prendergast, Theodore Li",https://www.linkedin.com/in/theodore-li-0425b5177
+Zeon Systems,Spring 2025,AI-powered robotics for scientific lab automation.,"Brontë Kolar, Tahir D'Mello",https://www.linkedin.com/in/bronte-kolar/
+The Robot Learning Company,Spring 2025,Affordable robotic workers,Jannik Grothusen,https://www.linkedin.com/in/jannik-grothusen/
+HelixDB,Spring 2025,The database for intelligence,"George Curtis, Xavier Cochran","https://linkedin.com/in/george-curtis-12b232a5, https://linkedin.com/in/xaviercochran, https://www.linkedin.com/in/george-curtis-12b232a5/, https://www.linkedin.com/in/xaviercochran/"
+Chonkie,Spring 2025,Open Source Data Ingestion For AI,"Shreyash Nigam, Bhavnick Minhas","https://www.linkedin.com/in/shreyashnigam/, https://www.linkedin.com/in/bhavnicksm/"
+Almond,Spring 2025,AI robots for manufacturing,"Saba Khalilnaji, Shawn Patel",https://linkedin.com/in/shawnpatel
+Claim Health,Spring 2025,The first AI revenue platform for post-acute healthcare,"Kevin Calcado, Jayen Ram","https://www.linkedin.com/in/kevincalcado, https://www.linkedin.com/in/jayenram/"
+Capacitive,Spring 2025,The AI Agent Platform for Knowledge Workers.,"Kevin Treehan, Rohan Radhakeesoon","https://www.linkedin.com/in/kevintreehan/, https://linkedin.com/in/rohan-radhakeesoon"
+Anvil,Spring 2025,Anvil is the SEO platform for the AI era,"Daniel Siryakov, Barak Ben Noon",https://www.linkedin.com/in/barak-ben-noon/
+Approval AI,Spring 2025,"One-click mortgage: AI shops, negotiates, and handles your application","Arjun Lalwani, Helly Shah","https://www.linkedin.com/in/arjun-lalwani, https://www.linkedin.com/in/hellyshah"
+Auctor,Spring 2025,Automating Enterprise Software Implementations,"William Sun, Matthew Blackburn, Anthony Sky Ng-Thow-Hing, Xinan Rahman","https://www.linkedin.com/in/weihongsun/, https://www.linkedin.com/in/anthony-sky-ng-thow-hing-9b1352193/, https://www.linkedin.com/in/xinanrahman/"
+neoncoral,Spring 2025,🪸 AI consumer social,Thomas Liao,https://www.linkedin.com/in/thomasliao/
+Galen AI,Spring 2025,"Personal AI healthcare agent, powered by clinical and wearable data.","Priyanka Shrestha, Viraj Mehta","https://www.linkedin.com/in/priyanka-shrestha-/, https://www.linkedin.com/in/virajmehta28/"
+SynthioLabs,Spring 2025,Voice AI Medical Rep for Pharma,"Supreet Deshpande, Sahitya Sridhar, Rajashekar Vasantha","https://www.linkedin.com/in/supreetdeshpande/, https://www.linkedin.com/in/sahitya-sridhar/, https://www.linkedin.com/in/rajashekar-v, https://www.linkedin.com/in/rajashekar-v/"
+Cua,Spring 2025,Docker for Computer-use Agents,"Francesco Bonacci, Alessandro Puppo","https://linkedin.com/in/francesco-bonacci-70428a121, https://www.linkedin.com/in/alessandro-puppo/"
+Minerva,Spring 2025,AI to Replace SMB Bookkeepers,"Peter Zhu, Om Agarwal","https://www.linkedin.com/in/zhudanmeng/, https://www.linkedin.com/in/om-agarwal/"
+Kanava AI,Spring 2025,Your First AI Sales Hire for Wholesale Distributors,"Smit Dagli, Vikhyath Mondreti","https://www.linkedin.com/in/smitdagli/, https://www.linkedin.com/in/vikhyath-m-a00357128/"
+GroundControl,Spring 2025,Vertical AI for highly-regulated manufacturing,"Mehul Shah, Matthew Noseworthy, Nick Warren","https://www.linkedin.com/in/mehulmshah22, https://www.linkedin.com/in/matthew-noseworthy-218167106/, https://www.linkedin.com/in/nickcw/"
+Avallon AI,Spring 2025,AI agents for insurance claims operations,"Cornelius Schramm, Bryan Guin, Jet Semrick","https://www.linkedin.com/in/cornelius-schramm-450759150/, https://www.linkedin.com/in/bryan-guin/, https://www.linkedin.com/in/jetsemrick/"
+Bloom,Spring 2025,Build and share mobile apps in seconds,"David Oort Alonso, Sirian Maathuis","https://linkedin.com/in/david-oort-alonso, https://linkedin.com/in/sirian-maathuis, https://www.linkedin.com/in/sirian-maathuis/, https://www.linkedin.com/in/david-oort-alonso/"
+cubic,Spring 2025,AI-powered code review platform,"Allis Yao, Paul Sanglé-Ferrière",https://www.linkedin.com/in/allisyao/
+Notus Autonomous Systems,Spring 2025,Swarm robotics and full AI-command hierarchy integration,"Arhum Jain, Emmanuel Margolin","https://www.linkedin.com/in/arhum-jain-54156330b/, https://www.linkedin.com/in/emmanuel-margolin-907055351/"
+Golf,Spring 2025,Open-source platform for building production MCP servers,"Wojciech Błaszak, Antoni Gmitruk","https://www.linkedin.com/in/wojciech-błaszak11/, https://linkedin.com/in/antoni-gmitruk-80a268211"
+BitBoard,Spring 2025,The AI workforce for healthcare operations.,"Connor Jones, Ambar Choudhury",https://www.linkedin.com/in/connorandrewjones/
+nao Labs,Spring 2025,Cursor for data teams.,"Claire Gouze, Christophe Blefari","https://www.linkedin.com/in/claire-gouze/, https://www.linkedin.com/in/christopheblefari/"
+Vybe,Spring 2025,Lovable for internal apps,"Quang Hoang, Fabien Devos","https://www.linkedin.com/in/quanghoang/, https://www.linkedin.com/in/fabiendevos"
+Aravolta,Spring 2025,"Software to monitor, control, and optimize data centers.","Margarita Groisman, Jack Sutton","https://www.linkedin.com/in/margarita-groisman/, https://www.linkedin.com/in/sutton-jack"
+Kashikoi,Spring 2025,Simulation Engine for Benchmarking AI Products,"Tim Michaud, Aaksha Meghawat","https://www.linkedin.com/in/timmichaud/, https://www.linkedin.com/in/aaksham/"
+Plexe,Spring 2025,Open-source agents to build predictive ML models from a prompt,"Vaibhav Dubey, Marcello De Bernardi",https://www.linkedin.com/in/marcello-de-bernardi/
+RescueTime,Winter 2008,Take Back Control of your Time,Brian Fioca,https://www.linkedin.com/in/brianfioca/
+Frekil,Spring 2025,Scale AI for Medical Scans,"Nikhil Tiwari, Shivesh Gupta","https://www.linkedin.com/in/nikhiltiwari-iitb/, https://www.linkedin.com/in/shivesh-gupta-iitb/"
+Chestnut,Spring 2025,The first AI mortgage lender,Spencer Brown,https://linkedin.com/in/spencercbrown
+Red Barn Robotics,Winter 2025,A Roomba for weeds on a farm.,"Adam Iseman, Ilya Kelner, Alex Neff","https://linkedin.com/in/adamiseman, https://www.linkedin.com/in/ilyakelner/, https://www.linkedin.com/in/alex-neff-2245732b/"
+QFEX,Spring 2025,24/7 Global Stock Exchange,"Annanay Kapila, Joshua Wharton","https://www.linkedin.com/in/annanay-kapila/, https://www.linkedin.com/in/joshua-wharton/"
+Blaxel,Spring 2025,AWS for AI Agents,"Paul Sinaï, Thomas Crochet, Charles Drappier, Mathis Joffre, Nicolas Lecomte, Christophe Ploujoux","https://www.linkedin.com/in/paul-sinai, https://www.linkedin.com/in/crochetthomas, https://www.linkedin.com/in/charles-drappier-48017962/, https://www.linkedin.com/in/mathis-joffre-30992712a/, https://www.linkedin.com/in/christophe-ploujoux/"
+Mentra,Winter 2025,Building the open source smart glasses operating system.,"Cayden Pierce, Alexander Israelov","https://www.linkedin.com/in/cayden-pierce/, https://linkedin.com/in/alexanderisraelov"
+BlindPay,Winter 2025,Stablecoin API for global payments,"Bernardo Simonassi, Joao Borges, Gabriel Lyra, Gustavo Marinho",https://www.linkedin.com/in/gustavomarinho/
+Vantel,Winter 2025,AI Software for Commercial Insurance Brokers,"Love Redin, Ulme Wennberg","https://www.linkedin.com/in/love-redin/, https://www.linkedin.com/in/ulme-wennberg/"
+Fira,Winter 2025,Agentic AI platform for investment firms,"Alex Tkachenko, Alexey Taktarov","https://linkedin.com/in/alextcn, https://www.linkedin.com/in/molefrog/"
+assistant-ui,Winter 2025,Open Source React.js Library for AI Chat,Simon Farshid,https://linkedin.com/in/simon-farshid
+Artifact,Winter 2025,"An Collaborative, AI-native IDE for Hardware Engineers","Corbin Klett, Antony Samuel","https://www.linkedin.com/in/corbinklett, https://www.linkedin.com/in/antony-samuel/, https://www.linkedin.com/in/corbinklett/"
+Axal,Winter 2025,The AI Software Architect,"Samai Patel, Nand Vinchhi","https://www.linkedin.com/in/samaipatel, https://www.linkedin.com/in/nandvinchhi"
+ThirdLayer,Winter 2025,"Building Dex, the AI Browser Copilot","Regina Lin, Kevin Gu","https://linkedin.com/in/reginaclin, https://linkedin.com/in/kevinrgu"
+TrainLoop,Winter 2025,Reasoning Fine-Tuning,"Jackson Stokes, Mason Pierce",https://www.linkedin.com/in/jacksonstokes/
+Tally,Winter 2025,AI accounting,Rami Ghanem,https://www.linkedin.com/in/ramighanem
+SAMMY Labs,Winter 2025,"Live, AI-powered graph of every possible click path in your software","Joe Savidge, Shav Vimalendiran",https://www.linkedin.com/in/josephsavidge
+Instinct,Winter 2025,Building the lunar future.,"Alex Pinel Neparidze, Joaquim Dickson, Ashwin Iyer, Joe Papworth","https://www.linkedin.com/in/alex-pinel/, https://www.linkedin.com/in/joaquim-ropd/, https://www.linkedin.com/in/ashwin-iyer-626263245/, https://www.linkedin.com/in/joe-papworth"
+Mercura,Winter 2025,AI Quoting for distributors and manufacturers,"Lukas Bock, Hai Dang, Stefan Zheng","https://www.linkedin.com/in/lukas-bock-7636a0131, https://www.linkedin.com/in/hdng, https://www.linkedin.com/in/stefan-zheng/"
+emojis.com,Winter 2025,AI Copilot for Graphic Design,,
+Cedar,Winter 2025,In-product AI copilot for any app,"Jesse Li, Isabelle Ilyia",https://linkedin.com/in/isabelle-i
+Browser Use,Winter 2025,Leading open-source web agent project with 50k stars in 3 months,"Magnus Müller, Gregor Zunic","https://www.linkedin.com/in/magnus-mueller, https://linkedin.com/in/gregorzunic"
+TamLabs,Winter 2025,Cursor for Microsoft Word,"Joshua Doolan, Ben Doolan","https://www.linkedin.com/in/joshua-doolan, https://www.linkedin.com/in/ben-doolan-66aa64204/"
+Ergo,Winter 2025,AI Agents for Sales Operations,"Yash Dulla, Ishan Sheth","https://www.linkedin.com/in/yash-dulla/, https://www.linkedin.com/in/isheth/"
+CopyCat,Winter 2025,"Next-Gen RPA, Powered by Browser Agents","Graham Sabin, Abhi Balijepalli, Zyad Elgohary","https://www.linkedin.com/in/grahamsabin/, https://www.linkedin.com/in/a8hi/, https://linkedin.com/in/zyad-elgohary"
+Paratus Health,Winter 2025,AI-powered intake nurse,"Pablo Bermudez-Canete, Tannen Hall","https://www.linkedin.com/in/pablobermudezcanete?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app, https://www.linkedin.com/in/tannen-hall/"
+Atlog,Spring 2025,Voice Agents for Physical Retail Stores,"Vraj Parikh, John Bettinger, Shaun Karakkattu","https://www.linkedin.com/in/vrajdirajlal/, https://www.linkedin.com/in/john-bettinger, https://www.linkedin.com/in/karakkattu/"
+Pig,Winter 2025,Behavioral Cache for Agents,Erik Dunteman,https://www.linkedin.com/in/edunteman/
+Bluebook,Winter 2025,AI for accounting,"Jonathan Andersson, Philip Andersson, Filip Stål",https://www.linkedin.com/in/jonathan-andersson1/
+TensorPool,Winter 2025,Vercel For GPUs,"Tycho Svoboda, Joshua Martinez, Hlumelo Notshe",https://www.linkedin.com/in/hlumelo-notshe
+Waffle,Spring 2025,AI Operating System for SMBs,"Manuj Mishra, Diogo Valdivieso",https://www.linkedin.com/in/diogo-vddc/
+Dalus,Winter 2025,AI-Powered Hardware System Design Software,"Sebastian Völkl, Eliot Khachi",https://www.linkedin.com/in/eliot-khachi-426424159/
+Roark,Winter 2025,Datadog for Voice AI,"James Zammit, Daniel Gauci",https://www.linkedin.com/in/gaucidaniel/
+Rebolt,Winter 2025,AI Agents to Replace Restaurant Managers,"Celia Manzano, Javier Sanchez","https://www.linkedin.com/in/celiamanz, https://www.linkedin.com/in/sanchezfdezjavier, https://www.linkedin.com/in/sanchezfdezjavier/, https://www.linkedin.com/in/celiamanz/"
+Spott,Winter 2025,AI agents for recruiting firms,"Manu Vanderveeren, Lander Degreve, Samuel Smeys","https://www.linkedin.com/in/manuvanderveeren/, https://www.linkedin.com/in/lander-degr%C3%A8ve/, https://www.linkedin.com/in/samuelsmeys/"
+Woz,Winter 2025,AI platform enabling anyone to build and scale software businesses,"Ben Collins, Brad Eckert","https://www.linkedin.com/in/bentcollins/, https://www.linkedin.com/in/bradleymeckert/, https://www.linkedin.com/in/chefeckert/"
+Proception Inc,Winter 2025,Making humanoids dexterous enough to thread a needle,,
+Demeter,Winter 2025,AI Value Creation Team for Private Equity,"Qiaochu Li, Dev Jain","https://www.linkedin.com/in/qiaochu-li1999/, https://www.linkedin.com/in/devrjain/"
+Wildcard,Winter 2025,Make APIs work for AI Agents,,
+Permitify,Winter 2025,AI co-pilot for building plan review and building code compliance,,
+Reditus Space,Winter 2025,Reusable Satellites for zero-g manufacturing,"Stef Crum, Will Sherman","https://www.linkedin.com/in/spcrum/, https://www.linkedin.com/in/willamasherman/"
+Optifye.ai,Winter 2025,AI performance monitoring for factory workers,"Vivaan Baid, Kushal Mohta","https://www.linkedin.com/in/vivaan-baid-119415177/, https://www.linkedin.com/in/kushal-mohta-6926931b4/"
+Pinch,Winter 2025,Video conferencing with real-time voice translation,,
+Retrofit,Winter 2025,A vintage marketplace curated by AI,Sandra Lifshits,https://www.linkedin.com/in/sandra-lifshits-a7a60284/
+Archon,Winter 2025,We help software companies sell to government.,"George Parks, Sam Jung","https://www.linkedin.com/in/george-parks/, https://www.linkedin.com/in/sam-jung-b71956ab/"
+Forge Automation,Winter 2025,Software Enabled CNC Parts Supplier,"Timothy Seto, Walter Raftus","https://linkedin.com/in/timmy-seto, https://linkedin.com/in/walterraftus"
+Mastra,Winter 2025,"The Javascript framework for building AI agents, from the Gatsby devs","Sam Bhagwat, Abhi Aiyer, Shane Thomas","https://linkedin.com/in/sambhagwat, https://www.linkedin.com/in/abhi-aiyer-aa41bb42/, https://www.linkedin.com/in/smthomas3"
+AfterQuery,Winter 2025,Research lab investigating the boundaries of AI capabilities.,"Danny Tang, Carlos Georgescu, Spencer Mateega",https://www.linkedin.com/in/danny1898/
+Misprint,Winter 2025,Misprint is building Robinhood for Pokemon cards,"Eva Herget, Jonathan Jenkins","https://www.linkedin.com/in/eva-herget/, https://www.linkedin.com/in/jtjenkins18/"
+FuseAI,Winter 2025,The only sales software you will ever need.,"Saurav Bubber, Imogen Low","https://linkedin.com/in/sauravbubber, https://linkedin.com/in/imogen-low"
+Miyagi Labs,Winter 2025,Shopify for AI-generated courses,"Tyrone Davis III, Guang Cui",https://www.linkedin.com/in/guang-cui/
+Artificial Societies,Winter 2025,We use AI to simulate entire human societies,"James He, Patrick Sharpe","https://www.linkedin.com/in/james-k-he/, https://www.linkedin.com/in/sharpe-patrick/"
+TripleZip,Winter 2025,Automating CRE accounting with AI,"Yash Sahota, Grayson Pike","https://www.linkedin.com/in/yashsahota, https://www.linkedin.com/in/graysonpike/"
+Peppr AI,Winter 2025,Self-improving knowledge base synthesizing scattered company data,"Sachitt Arora, Nitya Arora","https://linkedin.com/in/sachittarora, https://linkedin.com/in/nityaarora108"
+Infinite,Winter 2025,Global B2B Stablecoin Processor,"Nikhil Srinivasan, Raj Lad","https://linkedin.com/in/nikhilsrinivasan, https://www.linkedin.com/in/rajlad/"
