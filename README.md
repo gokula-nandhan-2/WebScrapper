@@ -24,6 +24,7 @@ This project scrapes startup data from the [Y Combinator](https://www.ycombinato
 - [Multithreading with ThreadPoolExecutor (Corey Schafer)](https://youtu.be/IEEhzQoKtQU?si=ih0Pnj6Jqr0ZqVwd)  
 - [BeautifulSoup Tutorial (Tech with Tim)](https://youtu.be/UOsRrxMKJYk?si=C3UlK-OQhfH1WAB9)  
 - [Selenium Best Practices (edureka!)](https://youtu.be/mBoX_JCKZTE?si=GNyDHEHVE2pZiGoL)
+- [BeautifulSoup Web Scraping Full Course (freeCodeCamp)](https://youtu.be/XVv6mJpFOb0?si=pQbPLTdTaUGL3EHK)
 
 ## Output
 
