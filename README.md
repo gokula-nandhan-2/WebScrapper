@@ -1,10 +1,5 @@
 # Web Scrapper Assignment - Zyner.io
 
-To add this to a `README.md` file, use **Markdown** syntax. Here's how you can structure it professionally:
-
-```markdown
-# YC Startup Scraper
-
 ## Overview
 
 This project scrapes startup data from the [Y Combinator](https://www.ycombinator.com/companies) website using Python. It extracts both dynamic fields (company name, batch, short description) and static fields (founder names, LinkedIn URLs).
@@ -34,8 +29,6 @@ This project scrapes startup data from the [Y Combinator](https://www.ycombinato
 
 - `yc_dynamic_data.csv`: Contains scraped dynamic fields  
 - `yc_full_data.csv`: Contains dynamic + static fields  
-```
 
-You can copy-paste this into your `README.md` file directly. Let me know if you'd like to include screenshots or a demo GIF/video section too.
 
 
