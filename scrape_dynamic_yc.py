@@ -66,7 +66,6 @@ def scrape_dynamic_fields():
                 "Short Description": description_tag,
                 "Detail URL": url
             })
-
             print(f"[{i+1}/500] Scraped: {name_tag}")
         except Exception as e:
             print(f"[{i+1}] Error: {e}")
@@ -86,7 +85,7 @@ def scrape_dynamic_fields():
 #    SCRAPE STATIC FIELDS       #
 # ----------------------------- #
 
-
+# Fetches static founder data (names and LinkedIn URLs) for a single startup row by index
 def fetch_static_data_with_index(i, row):
     url = row["Detail URL"] # Extract company detail page URL from the row
     company_name = row["Company Name"] # Extract company name from the row
