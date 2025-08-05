@@ -1,4 +1,4 @@
-# Web Scrapper Project
+# Web Scrapper
 
 ## Overview
 
