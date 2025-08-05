@@ -1,4 +1,4 @@
-# Web Scrapper Assignment - Zyner.io
+# Web Scrapper Project
 
 ## Overview
 
